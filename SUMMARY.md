@@ -1,11 +1,12 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Varumärkesmanual](README.md)
 
-## Getting Started
+## Identitet
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Vår identitet](identitet/quickstart.md)
+* [Vår logotyp](identitet/var-logotyp.md)
+* [Vår röst](identitet/publish-your-docs.md)
 
 ## Basics
 
