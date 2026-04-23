@@ -1,5 +1,21 @@
 ---
 icon: fingerprint
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Vår identitet
@@ -38,7 +54,7 @@ Verksamhetsidén beskriver vad vi gör, hur vi gör det och för vem.
 {% endtab %}
 {% endtabs %}
 
-## Smålänningar
+### Smålänningar
 
 En smålänning bär på en osviklig tro på sin egen kraft och förmåga – att kunna reda sig själv i frihet. Samtidigt vet vi att framgång aldrig byggs ensam.
 
