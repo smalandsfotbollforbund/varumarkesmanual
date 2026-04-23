@@ -10,13 +10,13 @@
 
 ## Grund
 
-* [Typografi](grund/editor.md)
-* [Färger](grund/markdown.md)
-* [Grafiska element](grund/interactive-blocks.md)
-* [Bildspråk](grund/images-and-media.md)
+* [Typografi](basics/editor.md)
+* [Färger](basics/markdown.md)
+* [Grafiska element](basics/interactive-blocks.md)
+* [Bildspråk](basics/images-and-media.md)
 
 ## Resurser
 
 ***
 
-* [Appliceringar](integrations.md)
+* [Appliceringar](basics/integrations.md)
