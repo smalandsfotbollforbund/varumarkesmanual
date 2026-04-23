@@ -17,6 +17,4 @@
 
 ## Resurser
 
-***
-
-* [Appliceringar](appliceringar.md)
+* [Appliceringar](resurser/appliceringar.md)
