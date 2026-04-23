@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Varumärkesmanual](README.md)
+* [Vår varumärkesmanual](README.md)
 
 ## Identitet
 
