@@ -20,13 +20,43 @@ layout:
 
 # Bildspråk
 
-GitBook allows you to add images and media easily to your docs. Simply drag a file into the editor, or use the file manager in the upper right corner to upload multiple images at once.
+Bilderna ska kännas äkta och nära. De ska spegla människorna, miljöerna och glädjen i vår fotboll. Hellre vardag än uppstyltat – det enkla och jordnära är vårt uttryck.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/images-hero.png" alt=""><figcaption><p>Add alt text and captions to your images</p></figcaption></figure>
+### Principer att följa
 
-{% hint style="info" %}
-You can also add images simply by copying and pasting them directly into the editor — and GitBook will automatically add it to your file manager.
-{% endhint %}
+{% stepper %}
+{% step %}
+#### Äkthet före perfektion
+
+Vi väljer hellre ett suddigt leende från en match än en perfekt arrangerad bild.
+{% endstep %}
+
+{% step %}
+#### Människorna i fokus
+
+Spelare, ledare, domare, publik och vardagshjältar. Fotbollens själ bor i människorna.
+{% endstep %}
+
+{% step %}
+#### Småländska miljöer
+
+Skogar, grusplaner, små samhällen och folkrörelsens arenor. Våra rötter ska synas.
+{% endstep %}
+
+{% step %}
+#### Glädje och känsla
+
+Det ska märkas att fotbollen är rolig, engagerande och betydelsefull.
+{% endstep %}
+{% endstepper %}
+
+### Principer att undvika
+
+* Alltför stylade eller ”stockiga” bilder utan lokal förankring.
+* Överdriven retusch som tar bort känslan av närvaro.
+* Tomma arenor eller miljöer utan människor.
+
+
 
 <details>
 
