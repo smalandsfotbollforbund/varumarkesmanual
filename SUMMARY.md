@@ -8,10 +8,15 @@
 * [Vår logotyp](identitet/var-logotyp.md)
 * [Vår röst](identitet/publish-your-docs.md)
 
-## Basics
+## Grund
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
+* [Typografi](grund/editor.md)
+* [Färger](grund/markdown.md)
+* [Grafiska element](grund/interactive-blocks.md)
+* [Bildspråk](grund/images-and-media.md)
+
+## Resurser
+
+***
+
+* [Appliceringar](integrations.md)
