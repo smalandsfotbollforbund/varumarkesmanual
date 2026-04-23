@@ -27,3 +27,19 @@ GitBook allows you to add images and media easily to your docs. Simply drag a fi
 {% hint style="info" %}
 You can also add images simply by copying and pasting them directly into the editor — and GitBook will automatically add it to your file manager.
 {% endhint %}
+
+<details>
+
+<summary><strong>Checklista för inkluderande bilder</strong></summary>
+
+* [ ] Speglar bilden den mångfald som finns i samhället? Inkludera utan att markera.
+* [ ] Hur många kvinnor/män finns det på bilderna?
+* [ ] Är bilden tagen i en miljö som stämmer överens med ämnet?
+* [ ] Vad gör personen på bilden?
+* [ ] Är personen aktiv eller passiv?
+* [ ] Om det är fler personer på bilden, hur förhåller de sig till varandra?
+* [ ] Vilken kameravinkel används?
+* [ ] Känns bilden naturlig även om du skulle byta kön på personen?
+* [ ] Om det var du på bilden, hade du velat bli framställd på samma sätt?
+
+</details>
