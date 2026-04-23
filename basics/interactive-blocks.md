@@ -1,45 +1,9 @@
 ---
-icon: hand-pointer
+icon: puzzle-piece
 ---
 
 # Grafiska element
 
-In addition to the default Markdown you can write, GitBook has a number of out-of-the-box interactive blocks you can use. You can find interactive blocks by pressing `/` from within the editor.
+Bakom färgerna och formerna finns symboler som förankrar Smålands Fotbollförbund i både vår historia och vår framtid. De är hämtade ur landskapet, kulturen och människorna – och de bär berättelsen om vilka vi är.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/interactive-hero.png" alt=""><figcaption></figcaption></figure>
-
-### Tabs
-
-{% tabs %}
-{% tab title="First tab" %}
-Each tab is like a mini page — it can contain multiple other blocks, of any type. So you can add code blocks, images, integration blocks and more to individual tabs in the same tab block.
-{% endtab %}
-
-{% tab title="Second tab" %}
-Add images, embedded content, code blocks, and more.
-
-```javascript
-const handleFetchEvent = async (request, context) => {
-    return new Response({message: "Hello World"});
-};
-```
-{% endtab %}
-{% endtabs %}
-
-### Expandable sections
-
-<details>
-
-<summary>Click me to expand</summary>
-
-Expandable blocks are helpful in condensing what could otherwise be a lengthy paragraph. They are also great in step-by-step guides and FAQs.
-
-</details>
-
-### Embedded content
-
-{% embed url="https://www.youtube.com/watch?v=YILlrDYzAm4" %}
-
-{% hint style="info" %}
-GitBook supports thousands of embedded websites out-of-the-box, simply by pasting their links. Feel free to check out which ones[ are supported natively](https://iframely.com).
-{% endhint %}
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th></tr></thead><tbody><tr><td><h4><i class="fa-cat-space">:cat-space:</i></h4></td><td><strong>Lejonet</strong></td><td>Kopplar till Smålands landskapsvapen och symboliserar styrka och envishet.</td><td></td><td></td></tr><tr><td><h4><i class="fa-trees">:trees:</i></h4></td><td><strong>Skogen</strong></td><td>Det gröna står för den småländska naturen, tillväxt och framtidstro.</td><td></td><td></td></tr><tr><td><h4><i class="fa-mountains">:mountains:</i></h4></td><td><strong>Jorden &#x26; berget</strong></td><td>Beige representerar rötterna, historien och förankringen i Smålands mylla.</td><td></td><td></td></tr><tr><td><h4><i class="fa-sunglasses">:sunglasses:</i></h4></td><td><strong>Klarheten</strong></td><td>Vitt och grått skapar balans och transparens i kommunikationen och står för glaset från glasriket.</td><td></td><td></td></tr></tbody></table>

@@ -1,5 +1,5 @@
 ---
-icon: wreath-laurel
+icon: fingerprint
 ---
 
 # Vår identitet
