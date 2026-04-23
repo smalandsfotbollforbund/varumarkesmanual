@@ -4,19 +4,19 @@
 
 ## Identitet
 
-* [Vår identitet](identitet/quickstart.md)
-* [Vår logotyp](identitet/var-logotyp.md)
-* [Vår röst](identitet/publish-your-docs.md)
+* [Vår identitet](identitet/identitet.md)
+* [Vår logotyp](identitet/logotyp.md)
+* [Vår röst](identitet/rost.md)
 
 ## Grund
 
-* [Typografi](basics/editor.md)
-* [Färger](basics/markdown.md)
-* [Grafiska element](basics/interactive-blocks.md)
-* [Bildspråk](basics/images-and-media.md)
+* [Typografi](grund/typografi.md)
+* [Färger](grund/farger.md)
+* [Grafiska element](grund/element.md)
+* [Bildspråk](grund/bildsprak.md)
 
 ## Resurser
 
 ***
 
-* [Appliceringar](basics/integrations.md)
+* [Appliceringar](appliceringar.md)
