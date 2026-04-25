@@ -1,9 +1,5 @@
 # Vår varumärkesmanual
 
-Welcome to the GitBook starter template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
-
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
-
 Smålands Fotbollförbund är en folkrörelse med djupa rötter i den småländska myllan. Vi bär på ett arv av envishet, hårt arbete och samarbete – och precis som våra skogar och berg är vi uthålliga och rotade i vår historia. Samtidigt är vi en rörelse i ständig utveckling, där fotbollen är bron mellan generationer, platser och människor.
 
 **Vision.** Fotboll för alla – i hela Småland, hela livet, i takt med tiden.\
