@@ -1,6 +1,5 @@
 ---
 description: Typsnitt, grader, radavstånd, officemiljö
-icon: text
 layout:
   width: default
   title:

@@ -1,6 +1,5 @@
 ---
 description: Tonalitet, språkregler, kanalspecifikt
-icon: head-side-speak
 layout:
   width: default
   title:

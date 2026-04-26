@@ -1,6 +1,5 @@
 ---
 description: Bildprinciper, manér, ej tillåtet
-icon: image-landscape
 layout:
   width: default
   title:

@@ -1,6 +1,5 @@
 ---
 description: Färgpalett, proportioner, användning
-icon: fill-drip
 layout:
   width: default
   title:

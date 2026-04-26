@@ -1,5 +1,4 @@
 ---
-icon: plug-circle-plus
 layout:
   width: default
   title:

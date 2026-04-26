@@ -1,6 +1,5 @@
 ---
 description: Toning, ramar, grafiska element
-icon: puzzle-piece
 layout:
   width: default
   title:

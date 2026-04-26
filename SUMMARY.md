@@ -2,15 +2,15 @@
 
 * [Vår varumärkesmanual](README.md)
 
-## Identitet
+## Grund
 
-* [Den småländska andan](identitet/den-smalandska-andan.md)
-* [Vår identitet](identitet/identitet.md)
-* [Vår röst](identitet/rost.md)
+* [Den småländska andan](grund/den-smalandska-andan.md)
+* [Vår identitet](grund/identitet.md)
+* [Vår röst](grund/rost.md)
 
 ## Visuellt system
 
-* [Vår logotyp](visuellt-system/logotyp/README.md)
+* [Logotyp](visuellt-system/logotyp/README.md)
   * [Relation till SvFF](visuellt-system/logotyp/relation-till-svff.md)
 * [Färger](visuellt-system/farger.md)
 * [Typografi](visuellt-system/typografi.md)
@@ -18,13 +18,13 @@
 * [Bildspråk](visuellt-system/bildsprak.md)
 * [Småländska symboler](visuellt-system/smalandska-symboler.md)
 
-## Resurser
+## I praktiken
 
-* [Webb, sociala medier och nyhetsbrev](resurser/digitalt.md)
-* [Affisch, programblad, banderoll, vepa, skylt](resurser/tryck.md)
-* [PowerPoint, Word m.m.](resurser/presentation.md)
-* [Rörligt och ljud](resurser/rorligt-och-ljud.md)
-* [Profilkläder, matchdag och eventdekoration](resurser/merchandise-och-event.md)
+* [Webb, sociala medier och nyhetsbrev](i-praktiken/digitalt.md)
+* [Affisch, programblad, banderoll, vepa, skylt](i-praktiken/tryck.md)
+* [PowerPoint, Word m.m.](i-praktiken/presentation.md)
+* [Rörligt och ljud](i-praktiken/rorligt-och-ljud.md)
+* [Profilkläder, matchdag och eventdekoration](i-praktiken/merchandise-och-event.md)
 
 ## Bilagor
 

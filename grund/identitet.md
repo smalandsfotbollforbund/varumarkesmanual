@@ -1,6 +1,5 @@
 ---
 description: Vision, mission, verksamhetsidé, värderingar
-icon: fingerprint
 layout:
   width: default
   title:

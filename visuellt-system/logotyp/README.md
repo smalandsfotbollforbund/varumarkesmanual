@@ -1,6 +1,5 @@
 ---
 description: Emblem, lejonet ensamt, varianter, friyta, storlek
-icon: shield
 layout:
   width: default
   title:
@@ -19,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Vår logotyp
+# Logotyp
 
 ***
 
