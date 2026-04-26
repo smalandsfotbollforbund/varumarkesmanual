@@ -19,7 +19,11 @@ layout:
 
 # Vår varumärkesmanual
 
-> #### _**“Från mylla till mål.”**_ Det är mer än en tagline. Det är vår självbild – jordnära, uthållig och alltid på väg framåt.
+{% hint style="danger" icon="paw-claws" %}
+## Från mylla till mål…
+
+Det är mer än en slogan. Det är vår självbild. Jordnära, uthållig och alltid på väg framåt.
+{% endhint %}
 
 Det här är det operativa verktyget för alla som skapar kommunikation för eller på uppdrag av Smålands Fotbollförbund. Den gäller internt för personal och kommittéer och externt för byråer och leverantörer vi anlitar.
 
@@ -76,18 +80,6 @@ Följande kan produceras utan godkännande men ska **följa manualen:**
 
 ***
 
-### Versionsstyrning
-
-Manualen versionshanteras i detta GitHub-repo. Alla ändringar dokumenteras i README.md:s versionshistorik.
-
-| Versionsnivå        | Innebär                         | Beslutas av       |
-| ------------------- | ------------------------------- | ----------------- |
-| Patch (1.0 → 1.0.1) | Rättning av fel, tydliggörande  | Distriktschefen   |
-| Minor (1.0 → 1.1)   | Nytt kapitel, komplettering     | Distriktschefen   |
-| Major (1.0 → 2.0)   | Omarbetad identitet, ny logotyp | Förbundsstyrelsen |
-
-***
-
 ### Tillgång till filer och mallar
 
 | Material                      | Kontakt                                      |
@@ -113,8 +105,3 @@ maria.hellstromer@svenskfotboll.se\
 +46 70 295 09 37
 
 **Webbplats:** smalandsfotbollen.se
-
-—-
-
-### Grund
-
