@@ -1,0 +1,2 @@
+# Småländsk symboler
+
