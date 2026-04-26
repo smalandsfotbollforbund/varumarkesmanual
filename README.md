@@ -1,11 +1,96 @@
-# Vår varumärkesmanual
+# Smålands Fotbollförbund – Varumärkesmanual
 
-Smålands Fotbollförbund är en folkrörelse med djupa rötter i den småländska myllan. Vi bär på ett arv av envishet, hårt arbete och samarbete – och precis som våra skogar och berg är vi uthålliga och rotade i vår historia. Samtidigt är vi en rörelse i ständig utveckling, där fotbollen är bron mellan generationer, platser och människor.
+**Version:** 1.0  
+**Gäller från:** 2025  
+**Ägs av:** Distriktschefen, Smålands Fotbollförbund  
+**Frågor:** [ansvarig@smalandsfotbollen.se]
 
-**Vision.** Fotboll för alla – i hela Småland, hela livet, i takt med tiden.\
-**Mission.** Vi stärker föreningsliv och människors möjlighet att växa genom fotboll.\
-**Verksamhetsidé.** Vi är ett nav för stöd, samverkan och utveckling – och främjar, utvecklar och administrerar fotbollens alla former i Småland.
+-----
 
-### Jump right in
+> *“Från mylla till mål.”*  
+> Det är mer än en tagline. Det är vår självbild – jordnära, uthållig och alltid på väg framåt.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-bolt">:bolt:</i></h4></td><td><strong>Quickstart</strong></td><td>Create your first site</td><td></td><td></td><td><a href="identitet/identitet.md">identitet.md</a></td></tr><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>Editor basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><h4><i class="fa-globe-pointer">:globe-pointer:</i></h4></td><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="identitet/rost.md">rost.md</a></td></tr></tbody></table>
+-----
+
+## Vad är den här manualen?
+
+Det här är det operativa verktyget för alla som skapar kommunikation för eller på uppdrag av Smålands Fotbollförbund. Den gäller internt för personal och kommittéer, och externt för byråer och leverantörer vi anlitar.
+
+Manualen svarar på tre frågor:
+
+- **Vem är vi?** – identitet, värderingar och röst
+- **Hur ser vi ut?** – logotyp, färg, typografi och designelement
+- **Hur gör vi det?** – mallar och riktlinjer per kanal och tillämpning
+
+Den är inte en inspirationskälla. Den är ett beslut.
+
+-----
+
+## Relation till Svenska Fotbollförbundet
+
+Smålands Fotbollförbund är ett av SvFF:s 24 distriktsförbund. Vi delar typografi (SvFF Trim + Stag Sans), delar kopplingsfärger (nationell blå, ljusblå och gul), och uppträder på smalandsfotbollen.se som är byggd i SvFF:s infrastruktur med SvFF:s primärfärger.
+
+Det innebär att vår visuella identitet måste fungera i **två lägen:**
+
+|Läge          |Kontext                                           |Primärfärg                             |
+|--------------|--------------------------------------------------|---------------------------------------|
+|**Nationellt**|smalandsfotbollen.se, SvFF-kanaler, samprofilering|SvFF-blå #005293                       |
+|**Småländskt**|Egna kanaler, trycksaker, event, merchandise      |Smålandsröd #A91C1C + Skogsgrön #2F5731|
+
+Det småländska läget är **aldrig underordnat** det nationella. De är parallella – och kompletterar varandra.
+
+-----
+
+## Innehållsförteckning
+
+### Grund
+
+|Fil                     |Innehåll                                    |
+|------------------------|--------------------------------------------|
+|<00-inledning.md>       |Den småländska andan                        |
+|<01-identitet.md>       |Vision, mission, verksamhetsidé, värderingar|
+|<02-roest-och-spraak.md>|Tonalitet, språkregler, kanalspecifikt      |
+
+### Visuellt system
+
+|Fil                          |Innehåll                                          |
+|-----------------------------|--------------------------------------------------|
+|<03-logotyp.md>              |Emblem, lejonet ensamt, varianter, friyta, storlek|
+|<04-logotyp-relation-svff.md>|Samprofilering, hierarki, kompositlogotyper       |
+|<05-faerg.md>                |Färgpalett, proportioner, användning              |
+|<06-typografi.md>            |Typsnitt, grader, radavstånd, officemiljö         |
+|<07-designelement.md>        |Toning, ramar, grafiska element                   |
+|<08-bildspraak.md>           |Bildprinciper, manér, ej tillåtet                 |
+|<09-smaalandska-symboler.md> |Lejonet, skogen, myllan – i praktiken             |
+
+### I praktiken
+
+|Fil                                 |Innehåll                                    |
+|------------------------------------|--------------------------------------------|
+|<10-tilllaempningar-digitalt.md>    |Webb, sociala medier, nyhetsbrev            |
+|<11-tilllaempningar-tryck.md>       |Affisch, programblad, banderoll, vepa, skylt|
+|<12-tilllaempningar-presentation.md>|PowerPoint – SmFF.thmx + mallar             |
+|<13-roerligt-och-ljud.md>           |Video, animation                            |
+|<14-merchandise-och-event.md>       |Profilkläder, matchdag, eventdekoration     |
+
+### Förvaltning
+
+|Fil                 |Innehåll                  |
+|--------------------|--------------------------|
+|<15-foervaltning.md>|Ansvar, versioner, kontakt|
+
+### Bilagor
+
+|Fil                                  |Innehåll                      |
+|-------------------------------------|------------------------------|
+|<bilagor/checklista-foer-byraan.md>  |Snabbreferens vid utläggning  |
+|<bilagor/ordlista.md>                |Ord vi använder / undviker    |
+|<bilagor/filformat-och-leveranser.md>|Tekniska krav på leveransfiler|
+
+-----
+
+## Versionshistorik
+
+|Version|Datum|Ändringar     |
+|-------|-----|--------------|
+|1.0    |2025 |Första version|
