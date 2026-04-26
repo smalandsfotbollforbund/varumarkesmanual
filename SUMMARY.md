@@ -6,7 +6,8 @@
 
 * [Den småländska andan](identitet/den-smalandska-andan.md)
 * [Vår identitet](identitet/identitet.md)
-* [Vår logotyp](identitet/logotyp.md)
+* [Vår logotyp](identitet/logotyp/README.md)
+  * [Relation till SvFF](identitet/logotyp/relation-till-svff.md)
 * [Vår röst](identitet/rost.md)
 
 ## Grund
