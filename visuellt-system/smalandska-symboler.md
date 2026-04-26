@@ -1,6 +1,10 @@
-# 09. Småländska symboler
+---
+description: Lejonet, skogen, myllan – i praktiken
+---
 
------
+# Småländska symboler
+
+***
 
 ## Symbolernas roll
 
@@ -8,7 +12,7 @@ Bakom färgerna och formerna finns symboler som förankrar Smålands Fotbollför
 
 Symbolerna är aldrig dekorativa element utan innehåll. De används med avsikt, och de kommunicerar något specifikt varje gång de syns.
 
------
+***
 
 ## Lejonet med armbost
 
@@ -20,13 +24,13 @@ Symbolerna är aldrig dekorativa element utan innehåll. De används med avsikt,
 
 **Hur det används:**
 
-- Primärt: Som del av emblematiken (se <03-logotyp.md>)
-- Sekundärt: Isolerat som identitetselement, ikon och grafisk accent
-- Tertiärt: Som storskaligt vattenmärke i bakgrunder
+* Primärt: Som del av emblematiken (se <03-logotyp.md>)
+* Sekundärt: Isolerat som identitetselement, ikon och grafisk accent
+* Tertiärt: Som storskaligt vattenmärke i bakgrunder
 
-[BILD: Lejonet med armbost – isolerat, i tre storlekar]
+\[BILD: Lejonet med armbost – isolerat, i tre storlekar]
 
------
+***
 
 ## Skogen
 
@@ -38,13 +42,13 @@ Symbolerna är aldrig dekorativa element utan innehåll. De används med avsikt,
 
 **Hur det används:**
 
-- Skogsgrön som primärfärg för rubriker, grafik och hållbarhetsrelaterade budskap
-- Fotografier från SmFF:s naturpräglade miljöer
-- Ängsgrön (`#99C1A2`) som kompletterande ljusare ton
+* Skogsgrön som primärfärg för rubriker, grafik och hållbarhetsrelaterade budskap
+* Fotografier från SmFF:s naturpräglade miljöer
+* Ängsgrön (`#99C1A2`) som kompletterande ljusare ton
 
-[BILD: Fotografier som bär skogens symbol – planfoton med trädlinje, grusplaner i skogslandskap]
+\[BILD: Fotografier som bär skogens symbol – planfoton med trädlinje, grusplaner i skogslandskap]
 
------
+***
 
 ## Myllan och berget
 
@@ -56,11 +60,11 @@ Symbolerna är aldrig dekorativa element utan innehåll. De används med avsikt,
 
 **Hur det används:**
 
-- Torparbeige som bakgrundsfärg på stora ytor
-- Fotografier av grusplaner, jordiga skor, stenmurar längs plankanten
-- I text: Berättelser om de föreningar som byggts upp från grunden i små orter
+* Torparbeige som bakgrundsfärg på stora ytor
+* Fotografier av grusplaner, jordiga skor, stenmurar längs plankanten
+* I text: Berättelser om de föreningar som byggts upp från grunden i små orter
 
------
+***
 
 ## Klarheten
 
@@ -72,11 +76,11 @@ Symbolerna är aldrig dekorativa element utan innehåll. De används med avsikt,
 
 **Hur det används:**
 
-- Vita och ljusa bakgrunder som ger kommunikationen luft
-- Enkla, rena layouts utan överflödiga element
-- Som kontrast mot Smålandsröd och Skogsgrön
+* Vita och ljusa bakgrunder som ger kommunikationen luft
+* Enkla, rena layouts utan överflödiga element
+* Som kontrast mot Smålandsröd och Skogsgrön
 
------
+***
 
 ## Samspelet mellan symbolerna
 
@@ -91,23 +95,23 @@ Klarheten (Linnevit)  →   hur vi kommunicerar det
 
 I en välgjord SmFF-kommunikation syns alla fyra – inte nödvändigtvis som fyra separata element, men som fyra egenskaper som genomsyrar helheten.
 
------
+***
 
 ## Symbolerna i praktiken – riktlinjer
 
 ### Lejonet
 
-- Ska alltid behandlas med respekt för det heraldiska ursprunget – aldrig förlöjligas eller karikatyriseras
-- Aldrig kombineras med humor på ett sätt som underminerar symbolens värdighet
-- Animerat lejon (för rörligt material) ska följa samma formspråk – organiskt, stolt, aldrig frasigt
+* Ska alltid behandlas med respekt för det heraldiska ursprunget – aldrig förlöjligas eller karikatyriseras
+* Aldrig kombineras med humor på ett sätt som underminerar symbolens värdighet
+* Animerat lejon (för rörligt material) ska följa samma formspråk – organiskt, stolt, aldrig frasigt
 
 ### Skogen och myllan
 
-- Fotografier som bär dessa symboler väljs med aktiv avsikt – inte för att det råkade bli en fin naturbild, utan för att den berättar något om Smålands fotboll
-- Undvik generiska naturbilder utan SmFF-anknytning – en skog i Norge ser likadan ut
+* Fotografier som bär dessa symboler väljs med aktiv avsikt – inte för att det råkade bli en fin naturbild, utan för att den berättar något om Smålands fotboll
+* Undvik generiska naturbilder utan SmFF-anknytning – en skog i Norge ser likadan ut
 
 ### Klarheten
 
-- Klarheten hotas av för mycket information på samma yta
-- En sida med för många element kommunicerar ingenting
-- Välj att ta bort snarare än att lägga till
+* Klarheten hotas av för mycket information på samma yta
+* En sida med för många element kommunicerar ingenting
+* Välj att ta bort snarare än att lägga till
