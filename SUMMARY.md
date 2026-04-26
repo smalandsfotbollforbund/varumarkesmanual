@@ -4,9 +4,9 @@
 
 ## Grund
 
-* [Den småländska andan](grund/den-smalandska-andan.md)
-* [Vår identitet](grund/identitet.md)
-* [Vår röst](grund/rost.md)
+* [Den småländska andan](grund/anda.md)
+* [Den småländska identiteten](grund/identitet.md)
+* [Den småländska rösten](grund/rost.md)
 
 ## Visuellt system
 
@@ -16,7 +16,7 @@
 * [Typografi](visuellt-system/typografi.md)
 * [Designelement](visuellt-system/designelement.md)
 * [Bildspråk](visuellt-system/bildsprak.md)
-* [Småländska symboler](visuellt-system/smalandska-symboler.md)
+* [Symboler](visuellt-system/symboler.md)
 
 ## I praktiken
 
