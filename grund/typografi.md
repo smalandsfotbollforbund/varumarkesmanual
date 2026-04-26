@@ -29,6 +29,8 @@ SvFF Trim
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/svff-trim.jpg" alt=""><figcaption></figcaption></figure>
+
+{% file src="../.gitbook/assets/svfftrim-condensed.zip" %}
 {% endcolumn %}
 
 {% column %}
@@ -37,6 +39,8 @@ Stag Sans
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/stag-sans.jpg" alt=""><figcaption></figcaption></figure>
+
+{% file src="../.gitbook/assets/stag-sans.zip" %}
 {% endcolumn %}
 {% endcolumns %}
 

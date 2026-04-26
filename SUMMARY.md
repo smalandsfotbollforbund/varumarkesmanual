@@ -4,6 +4,7 @@
 
 ## Identitet
 
+* [Den småländska andan](identitet/den-smalandska-andan.md)
 * [Vår identitet](identitet/identitet.md)
 * [Vår logotyp](identitet/logotyp.md)
 * [Vår röst](identitet/rost.md)
