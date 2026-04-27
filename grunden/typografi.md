@@ -6,17 +6,17 @@ description: Samma typografisystem som SvFF – för igenkänning inom fotbollsf
 
 SmFF använder samma typsnittsfamilj som Svenska Fotbollförbundet. Det skapar omedelbar igenkänning inom fotbollsfamiljen och professionell sammanhållning med den nationella identiteten.
 
-| Nivå         | Typsnitt  | Roll                                           |
-| ------------ | --------- | ---------------------------------------------- |
-| **Primär**   | SvFF Trim | Kraftfulla rubriker – alltid versaler          |
+| Nivå | Typsnitt | Roll |
+|---|---|---|
+| **Primär** | SvFF Trim | Kraftfulla rubriker – alltid versaler |
 | **Sekundär** | Stag Sans | Underrubriker, brödtext, löpande kommunikation |
-| **Fallback** | Calibri   | Officemiljö – när licensierade typsnitt saknas |
+| **Fallback** | Calibri | Officemiljö – när licensierade typsnitt saknas |
 
 {% hint style="info" %}
 **Åtkomst:** SvFF Trim och Stag Sans tillhandahålls av SvFF:s marknadsavdelning via distriktschefen. Typsnitten får inte distribueras vidare.
 {% endhint %}
 
-***
+---
 
 ## SvFF Trim – rubriktypsnitt
 
@@ -30,12 +30,12 @@ SvFF Trim är ett specialritat condensed-typsnitt. Prickar och specialtecken (Å
 {% endcolumn %}
 
 {% column %}
-| Tillämpning       | Storlek   | Radavstånd | Färg                        |
-| ----------------- | --------- | ---------- | --------------------------- |
-| Primär rubrik     | 60–120 pt | 80–90 %    | Smålandsröd eller Skogsgrön |
-| Sekundär rubrik   | 30–60 pt  | 85 %       | Samma som primär            |
-| Mot mörk bakgrund | Valfri    | 85 %       | Linnevit                    |
-| Ingress/manchett  | 20–30 pt  | 90 %       | Kolsvart                    |
+| Tillämpning | Storlek | Radavstånd | Färg |
+|---|---|---|---|
+| Primär rubrik | 60–120 pt | 80–90 % | Smålandsröd eller Skogsgrön |
+| Sekundär rubrik | 30–60 pt | 85 % | Samma som primär |
+| Mot mörk bakgrund | Valfri | 85 % | Linnevit |
+| Ingress/manchett | 20–30 pt | 90 % | Kolsvart |
 {% endcolumn %}
 {% endcolumns %}
 
@@ -43,7 +43,7 @@ SvFF Trim är ett specialritat condensed-typsnitt. Prickar och specialtecken (Å
 Trim används aldrig i gemener · kursiv · sträckt manuellt · med drop shadow eller effekter
 {% endhint %}
 
-***
+---
 
 ## Stag Sans – brödtexttypsnitt
 
@@ -57,37 +57,37 @@ Stag Sans ritades 2008 av Christian Schwartz på Commercial Type. Det kompletter
 {% endcolumn %}
 
 {% column %}
-| Skärning            | Användning                                   |
-| ------------------- | -------------------------------------------- |
-| **Semibold**        | Underrubriker, etiketter, faktarutsrubriker  |
+| Skärning | Användning |
+|---|---|
+| **Semibold** | Underrubriker, etiketter, faktarutsrubriker |
 | **Semibold Italic** | Namn och titlar som särskiljs i löpande text |
-| **Book**            | All brödtext                                 |
-| **Book Italic**     | Citat i löpande text                         |
+| **Book** | All brödtext |
+| **Book Italic** | Citat i löpande text |
 {% endcolumn %}
 {% endcolumns %}
 
-| Tillämpning         | Skärning          | Storlek  | Radavstånd |
-| ------------------- | ----------------- | -------- | ---------- |
-| Underrubrik         | Semibold          | 14–18 pt | 120 %      |
-| Brödtext            | Book              | 9–11 pt  | 130–140 %  |
-| Bildtext            | Book              | 8–9 pt   | 120 %      |
-| Etikett / faktaruta | Semibold versaler | 8–10 pt  | 110 %      |
-| Citat               | Book Italic       | 12–16 pt | 130 %      |
+| Tillämpning | Skärning | Storlek | Radavstånd |
+|---|---|---|---|
+| Underrubrik | Semibold | 14–18 pt | 120 % |
+| Brödtext | Book | 9–11 pt | 130–140 % |
+| Bildtext | Book | 8–9 pt | 120 % |
+| Etikett / faktaruta | Semibold versaler | 8–10 pt | 110 % |
+| Citat | Book Italic | 12–16 pt | 130 % |
 
-***
+---
 
 ## Calibri – officemiljö och fallback
 
 I officemiljö (PowerPoint, Word) används Calibri när SvFF Trim och Stag Sans inte är installerade. PowerPoint-mallen SmFF.thmx är konfigurerad för Calibri.
 
-| Tillämpning | Skärning      | Storlek  |
-| ----------- | ------------- | -------- |
-| Rubrik      | Bold versaler | 18–24 pt |
-| Underrubrik | Bold          | 14–16 pt |
-| Brödtext    | Regular       | 10–11 pt |
-| Citat       | Italic        | 12–14 pt |
+| Tillämpning | Skärning | Storlek |
+|---|---|---|
+| Rubrik | Bold versaler | 18–24 pt |
+| Underrubrik | Bold | 14–16 pt |
+| Brödtext | Regular | 10–11 pt |
+| Citat | Italic | 12–14 pt |
 
-***
+---
 
 ## Typografisk hierarki
 
@@ -105,14 +105,14 @@ Stag Sans Book
 "Stag Sans Book Italic – citatet som bär en röst."
 ```
 
-***
+---
 
 ## Vad vi aldrig gör
 
 {% hint style="danger" %}
-* Fler än tre typsnittsskärningar i ett dokument
-* SvFF Trim i gemener (det finns inte)
-* Brödtext i versaler – försämrar läsbarheten drastiskt
-* Manuell sträckning eller komprimering av typsnitt
-* Dekorativa alternativtypsnitt utanför de tre godkända
+- Fler än tre typsnittsskärningar i ett dokument
+- SvFF Trim i gemener (det finns inte)
+- Brödtext i versaler – försämrar läsbarheten drastiskt
+- Manuell sträckning eller komprimering av typsnitt
+- Dekorativa alternativtypsnitt utanför de tre godkända
 {% endhint %}
