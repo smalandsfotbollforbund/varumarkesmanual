@@ -1,52 +1,80 @@
+---
+description: Riktlinjer för video, animation och ljud i SmFF:s kommunikation.
+---
+
 # Rörligt innehåll
 
-## 13. Rörligt och ljud
+Rörligt innehåll är SmFF:s snabbast växande kommunikationskanal. Allt rörligt material ska följa SmFF:s visuella identitet och tonalitet – oavsett om det är en 15-sekunders Reel eller en längre dokumentär.
 
-***
+---
 
-### Video
+## Video – intro och outro
 
-Rörligt innehåll är SmFF:s snabbast växande kommunikationskanal. Allt rörligt material ska följa SmFF:s visuella identitet och tonalitet.
+**Intro (1–3 sekunder):**\
+SmFF-logotyp tonar in mot Smålandsröd eller Skogsgrön bakgrund. Alternativt: lejonet animerat från statisk position till levande – organiskt, aldrig mekaniskt.
 
-#### Intro och outro
+**Outro (3–5 sekunder):**\
+SmFF-logotyp, statisk. Eventuell tagline. Webbadress smalandsfotbollen.se. Enkel fade-ut.
 
-**Intro (1–3 sekunder):** Lejonet animerat från statisk position till levande – organiskt, inte mekaniskt. SmFF-logotypen tonar in. Bakgrundsfärg: Smålandsröd eller Skogsgrön.
+---
 
-**Outro (3–5 sekunder):** SmFF-logotypen, statisk. Eventuell tagline. Webbadress smalandsfotbollen.se. Enkel fade-ut.
+## Grafiska element i video
 
-\[PLACEHOLDER: Animationsbeskrivning intro – levereras separat till animatör]
+| Element | Specifikation |
+|---|---|
+| **Lowerthirds (namntexter)** | Stag Sans Semibold, vit text, Smålandsröd band i underkant |
+| **Rubriker** | SvFF Trim om möjligt, annars Calibri Bold versaler |
+| **Toningar** | Myللtoningen kan användas i övergångselement |
+| **Bakgrundsfärger** | SmFF:s primärpalett – aldrig okopplade färger |
 
-#### Grafiska element i video
+---
 
-* **Lowerthirds (namntexter):** Stag Sans Semibold, vit text, Smålandsröd band i underkant
-* **Rubriker:** SvFF Trim (om möjligt), annars Calibri Bold versaler
-* **Färgpalett:** Primärt röd och grön, med vita texter och neutrala ytor
-* **Toningar:** Myллtoningen kan användas som bakgrundselement i övergångselement
+## Textning
 
-#### Textning
+All video som publiceras i sociala medier och på webben ska ha **undertexter**. Det ökar tillgängligheten och räckvidden – många tittar utan ljud.
 
-All video som publiceras i sociala medier och på webben ska ha **undertexter/textning**. Det ökar tillgängligheten och räckvidden (många tittar utan ljud).
+- Textningstypsnitt: plattformens standardtypsnitt (aldrig SvFF Trim i textning – läses för långsamt)
+- Placering: nedre tredjedel av bilden, centrerat
+- Bakgrund: halvtransparent mörk (om plattformen tillåter) eller vit text med kontur
 
-Textningstypsnitt: Systemtypsnitt (plattformens standard). Aldrig SvFF Trim i textning – det läses inte tillräckligt snabbt.
+---
 
-#### Musikval
+## Tekniska specifikationer
 
-SmFF har ingen definierad ljud- eller musikidentitet. Riktlinjer för musikval i video:
+| Typ | Format | Upplösning | Bildfrekvens |
+|---|---|---|---|
+| Sociala medier (standard) | MP4, H.264 | 1 080 × 1 080 px eller 1 080 × 1 920 px | 25 eller 30 fps |
+| Sociala medier (liggande) | MP4, H.264 | 1 920 × 1 080 px | 25 eller 30 fps |
+| Webb (längre format) | MP4, H.264 | Min 1 080p | 25 fps |
 
-* Välj musik som förstärker känslan av gemenskap och engagemang
-* Undvik aggressiv eller trendig popmusik som snabbt daterar materialet
-* Alltid med licens (STIM-licens, royalty-free eller egenproducerat)
-* Aldrig använda populärmusik utan klar licensieringsrätt
+---
 
-***
+## Musikval
 
-### Animation av logotypen
+SmFF har ingen definierad ljudidentitet. Riktlinjer för musikval:
+
+- Välj musik som förstärker känslan av gemenskap och engagemang
+- Undvik aggressiv eller trendig popmusik som snabbt daterar materialet
+- Alltid med licens: STIM-licens, royalty-free eller egenproducerat
+- Aldrig använda populärmusik utan klar licensieringsrätt
+
+---
+
+## Animation av logotypen
 
 Logotypen animeras aldrig på sätt som:
+- Deformerar formen
+- Separerar texten från lejonet (undantag: definierat intro/outro)
+- Snurrar runt sin axel
+- Förändrar färg utanför godkänd palett
 
-* Deformerar formen
-* Separerar texten från lejonet (undantag: definerat intro/outro)
-* Snurrar runt sin axel
-* Förändrar färg utanför godkänd palett
+**Tillåtna animationer:** Fade in/out · Skala upp från litet till normal storlek · Rörelse in från kant.
 
-Tillåtna animationer: Fade in/out, skala upp från litet till normal storlek, rörelse in från kant.
+---
+
+## Leveranskrav för video
+
+- Exporterat format: MP4, H.264, minst 1 080p
+- Källfiler lämnas om SmFF begär det
+- Undertextfil (.srt) om textning ingår
+- Filnamn enligt konventionen: `SmFF_[beskrivning]_[version]_[datum].mp4`
