@@ -1,102 +1,172 @@
 ---
-description: Vision, mission, verksamhetsidé, värderingar
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
-  tags:
-    visible: true
+description: De fem egenskaperna som definierar SmFF:s personlighet – och styr varje kommunikationsbeslut.
 ---
 
-# Vår identitet
+# Varumärkesattribut
 
-## Vår identitet
+SmFF:s fem attribut är inte värderingar på en vägg. De är ett operativt ramverk. När något känns rätt för SmFF – det är för att ett eller flera av dessa attribut är på plats. Varje attribut bryts ned i tre dimensioner: **Text**, **Design** och **Upplevelse**.
 
-Smålands Fotbollförbund är en folkrörelse med djupa rötter i den småländska myllan. Vi bär på ett arv av envishet, hårt arbete och samarbete – och precis som våra skogar och berg är vi uthålliga och rotade i vår historia. Samtidigt är vi en rörelse i ständig utveckling, där fotbollen är bron mellan generationer, platser och människor.
+{% hint style="info" %}
+**Så här används de:** Nästa gång du skapar kommunikation – ställ dig frågan: vilket attribut är mest relevant här? Och syns det i texten, designen och upplevelsen?
+{% endhint %}
 
-## 01. Identitet
+---
 
-{% include "https://app.gitbook.com/s/tDLjtUhYJqG5cjWfxJyI/~/reusable/kfvaKWOYPPYx7FyPpy1t/" %}
+## Rotad
 
-### Våra värderingar
+*Vi vet var vi kommer från.*
 
-Värderingarna är inte en lista att läsa – de är ett sätt att handla. De ska synas i hur vi beter oss, inte bara i vad vi säger.
+Varumärket är djupt förankrat i Småland – i landskapet, kulturen och folkrörelsetraditionen. Vi är aldrig generiska, aldrig distanserade, aldrig "vilken organisation som helst."
 
-#### Gemenskap
+{% tabs %}
+{% tab title="Text" %}
+- Referera till Småland och det småländska som faktisk kontext – inte bara geografisk etikett
+- Namnge orter, föreningar och platser: det konkreta är mer äkta än det abstrakta
+- Undvik global marknadsföringsjargong – vi är en regional folkrörelse, inte ett varumärke
+- Berätta historier om hur fotbollen byggts upp i Småland, generation efter generation
+{% endtab %}
 
-Fotboll är en lagspelssport. Det gäller på planen och i föreningslivet. Vi bygger broar mellan föreningar, orter och generationer. Vi säger “vi” mer än “jag”.
+{% tab title="Design" %}
+- Smålandsröd och Skogsgrön väljs inte för att de är snygga – utan för att de är sanna
+- Fotografier ska ha lokalt igenkänningsvärde: grusplaner, skogslandskap, små samhällen
+- Lejonet med armbost är Smålands eget – det används aldrig slentrianmässigt
+- Formspråket hämtar organiska former från naturen – aldrig hårda tekniska geometrier utan mening
+{% endtab %}
 
-#### Envishet
+{% tab title="Upplevelse" %}
+- Kommunikation ska alltid kännas som att den kommer från någon som _faktiskt_ är i Småland
+- Möten och event speglar folkrörelsens öppenhet – alla är välkomna, ingen är bättre
+- Svara på mejl med en ton som signalerar att vi känner våra föreningar, inte att de är ett ärende
+{% endtab %}
+{% endtabs %}
 
-Den småländska envishet är inte trångsynthet – det är uthållighet. Vi ger inte upp när det är svårt. Vi hittar vägar när det inte finns färdiga svar.
+---
 
-#### Tillgänglighet
+## Envis
 
-Fotboll ska vara för alla – oavsett bakgrund, kön, ålder eller förmåga. Det är inte en politisk ståndpunkt. Det är en beskrivning av vad fotbollen faktiskt är när den är som bäst.
+*Vi ger inte upp.*
 
-#### Äkthet
+Den småländska envishet som odlar på stenig mark. Vi hittar vägar när det inte finns färdiga svar. Vi stannar kvar när det är svårt.
 
-Vi är en folkrörelse, inte ett företag. Det syns i tonen, i bilderna och i valen vi gör. Vi väljer hellre det genuina framför det polerade.
+{% tabs %}
+{% tab title="Text" %}
+- Skriv om utmaningar utan att förlora framåtrörelsen: erkänn svårigheterna, visa vägen framåt
+- Undvik passiva konstruktioner – vi handlar, vi gör, vi bestämmer
+- Berätta om motgångar och hur de övervunnits – äkta berättelser om uthållighet
+- Prioritera konkreta framsteg framför visionära abstrakta
+{% endtab %}
 
-***
+{% tab title="Design" %}
+- Rubriker i SvFF Trim är ett visuellt uttryck för envishet – kompakt, kraftfullt, inga ursäkter
+- Begränsade resurser → begränsad palett. Det är styrka, inte brist
+- Designa för att hålla – välj skalbart och enkelt framför trendrörligt och komplext
+{% endtab %}
 
-### Positionering
+{% tab title="Upplevelse" %}
+- Följ upp. Återkom. Håll det du lovar
+- Var konsekvent i kommunikationen – samma röst, oavsett kanal eller dag
+- Förenkla det komplicerade: ge en förening ett enkelt svar, inte fem hänvisningar
+{% endtab %}
+{% endtabs %}
 
-Smålands Fotbollförbund är ett av SvFF:s 24 distriktsförbund. I fotbollsstrukturen är vi det regionala navet mellan de lokala föreningarna och det nationella förbundet.
+---
 
-**Vad vi gör:**
+## Tillsammans
 
-* Administrerar och organiserar fotbollsverksamheten i Småland
-* Stödjer föreningar i utbildning, ledarskap och administration
-* Representerar Smålands fotboll gentemot SvFF och RFSISU Småland
-* Bedriver utbildningsverksamhet för domare, ledare och spelare
+*Vi jagar i flock.*
 
-**Vad vi inte är:**
+Lejonet med armbost är inte en ensam krigare – det är ett djur som är starkast i samarbete. Fotbollen är ett lagspel. Föreningslivet är ett nätverk. SmFF är ett nav, inte en topp.
 
-* En idrottsklubb
-* En kommersiell aktör
-* En marknadsföringsorganisation för enskilda föreningar
+{% tabs %}
+{% tab title="Text" %}
+- Säg "vi" mer än "ni" och "jag" – gemenskap är aktiv, inte tilldelad
+- Lyfta fram föreningarna, ledarna och spelarna – de är varumärket i praktiken
+- Dela framgångar brett: aldrig ensam i strålkastarljuset
+- Skriv _om_ folk, inte _till_ dem från ovan
+{% endtab %}
 
-***
+{% tab title="Design" %}
+- Bilder på grupper, lag och gemensamma stunder prioriteras framför solobilder
+- Kompositlogotyper (SmFF + SvFF) visar att vi samarbetar
+- Undvik hierarkiska layouter som signalerar ett centrum och en periferi
+{% endtab %}
 
-### Namngivning
+{% tab title="Upplevelse" %}
+- Inkludera föreningarna i kommunikationen – be om deras berättelser, inte bara deras deltagande
+- Dela kunskap och verktyg öppet: varumärkesmanualen är tillgänglig, inte låst
+- Skapa forum för dialog, inte envägsinformation
+{% endtab %}
+{% endtabs %}
 
-Användning av organisationens namn i kommunikation:
+---
 
-| Sammanhang                                 | Formulering             |
-| ------------------------------------------ | ----------------------- |
-| Fullständigt officiellt namn               | Smålands Fotbollförbund |
-| Förkortning (andra omnämnandet och framåt) | SmFF                    |
-| Vardagligt (internt och informellt)        | Förbundet               |
-| Webbdomän och digitalt                     | smalandsfotbollen.se    |
-| I löpande text, efter första omnämnandet   | vi / förbundet          |
+## Äkta
 
-**Skriv aldrig:** “Smålands FF”, “SmFF:et”, “Smalandsfotbollen” (utan å) eller “distriktsförbundet” som egennamn utan förtydligande kontext.
+*Vi är som vi är.*
 
-**På engelska:** Smålands Football Association (SmFF)
+Folkrörelsens autenticitet är vår starkaste tillgång. Vi väljer hellre ett suddigt leende från Alvesta än en perfekt reklamfoto utan lokal förankring.
 
-***
+{% tabs %}
+{% tab title="Text" %}
+- Skriv som du talar – naturligt, direkt, utan omskrivningar
+- Erkänn när saker är svåra eller ofärdiga – osäkerhet är mänskligare än fasad
+- Undvik marknadsföringsspråk som skapar distans
+- Citat och röster från riktiga människor väger tyngre än redaktionell text
+{% endtab %}
 
-### Vad SmFF är del av
+{% tab title="Design" %}
+- Bilder ska vara autentiska: verkliga platser, verkliga människor, verkliga ögonblick
+- Aldrig AI-genererade bilder – det är det motsatta av äkta
+- Enkla, rena layouter utan onödiga dekorativa lager
+- Välj det som fungerar framför det som imponerar
+{% endtab %}
 
-```
-UEFA
-  │     ├── Riksidrottsförbundet (RF) / SISU Idrottsutbildarna
-              └── RF-SISU Småland
-  └── Svenska Fotbollförbundet (SvFF)
-        └── Distriktsförbund (24 st)
-              └── Smålands Fotbollförbund (SmFF)
-                    └── Medlemsföreningar i Småland
-```
+{% tab title="Upplevelse" %}
+- Svara på kritik och frågor öppet – inte med PR-formuleringar
+- Visa upp organisationen som den faktiskt är, inte som vi vill att den ska verka
+- Välj det hangjorda framför det polerade när det är möjligt
+{% endtab %}
+{% endtabs %}
 
-Denna kedja är viktig att förstå. Vi är inte underordnade SvFF i identitetsfrågor – men vi följer SvFF:s riktlinjer för grafisk identitet på de ytor och i de sammanhang där SvFF-strukturen är primär (se <04-logotyp-relation-svff.md>).
+---
+
+## Framåt
+
+*Vi är alltid på väg.*
+
+Fotbollen är i rörelse. Småland är i rörelse. SmFF driver på, stillastår aldrig. Vi blickar tillbaka för att lära – men vi rör oss framåt.
+
+{% tabs %}
+{% tab title="Text" %}
+- Tala om framtiden med entusiasm och konkrethet: vad händer härnäst?
+- Undvik nostalgisering som ett mål i sig – historien tjänar framtiden
+- Visa riktning: "vi arbetar mot", "vi fokuserar på", "nästa steg är"
+- Dela lärdomar och experiment öppet: en organisation som lär sig offentligt rör sig framåt
+{% endtab %}
+
+{% tab title="Design" %}
+- Myллtoningen är designelementet för rörelse – organisk, aldrig linjär, alltid i förändring
+- Typografi i SvFF Trim signalerar självförtroende och framåtanda
+- Bilder fångar rörelse och energi: löpande, sparkar, firande, interaktioner
+{% endtab %}
+
+{% tab title="Upplevelse" %}
+- Kommunicera tidigt om nya initiativ och förändringar – inte i efterhand
+- Bjud in föreningarna i framtidsarbetet, inte bara till beslut som redan är tagna
+- Testa, utvärdera och dela: en varumärkesplattform som uppdateras är ett varumärke som lever
+{% endtab %}
+{% endtabs %}
+
+---
+
+## Attributen i kombination
+
+I de starkaste kommunikationsprodukterna syns flera attribut samtidigt. Några naturliga kombinationer:
+
+| Situation | Primärt attribut | Stödjande |
+|---|---|---|
+| Matchresultat, eventkommunikation | **Framåt** | Tillsammans |
+| Utbildning, stöd till föreningar | **Rotad** | Tillsammans |
+| Svar på kritik eller utmanande frågor | **Äkta** | Envis |
+| Rekrytering, årsberättelse | **Rotad** | Framåt |
+| Kriskommunkation | **Äkta** | Envis |
