@@ -1,5 +1,6 @@
 ---
 description: Vart SmFF är på väg och varför det spelar roll.
+icon: bullseye
 ---
 
 # Vision & mission
@@ -10,7 +11,7 @@ description: Vart SmFF är på väg och varför det spelar roll.
 
 Visionen är vår riktning på lång sikt. Den visar vart vi är på väg. Den formuleras alltid i sin helhet – aldrig förkortas eller omformuleras i officiell kommunikation.
 
----
+***
 
 ## Mission
 
@@ -18,7 +19,7 @@ Visionen är vår riktning på lång sikt. Den visar vart vi är på väg. Den f
 
 Missionen är vad vi gör, varje dag. Den är ett löfte till Smålands föreningar och en förklaring till omvärlden om varför vi finns.
 
----
+***
 
 ## Verksamhetsidé
 
@@ -26,7 +27,7 @@ Missionen är vad vi gör, varje dag. Den är ett löfte till Smålands förenin
 
 Verksamhetsidén är mer operativ än visionen och missionen. Den beskriver hur vi arbetar, inte bara varför.
 
----
+***
 
 ## Positionering
 
@@ -44,19 +45,19 @@ UEFA
 Vår styrka är inte vad vi gör – det är _för vem_ vi gör det. Fotbollen finns i föreningarna. SmFF finns för att föreningarna ska kunna finnas.
 {% endhint %}
 
----
+***
 
 ## Namngivning
 
 Användning av organisationens namn i kommunikation:
 
-| Sammanhang | Formulering |
-|---|---|
-| Fullständigt officiellt namn | Smålands Fotbollförbund |
-| Förkortning (andra omnämnandet och framåt) | SmFF |
-| Vardagligt (internt och informellt) | Förbundet |
-| Webb och digitalt | smalandsfotbollen.se |
-| På engelska | Smålands Football Association (SmFF) |
+| Sammanhang                                 | Formulering                          |
+| ------------------------------------------ | ------------------------------------ |
+| Fullständigt officiellt namn               | Smålands Fotbollförbund              |
+| Förkortning (andra omnämnandet och framåt) | SmFF                                 |
+| Vardagligt (internt och informellt)        | Förbundet                            |
+| Webb och digitalt                          | smalandsfotbollen.se                 |
+| På engelska                                | Smålands Football Association (SmFF) |
 
 {% hint style="danger" %}
 **Skriv aldrig:** "Smålands FF" · "SmFF:et" · "distriktsförbundet" som egennamn utan förtydligande kontext · "Smalandsfotbollen" (utan å).

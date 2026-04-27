@@ -1,4 +1,5 @@
 ---
+icon: tent-circus
 layout:
   width: default
   title:
@@ -17,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Profilkläder, matchdag och eventdekoration
+# Merchandise & event
 
 ## 14. Merchandise och event
 

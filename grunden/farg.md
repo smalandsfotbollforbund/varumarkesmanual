@@ -1,12 +1,15 @@
 ---
-description: SmFF:s färger är hämtade ur det småländska landskapet. Varje färg bär en berättelse.
+description: >-
+  SmFF:s färger är hämtade ur det småländska landskapet. Varje färg bär en
+  berättelse.
+icon: swatchbook
 ---
 
 # Färg
 
 Färgerna i Smålands Fotbollförbunds grafiska profil är inte valda av en slump – de bär på berättelser och känslor som förankrar oss i både historien och framtiden. Paletten speglar Smålands envishet, skogar och rötter – rött för kampen, grönt för tillväxten och beige för historien. Vitt och grått skapar balans, och paletten är vald för att samspela med de blåa färger som används på smalandsfotbollen.se och i SvFF:s varumärkesmanual.
 
----
+***
 
 ## Primärfärger
 
@@ -22,19 +25,19 @@ SmFF ska primärt upplevas som **röd**. Det gröna är stödjande – alltid ko
 **OBS vid screentryck:** Kontrollera alltid Smålandsröd mot ett tryckt referensprov. Skärmfärg och tryckt färg kan skilja sig. Vid nyproduktion används alltid `#A91C1C`.
 {% endhint %}
 
----
+***
 
 ## Accentfärger
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><sup><sub>C10 M11 Y18 K0</sub></sup></td><td><sup><sub>R226 G219 B208</sub></sup></td><td><sup><sub>#E2DBD0</sub></sup></td><td><strong>Torparbeige</strong></td><td><p>Inspirerad av torpargrus, linnevävar och gamla landsvägar. Förmedlar samarbete, tålamod och samhörighet.</p><p>Används till: bakgrunder, kontraster och stora ytor i presentationer.</p></td><td><a href="https://singlecolorimage.com/get/e2dbd0/300x175">https://singlecolorimage.com/get/e2dbd0/300x175</a></td></tr><tr><td><sup><sub>C30 M0 Y25 K15</sub></sup></td><td><sup><sub>R153 G193 B162</sub></sup></td><td><sup><sub>#99C1A2</sub></sup></td><td><strong>Ängsgrön</strong></td><td><p>Inspirerad av öppna landskap och vårens skiftningar. Ger en känsla av öppenhet och ungdomlighet.</p><p>Används till: markeringar, illustrationer och stödjande detaljer.</p></td><td><a href="https://singlecolorimage.com/get/99c1a2/300x175">https://singlecolorimage.com/get/99c1a2/300x175</a></td></tr></tbody></table>
 
----
+***
 
 ## Basfärger
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><sup><sub>C0 M0 Y0 K80</sub></sup></td><td><sup><sub>R51 G51 B51</sub></sup></td><td><sup><sub>#333333</sub></sup></td><td><strong>Kolsvart</strong></td><td><p>Inspirerad av järn och småländsk verkstadstradition. Används som brödtext, starka kontraster och grafiska element.</p><p>Välj #333333 framför ren svart – mjukare tryckt intryck och bättre skärmläsbarhet.</p></td><td><a href="https://singlecolorimage.com/get/333333/300x175">https://singlecolorimage.com/get/333333/300x175</a></td></tr><tr><td><sup><sub>C4 M3 Y3 K0</sub></sup></td><td><sup><sub>R242 G242 B242</sub></sup></td><td><sup><sub>#F2F2F2</sub></sup></td><td><strong>Stenmursgrå</strong></td><td><p>Inspirerad av gamla stenmurar. Används till bakgrundsfärg och blockytor – alternativ till rent vitt.</p></td><td><a href="https://singlecolorimage.com/get/f2f2f2/300x175">https://singlecolorimage.com/get/f2f2f2/300x175</a></td></tr><tr><td><sup><sub>C0 M0 Y0 K0</sub></sup></td><td><sup><sub>R255 G255 B255</sub></sup></td><td><sup><sub>#FFFFFF</sub></sup></td><td><strong>Linnevit</strong></td><td><p>Inspirerad av ljusa linnevävar. Primär bakgrund i presentationer, webb och tryck.</p></td><td><a href="https://singlecolorimage.com/get/ffffff/300x175">https://singlecolorimage.com/get/ffffff/300x175</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><sup><sub>C0 M0 Y0 K80</sub></sup></td><td><sup><sub>R51 G51 B51</sub></sup></td><td><sup><sub>#333333</sub></sup></td><td><strong>Kolsvart</strong></td><td><p>Inspirerad av järn och småländsk verkstadstradition. Används som brödtext, starka kontraster och grafiska element.</p><p>Välj #333333 framför ren svart – mjukare tryckt intryck och bättre skärmläsbarhet.</p></td><td><a href="https://singlecolorimage.com/get/333333/300x175">https://singlecolorimage.com/get/333333/300x175</a></td></tr><tr><td><sup><sub>C4 M3 Y3 K0</sub></sup></td><td><sup><sub>R242 G242 B242</sub></sup></td><td><sup><sub>#F2F2F2</sub></sup></td><td><strong>Stenmursgrå</strong></td><td>Inspirerad av gamla stenmurar. Används till bakgrundsfärg och blockytor – alternativ till rent vitt.</td><td><a href="https://singlecolorimage.com/get/f2f2f2/300x175">https://singlecolorimage.com/get/f2f2f2/300x175</a></td></tr><tr><td><sup><sub>C0 M0 Y0 K0</sub></sup></td><td><sup><sub>R255 G255 B255</sub></sup></td><td><sup><sub>#FFFFFF</sub></sup></td><td><strong>Linnevit</strong></td><td>Inspirerad av ljusa linnevävar. Primär bakgrund i presentationer, webb och tryck.</td><td><a href="https://singlecolorimage.com/get/ffffff/300x175">https://singlecolorimage.com/get/ffffff/300x175</a></td></tr></tbody></table>
 
----
+***
 
 ## Kopplingsfärger
 

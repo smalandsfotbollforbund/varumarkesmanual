@@ -1,5 +1,8 @@
 ---
-description: Grunden för allt SmFF gör – vår historia, vår plats och det som driver oss framåt.
+description: >-
+  Grunden för allt SmFF gör – vår historia, vår plats och det som driver oss
+  framåt.
+icon: fire
 ---
 
 # Den småländska andan
@@ -8,7 +11,7 @@ Fotbollen kom till Småland och mötte en region som inte gav upp. Det finns en 
 
 Det är den småländska andan. Den är inte en tagline. Den är ett sätt att vara.
 
----
+***
 
 ## Mer än ett landskap
 
@@ -20,9 +23,9 @@ Historiskt har smålänningar gjort sig kända för sin envishet och uthållighe
 
 Det arvet lever kvar i dag – på planen, i föreningslivet och i varje möte mellan människor.
 
-> *"Från mylla till mål"* – mer än ett löfte. Det är en berättelse om var vi kommer från och vart vi är på väg.
+> _"Från mylla till mål"_ – mer än ett löfte. Det är en berättelse om var vi kommer från och vart vi är på väg.
 
----
+***
 
 ## Den småländska andan i praktiken
 
@@ -34,7 +37,7 @@ Det syns i vad vi väljer att lyfta fram – människorna, vardagen, fotbollens 
 
 Varje gång vi skapar kommunikation – ett mejl, en affisch, ett inlägg i sociala medier, en presentation – är det den småländska andan som ska vara tonen i rummet.
 
----
+***
 
 ## Den småländska andan kontra SvFF:s blågula anda
 
@@ -42,13 +45,13 @@ Svenska Fotbollförbundet samlar Sverige under den **blågula andan** – öppen
 
 Den **småländska andan** är vår röst inom den familjen. Mer jordnära, mer specifik, mer förankrad i en faktisk plats och ett faktiskt folk. De två andarna är aldrig i konflikt – de kompletterar varandra.
 
-| | SvFF – Den blågula andan | SmFF – Den småländska andan |
-|---|---|---|
-| **Känsla** | Nationell stolthet, öppenhet | Lokal förankring, envishet |
-| **Primärfärg** | Sverige-blå | Smålandsröd |
-| **Designelement** | Blågul toning, rörelse | Myللtoning, rötter |
-| **Symbol** | SvFF-skölden | Lejonet med armbost |
-| **Ton** | Välorganiserad, inspirerande | Jordnära, trygg, folklig |
+|                   | SvFF – Den blågula andan     | SmFF – Den småländska andan |
+| ----------------- | ---------------------------- | --------------------------- |
+| **Känsla**        | Nationell stolthet, öppenhet | Lokal förankring, envishet  |
+| **Primärfärg**    | Sverige-blå                  | Smålandsröd                 |
+| **Designelement** | Blågul toning, rörelse       | Myللtoning, rötter          |
+| **Symbol**        | SvFF-skölden                 | Lejonet med armbost         |
+| **Ton**           | Välorganiserad, inspirerande | Jordnära, trygg, folklig    |
 
 {% hint style="success" %}
 **Nyckelinsikt:** Den småländska andan är inte ett budskap vi kommunicerar – det är ett sätt att handla. Den syns i tonen, i bildvalen, i hur vi välkomnar en ny förening och i hur vi skriver ett mejl på en måndag.

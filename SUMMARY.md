@@ -5,15 +5,15 @@
 ## Varumärkesidentitet
 
 * [Den småländska andan](varumarkesidentitet/anda.md)
-* [Varumärkesattribut](varumarkesidentitet/varumarkesattribut.md)
-* [Vision & mission](varumarkesidentitet/vision-and-mission.md)
-* [Röst & ton](varumarkesidentitet/rost-and-ton.md)
-* [Relation till SvFF](varumarkesidentitet/relation-till-svff.md)
+* [Varumärkesattribut](varumarkesidentitet/attribut.md)
+* [Vision & mission](varumarkesidentitet/vision.md)
+* [Röst & ton](varumarkesidentitet/rost.md)
+* [Relation till SvFF](varumarkesidentitet/relation.md)
 
 ## Grunden
 
 * [Översikt](grunden/oversikt.md)
-* [Logotypen](grunden/logotypen.md)
+* [Logotyp](grunden/logotyp.md)
 * [Färg](grunden/farg.md)
 * [Typografi](grunden/typografi.md)
 * [Tillgänglighet](grunden/tillganglighet.md)
