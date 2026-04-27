@@ -2,32 +2,43 @@
 
 * [Vår varumärkesmanual](README.md)
 
-## Grund
+## Varumärkesidentitet
 
-* [Den småländska andan](grund/anda.md)
-* [Den småländska identiteten](grund/identitet.md)
-* [Den småländska rösten](grund/rost.md)
+* [Den småländska andan](varumarkesidentitet/anda.md)
+* [Varumärkesattribut](varumarkesidentitet/varumarkesattribut.md)
+* [Vision & mission](varumarkesidentitet/vision-and-mission.md)
+* [Röst & ton](varumarkesidentitet/rost-and-ton.md)
+* [Relation till SvFF](varumarkesidentitet/relation-till-svff.md)
 
-## Visuellt system
+## Grunden
 
-* [Logotyp](visuellt-system/logotyp/README.md)
-  * [Relation till SvFF](visuellt-system/logotyp/relation-till-svff.md)
-* [Färger](visuellt-system/farger.md)
-* [Typografi](visuellt-system/typografi.md)
-* [Designelement](visuellt-system/designelement.md)
-* [Bildspråk](visuellt-system/bildsprak.md)
-* [Symboler](visuellt-system/symboler.md)
+* [Översikt](grunden/oversikt.md)
+* [Logotypen](grunden/logotypen.md)
+* [Färg](grunden/farg.md)
+* [Typografi](grunden/typografi.md)
+* [Tillgänglighet](grunden/tillganglighet.md)
 
-## I praktiken
+## Grafiska element
 
-* [Webb, sociala medier och nyhetsbrev](i-praktiken/digitalt.md)
-* [Affisch, programblad, banderoll, vepa, skylt](i-praktiken/tryck.md)
-* [PowerPoint, Word m.m.](i-praktiken/presentation.md)
-* [Rörligt och ljud](i-praktiken/rorligt-och-ljud.md)
-* [Profilkläder, matchdag och eventdekoration](i-praktiken/merchandise-och-event.md)
+* [Översikt](grafiska-element/oversikt.md)
+* [Designelement & toning](grafiska-element/designelement-and-toning.md)
+* [Lejonet som symbol](grafiska-element/lejonet-som-symbol.md)
+* [Bildspråk](grafiska-element/bildsprak.md)
+* [Layout & grid](grafiska-element/layout-and-grid.md)
+* [Ikonografi](grafiska-element/ikonografi.md)
+
+## Varumärket i praktiken
+
+* [Översikt](varumarket-i-praktiken/oversikt.md)
+* [Digitalt & webb](varumarket-i-praktiken/digitalt-and-webb.md)
+* [Sociala medier](varumarket-i-praktiken/sociala-medier.md)
+* [Presentationer](varumarket-i-praktiken/presentationer.md)
+* [Tryck](varumarket-i-praktiken/tryck.md)
+* [Merchandise & event](varumarket-i-praktiken/merchandise-and-event.md)
+* [Rörligt innehåll](varumarket-i-praktiken/rorligt-innehall.md)
 
 ## Bilagor
 
 * [Ordlista](bilagor/ordlista.md)
 * [Checklista för byrån](bilagor/checklista-for-byran.md)
-* [Tekniska krav på leveransfiler](bilagor/tekniska-krav-pa-leveransfiler.md)
+* [Ansvar & versioner](bilagor/ansvar-and-versioner.md)

@@ -37,7 +37,7 @@ Den är inte en inspirationskälla. Den är en tydlig identitet.
 
 ## Relation till Svenska Fotbollförbundet
 
-Smålands Fotbollförbund är ett av SvFF:s 24 distriktsförbund. Vi delar [typografi](visuellt-system/typografi.md) (SvFF Trim + Stag Sans), delar [kopplingsfärger](visuellt-system/farger.md#kopplingsfarger) (nationell blå, ljusblå och gul), och uppträder på [smalandsfotbollen.se](https://smalandsfotbollen.se) (som är byggd i SvFF:s infrastruktur) med SvFF:s primärfärger.
+Smålands Fotbollförbund är ett av SvFF:s 24 distriktsförbund. Vi delar [typografi](grunden/typografi.md) (SvFF Trim + Stag Sans), delar [kopplingsfärger](grunden/farg.md#kopplingsfarger) (nationell blå, ljusblå och gul), och uppträder på [smalandsfotbollen.se](https://smalandsfotbollen.se) (som är byggd i SvFF:s infrastruktur) med SvFF:s primärfärger.
 
 Det innebär att vår visuella identitet måste fungera i **två lägen:**
 
