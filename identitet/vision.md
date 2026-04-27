@@ -1,5 +1,5 @@
 ---
-description: Vart SmFF är på väg och varför det spelar roll.
+description: Vart vi är på väg och varför det spelar roll.
 ---
 
 # Vision & mission
@@ -30,14 +30,13 @@ Missionen är vad vi gör, varje dag. Den är ett löfte till Smålands förenin
 
 ## Positionering
 
-SmFF är det regionala navet mellan de lokala föreningar och det nationella förbundet SvFF. Vi är inte en klubb, inte ett företag – vi är en folkrörelseorganisation som existerar för att föreningarna ska existera bättre.
+SmFF är det regionala navet mellan de lokala föreningar och det nationella fotbollförbundet. Vi är inte en klubb, inte ett företag. Vi är en folkrörelse som existerar för att föreningarna ska existera bättre.
 
 ```
 UEFA
   └── Svenska Fotbollförbundet (SvFF)
-        └── Distriktsförbund (24 st)
-              └── Smålands Fotbollförbund (SmFF)
-                    └── Medlemsföreningar i Småland
+        └── Smålands Fotbollförbund (SmFF)
+              └── Medlemsföreningar i Småland
 ```
 
 {% hint style="success" %}

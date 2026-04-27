@@ -1,12 +1,13 @@
 ---
-description: De visuella byggstenarna som allt SmFF-material är byggt på.
+description: De visuella byggstenarna som allt material är byggt på.
 ---
 
 # Översikt
 
-Grunden är det visuella systemet. Logotypen, färgen, typografin och tillgängligheten är inte stilpreferenser – de är beslut som fattas en gång och sedan tillämpas konsekvent.
+Grunden är det visuella systemet. Logotypen, färgen, typografin och tillgängligheten är inte stilpreferenser. De är beslut som fattas en gång och sedan tillämpas konsekvent.
 
-> En välgrundad identitet kräver inte variation – den kräver konsekvens. Varje gång vi avviker utan anledning försvagar vi igenkänningen.
+> En välgrundad identitet kräver inte variation – den kräver konsekvens.\
+> Varje gång vi avviker utan anledning försvagar vi igenkänningen.
 
 ***
 

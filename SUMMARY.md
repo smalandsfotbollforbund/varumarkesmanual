@@ -8,7 +8,7 @@
 * [Varumärkesattribut](identitet/attribut.md)
 * [Vision & mission](identitet/vision.md)
 * [Röst & ton](identitet/rost.md)
-* [Relation till SvFF](identitet/relation.md)
+* [Samprofilering med SvFF eller RF-SISU Småland](identitet/relation.md)
 
 ## Grunden
 

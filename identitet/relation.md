@@ -1,14 +1,12 @@
 ---
 description: >-
-  När SmFF är en del av det nationella systemet – och när vi talar med vår egen
-  röst.
+  När SmFF är en del av det nationella eller regionala systemet och när vi talar
+  med vår egen röst.
 ---
 
-# Relation till SvFF
+# Samprofilering med SvFF eller RF-SISU Småland
 
-SmFF är en del av det svenska fotbollssystemet under SvFF. I vissa sammanhang kommunicerar vi _som en del av_ SvFF:s struktur – i andra talar vi med vår egen identitet som regional folkrörelseorganisation. Det är viktigt att alltid veta vilket läge man befinner sig i.
-
-***
+SmFF är en del av det svenska fotbollssystemet under SvFF. I vissa sammanhang kommunicerar vi _som en del av_ SvFF:s struktur och i andra talar vi med vår egen identitet som regional folkrörelseorganisation. Det är viktigt att alltid veta vilket läge man befinner sig i.
 
 ## De tre kommunikationslägena
 
@@ -24,8 +22,8 @@ SmFF:s emblem är det enda förbundsvarumärket. SvFF syns inte, eller enbart i 
 * Interna presentationer
 * Egna sociala medier
 
-**Primärfärg:** Smålandsröd `#A91C1C`\
-**Logotyp:** SmFF:s cirkelemblem ensamt
+**Primärfärg:** [Smålandsröd](../grunden/farg.md#primarfarger)\
+**Logotyp:** SmFF:s [cirkelemblem](../grunden/logotyp.md#primar-rod) ensamt
 {% endtab %}
 
 {% tab title="Samprofilering" %}
@@ -51,12 +49,10 @@ SvFF:s grafiska riktlinjer styr. SmFF:s identitet manifesteras i bildval, tonali
 * SvFF:s kommunikationskanaler
 * Nationella kampanjer
 
-**Primärfärg:** SvFF-blå `#005293`\
+**Primärfärg:** [SvFF-blå](../grunden/farg.md#kopplingsfarger)\
 **OBS:** Använd aldrig SmFF:s röd-gröna palett som primär på dessa ytor
 {% endtab %}
 {% endtabs %}
-
-***
 
 ## Färglägen per sammanhang
 
@@ -66,31 +62,19 @@ SvFF:s grafiska riktlinjer styr. SmFF:s identitet manifesteras i bildval, tonali
 | Samprofilering | SmFF-röd + SvFF-blå   | SvFF-gul            | Vit               |
 | SvFF-primärt   | SvFF-blå `#005293`    | SvFF-gul `#FECB00`  | Vit               |
 
-***
-
 ## Kompositlogotypen – tekniska regler
 
-När SmFF och SvFF visas tillsammans:
+När SmFF visas tillsammans med annat varumärke:
 
 * **Separationselement:** Vertikal linje, 0,5 pt vid 15 mm logotypbredd
-* **Storleksförhållande:** Max 120/100 – SmFF aldrig mer än 20 % mindre än SvFF
+* **Storleksförhållande:** Max 120/100 – SmFF aldrig mer än 20 % eller mindre än partnerns logotyp
 * **Friyta:** SmFF:s friyteregler gäller för hela kompositlogotypen
 * **Bakgrundsvarianter:**
   * Vit bakgrund → SmFF röd + SvFF 3D-sköld
   * SvFF-blå bakgrund → SmFF vit outline + SvFF 3D Outline
   * Svart bakgrund → båda i vit/outline-version
-
-***
-
-## RFSISU Småland – trepartssamprofilering
-
-Vid kommunikation i samarbete med RFSISU Småland:
-
-* SmFF (vänster) – RFSISU Småland (mitten) – SvFF (höger), **eller** enbart SmFF + RFSISU om SvFF inte är part
 * Likvärdiga storlekar
 * Separerade av vertikala linjer
-
-***
 
 ## smalandsfotbollen.se
 
@@ -101,5 +85,5 @@ Webbplatsen är byggd i SvFF:s infrastruktur och kan inte förändras i grundstr
 * Eventuella lokalt anpassade komponenter
 
 {% hint style="warning" %}
-**Aldrig:** Placera SvFF:s logotyp ensam på SmFF:s egna material · Undermåla SmFF:s emblem mot SvFF:s (SmFF aldrig mer än 20 % mindre) · Blanda SmFF:s röd-gröna palett med SvFF:s blå/gula primärkommunikation utan ett definierat kompositformat.
+**Aldrig:** Placera partners logotyp ensam på SmFF:s egna material · Undermåla SmFF:s emblem mot partnerns (SmFF aldrig mer än 20 % eller mindre) · Blanda SmFF:s röd-gröna palett med partnerns primärkommunikation utan ett definierat kompositformat.
 {% endhint %}

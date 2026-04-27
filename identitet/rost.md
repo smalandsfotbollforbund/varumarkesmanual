@@ -74,34 +74,25 @@ Vi är en folkrörelse. Värme är inte svaghet. Det är styrkan i att faktiskt 
 | Best practice  | Goda erfarenheter, lärdomar     |
 | Stakeholders   | Berörda, föreningarna           |
 
-## Rubriker som påstår
+### Vi använder rubriksättningar som påstår
 
 En rubrik ska aldrig bara namnge ett ämne. Den ska säga något.
 
-{% tabs %}
-{% tab title="✗ Undvik" %}
-* Verksamhetsplan 2025
-* Ekonomi
-* Utbildningsstatistik
-* Information om seriestart
-{% endtab %}
+| ✗ Undvik                  | ✓ Skriv istället                                   |
+| ------------------------- | -------------------------------------------------- |
+| Verksamhetsplan 2025      | Det här fokuserar vi på 2025 – och varför          |
+| Ekonomi                   | Ekonomin är i balans, men vi ser tre risker framåt |
+| Utbildningsstatistik      | Fler ledare utbildar sig – trenden håller i sig    |
+| Information om seriestart | Tre saker du behöver veta inför seriestart         |
 
-{% tab title="✓ Skriv istället" %}
-* Det här fokuserar vi på 2025 – och varför
-* Ekonomin är i balans, men vi ser tre risker framåt
-* Fler ledare utbildar sig – trenden håller i sig
-* Tre saker du behöver veta inför seriestart
-{% endtab %}
-{% endtabs %}
-
-## Ton per kanal
+## Ton som varierar per kanal
 
 {% tabs %}
 {% tab title="Formella dokument" %}
 **Rapporter, beslut, remisser, protokoll**
 
 * Fullständiga meningar och korrekt svenska
-* "Smålands Fotbollförbund" vid första omnämnandet, "SmFF" eller "förbundet" därefter
+* "Smålands Fotbollförbund" vid första omnämnandet, "SmFF" eller "distriktet" därefter
 * Neutral ton – varken stelt formell eller lättsamt folklig
 * Inga förkortningar utan förklaring
 * Underskrift: namn, titel, datum
