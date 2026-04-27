@@ -1,165 +1,153 @@
 ---
-description: Tonalitet, språkregler, kanalspecifikt
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
-  tags:
-    visible: true
+description: Hur SmFF låter – i varje ord, i varje kanal, i varje sammanhang.
 ---
 
-# Vår röst
+# Röst & ton
 
-***
+SmFF har en igenkännbar röst. Den är jordnär, trygg och framåtblickande – ett resultat av att förstå vem vi är och vem vi talar med.
 
-## Vår röst
+**Röst** = vår personlighet. Den ändras aldrig.\
+**Ton** = hur vi anpassar personligheten till situationen. Den varierar.
 
-Vår röst – tonaliteten i allt vi skriver och säger – ska kännas jordnära, trygg och framåtblickande. Den speglar den småländska envishet och värme som är vår identitet, och visar riktning utan att vara arrogant eller distanserad.
+---
 
-Tonaliteten gäller i **all** kommunikation: mejl, nyhetsbrev, sociala medier, rapporter, presentationer och muntliga framträdanden.
+## Fem principer
 
-***
+### 1. Tydlig framför smart
 
-## Fem kärnegenskaper
+En bra mening kommunicerar – den imponerar inte. Välj alltid det enklare ordet. Omformulera hellre en mening tre gånger än att låta en rörig mening leva kvar.
 
-### 1. Småländskt jordnära
+### 2. Aktiv framför passiv
 
-Vi använder enkla ord som alla förstår. Vi skriver som vi talar – med båda fötterna i myllan. Ingen jargong, ingen byråkratiska omskrivningar, inga ord som låter viktigare än de är.
+Vi agerar. Vi bestämmer. Vi gör. Passiva konstruktioner gömmer ansvar och skapar distans.
 
-### 2. Trygg och tydlig
+| Skriv inte | Skriv istället |
+|---|---|
+| Beslutet fattades av styrelsen | Styrelsen beslutade |
+| Stödet har erbjudits föreningarna | Vi erbjuder föreningarna stöd |
+| Det rekommenderas att man... | Vi rekommenderar att du... |
 
-Vi ger raka besked, men alltid med omtanke. Människor ska känna att de kan lita på oss. Vi undviker vaga formuleringar som skapar osäkerhet.
+### 3. Konkret framför abstrakt
 
-### 3. Folklig och charmig
+Namnge orter. Specificera siffror. Berätta om en person istället för en kategori.
 
-Vi har glimten i ögat. Vi kan skämta till det ibland. Vi pratar som människor – inte som en institution. Men charmen ska aldrig gå ut över tydligheten.
+| Skriv inte | Skriv istället |
+|---|---|
+| Vi har stärkt föreningslivet i regionen | 42 föreningar i Kronoberg fick ny utbildning i år |
+| Vi fokuserar på ungdomsutveckling | 1 200 barn spelar fotboll i Småland tack vare Fotbollsskolan |
 
-### 4. Framåtriktad
+### 4. Personligt framför institutionellt
 
-Vi pratar om utveckling, lösningar och nya vägar. Även när vi blickar tillbaka, gör vi det för att lära och bygga vidare – inte för att nostalgisera.
+Vi säger "du" och "vi" – aldrig "man" och "förbundet". En organisation som talar om sig själv i tredje person skapar distans.
 
-### 5. Samarbetsinriktad
+### 5. Varmt framför kyligt
 
-Vi säger ofta “vi” – för framgången skapas tillsammans. Det gäller i relationen till föreningarna, till SvFF och till RFSISU Småland.
+Vi är en folkrörelse. Värme är inte svaghet – det är styrkan i att faktiskt bry sig om de man pratar med.
 
-***
+---
 
-## Tonalitet i praktiken
+## Ord vi undviker
 
-### Skriv inte byråkratiska omskrivningar
+| Undvik | Använd istället |
+|---|---|
+| Implementera | Genomföra, göra |
+| Optimera | Förbättra, effektivisera |
+| Tillhandahålla | Erbjuda, ge |
+| Verka för | Arbeta för, se till att |
+| Möjliggöra | Göra möjligt |
+| Proaktiv | Ta initiativ, ligga steget före |
+| Best practice | Goda erfarenheter, lärdomar |
+| Stakeholders | Berörda, föreningarna |
+| Löpande (vagt) | Ange ett konkret datum |
+| Synergieffekter | Ta bort |
 
-| Skriv inte                                                                 | Skriv istället                                                        |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Vi implementerar digital transformation för att optimera administrationen. | Vi gör det enklare för ledare, så att mer tid kan läggas på spelarna. |
-| Smålands Fotbollförbund tillhandahåller administrativa verktyg.            | Vi frigör tid så att fotbollen kan ta mer plats i vardagen.           |
-| Vi verkar för att främja inklusion inom verksamheten.                      | Vi vill att alla ska känna sig välkomna – på alla planer i Småland.   |
-| Förbundet konstaterar att utbildningsdeltagandet har ökat markant.         | Fler ledare utbildar sig – det är riktigt bra.                        |
-| Inför kommande verksamhetsperiod ämnar vi se över strukturen.              | Vi tänker om inför nästa år.                                          |
+---
 
-### Aktiva verb, inte passiva konstruktioner
+## Rubriker som påstår
 
-| Skriv inte                             | Skriv istället                     |
-| -------------------------------------- | ---------------------------------- |
-| Beslutet fattades av styrelsen.        | Styrelsen beslutade.               |
-| Stödet har erbjudits föreningarna.     | Vi har erbjudit föreningarna stöd. |
-| Utbildningen genomfördes av kommittén. | Kommittén höll utbildningen.       |
+En rubrik ska aldrig bara namnge ett ämne. Den ska säga något.
 
-### Rak tilltal – “du” inte “man”
+{% tabs %}
+{% tab title="✗ Undvik" %}
+- Verksamhetsplan 2025
+- Ekonomi
+- Utbildningsstatistik
+- Information om seriestart
+{% endtab %}
 
-| Skriv inte                        | Skriv istället                   |
-| --------------------------------- | -------------------------------- |
-| Man ansöker via formuläret nedan. | Du ansöker via formuläret nedan. |
-| Det rekommenderas att föreningen… | Vi rekommenderar att du…         |
+{% tab title="✓ Skriv istället" %}
+- Det här fokuserar vi på 2025 – och varför
+- Ekonomin är i balans, men vi ser tre risker framåt
+- Fler ledare utbildar sig – trenden håller i sig
+- Tre saker du behöver veta inför seriestart
+{% endtab %}
+{% endtabs %}
 
-***
+---
 
-## Ord vi använder – och undviker
+## Ton per kanal
 
-### Ord och fraser vi gärna använder
+{% tabs %}
+{% tab title="Formella dokument" %}
+**Rapporter, beslut, remisser, protokoll**
 
-* vi, oss, tillsammans
-* fotbollen, planen, föreningslivet
-* Småland, det småländska
-* stärka, bygga, växa
-* praktiskt, enkelt, direkt
-* engagemang, gemenskap, glädje
+- Fullständiga meningar och korrekt svenska
+- "Smålands Fotbollförbund" vid första omnämnandet, "SmFF" eller "förbundet" därefter
+- Neutral ton – varken stelt formell eller lättsamt folklig
+- Inga förkortningar utan förklaring
+- Underskrift: namn, titel, datum
+{% endtab %}
 
-### Ord och fraser vi undviker
+{% tab title="Mejl och nyhetsbrev" %}
+**Extern kommunikation till föreningar och partners**
 
-* implementera (→ genomföra, göra)
-* optimera (→ förbättra)
-* tillhandahålla (→ erbjuda, ge)
-* verka för (→ arbeta för, se till att)
-* möjliggöra (→ göra möjligt)
-* proaktiv (→ ta initiativ, ligga steget före)
-* synergieffekter
-* best practice (→ bra erfarenheter, goda exempel)
-* stakeholders (→ berörda, föreningarna)
-* löpande (i vaga sammanhang – ange hellre när)
+- Inled med det viktigaste – mottagaren ska förstå budskapet i första meningen
+- Håll mejl korta: under tre stycken om möjligt
+- Ämnesrad som faktiskt beskriver innehållet
+- Avsluta med tydlig uppmaning eller nästa steg
+- Signatur: namn, titel, telefon, smalandsfotbollen.se
+{% endtab %}
 
-***
+{% tab title="Sociala medier" %}
+**Facebook, Instagram, LinkedIn**
 
-## Kanalspecifik röst
+- **Facebook:** Primärkanal för föreningar och ledare. Längre texter okej. Varm, folklig, ibland humoristisk.
+- **Instagram:** Bilddriven. Texten stödjer bilden. Kort och träffsäkert.
+- **LinkedIn:** Professionell men personlig. Aldrig kall.
 
-Tonaliteten är densamma oavsett kanal, men intensiteten och formen anpassas.
+Primär hashtagg: `#smalandsfotboll`\
+Övriga: `#SmFF` · `#fotbolliSmåland` · `#folkrörelsen`
+{% endtab %}
 
-### Formella dokument (rapporter, beslut, remisser)
+{% tab title="Presentationer" %}
+**Interna och externa möten**
 
-* Fullständiga meningar och korrekt svenska
-* “Smålands Fotbollförbund” vid första omnämnandet, “SmFF” eller “förbundet” därefter
-* Inga förkortningar utan förklaring
-* Neutral ton – varken stelt eller lättsamt
-* Underskrift: namn, titel, datum
+- Inled med varför det spelar roll för mottagaren
+- Rubriker som påstår något – aldrig bara namnger ett ämne
+- Max en tanke per slide
+- Aktivt tilltal: "du" och "vi" – aldrig "man" och "förbundet"
+{% endtab %}
+{% endtabs %}
 
-### Nyhetsbrev och externa mejl
-
-* Inled med det viktigaste – mottagaren ska förstå budskapet i första meningen
-* Håll mejl under tre stycken om möjligt
-* Använd ämnesrad som faktiskt beskriver innehållet
-* Avsluta med en tydlig uppmaning eller nästa steg
-* Signatur: namn, titel, telefon, smalandsfotbollen.se
-
-### Sociala medier (Facebook, Instagram, LinkedIn)
-
-* **Facebook:** Primär kanal för föreningar och ledare. Lite längre texter okej. Ton: varm, folklig, ibland humoristisk.
-* **Instagram:** Bilddriven. Texten är stöd till bilden. Kort och träffsäkert. Hashtaggar används sparsamt och relevant.
-* **LinkedIn:** För professionell kommunikation om förbundets arbete, utbildningar och samhällsroll. Mer formell ton, men fortfarande personlig.
-
-**Hashtaggar:**\
-`#smalandsfotboll` (primär)\
-`#SmFF`\
-`#fotbolliSmåland`\
-`#folkrörelsen`
-
-Undvik generiska taggar som `#fotboll` eller `#sport` som primärval – de ger ingen lokal räckvidd.
-
-### Presentationer (intern/extern)
-
-* Inled alltid med varför det spelar roll för mottagaren
-* Använd rubriker som påstår något, inte bara namnger ett ämne
-  * Skriv inte: “Verksamhetsplan 2025”
-  * Skriv: “Vad vi fokuserar på 2025 – och varför”
-* Max en tanke per slide
-* Se <12-tilllaempningar-presentation.md> för mallregler
-
-***
+---
 
 ## Kommunikation om känsliga ämnen
 
-När SmFF kommunicerar om svåra frågor – ekonomiska utmaningar, konflikter, kritik mot förbundet – gäller:
+När SmFF kommunicerar om svåra frågor gäller:
 
-* Var rak och ärlig. Undvikande kommunikation urholkar förtroendet.
-* Erkänn problem utan att eskalera dem.
-* Berätta vad som händer härnäst – osäkerhet är värre än dåliga nyheter.
-* Involvera distriktschefen vid all kommunikation som kan bli publik.
-* Kontakta SvFF:s kommunikationsavdelning vid frågor som rör nationell verksamhet eller mediala kriser.
+{% stepper %}
+{% step %}
+#### Var rak och ärlig
+Undvikande kommunikation urholkar förtroendet snabbare än dåliga nyheter.
+{% endstep %}
+
+{% step %}
+#### Erkänn – visa vägen framåt
+Erkänn problem utan att eskalera dem. Berätta alltid vad som händer härnäst.
+{% endstep %}
+
+{% step %}
+#### Involvera rätt person
+Kontakta distriktschefen vid all kommunikation som kan bli publik. Kontakta SvFF:s kommunikationsavdelning vid frågor som rör nationell verksamhet eller mediala kriser.
+{% endstep %}
+{% endstepper %}
