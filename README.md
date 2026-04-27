@@ -20,52 +20,29 @@ layout:
 
 # Vår varumärkesmanual
 
-> **Från mylla till mål.**
->
-> Det här är mer än en stilguide. Det är en plattform för hur vi – Smålands Fotbollförbund – kommunicerar med världen. Hur vi låter. Hur vi ser ut. Vad vi tror på.
+Smålands Fotbollförbund är en folkrörelse med djupa rötter i den småländska myllan. Vi bär på ett arv av envishet, hårt arbete och samarbete – och precis som våra skogar och berg är vi uthålliga och rotade i vår historia. Samtidigt är vi en rörelse i ständig utveckling, där fotbollen är bron mellan generationer, platser och människor.
 
-***
+**Vision.** Fotboll för alla – i hela Småland, hela livet, i takt med tiden.\
+**Mission.** Vi stärker föreningsliv och människors möjlighet att växa genom fotboll.\
+**Verksamhetsidé.** Vi är ett nav för stöd, samverkan och utveckling – och främjar, utvecklar och administrerar fotbollens alla former i Småland.
 
-## Fem attribut styr allt
+---
 
-SmFF:s varumärke byggs kring fem attribut. De är inte värderingar på en vägg – de är ett operativt ramverk som styr varje kommunikationsbeslut.
+Det här är mer än en stilguide. Det är en plattform för hur vi kommunicerar med världen – hur vi låter, hur vi ser ut och vad vi tror på. Varje sida är ett beslut om vad SmFF är och vill vara.
 
-| Attribut           | Kärna                     |
-| ------------------ | ------------------------- |
-| 🌱 **Rotad**       | Vi vet var vi kommer från |
-| 💪 **Envis**       | Vi ger inte upp           |
-| 🦁 **Tillsammans** | Vi jagar i flock          |
-| ✊ **Äkta**         | Vi är som vi är           |
-| → **Framåt**       | Vi är alltid på väg       |
+Manualen är primärt för **intern personal och externa byråer**. Det är ett operativt verktyg, inte en inspirationskälla.
 
-***
+### Utforska manualen
 
-## Hur du navigerar
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🦁 Vår identitet</strong></td><td>Vilka vi är, vad vi tror på och den småländska andan.</td><td><a href="identitet/identitet.md">identitet.md</a></td></tr><tr><td><strong>🔴 Vår logotyp</strong></td><td>Emblematiken, varianter, placering och regler.</td><td><a href="identitet/logotyp.md">logotyp.md</a></td></tr><tr><td><strong>🗣️ Vår röst</strong></td><td>Tonalitet, språkprinciper och hur vi skriver.</td><td><a href="identitet/rost.md">rost.md</a></td></tr><tr><td><strong>🎨 Färger</strong></td><td>Hela paletten – primär, accent, bas och koppling.</td><td><a href="grund/farger.md">farger.md</a></td></tr><tr><td><strong>✏️ Typografi</strong></td><td>SvFF Trim, Stag Sans och Calibri i praktiken.</td><td><a href="grund/typografi.md">typografi.md</a></td></tr><tr><td><strong>📋 Appliceringar</strong></td><td>Hur identiteten används i tryck, digitalt och på event.</td><td><a href="resurser/appliceringar.md">appliceringar.md</a></td></tr></tbody></table>
 
-Manualen är uppdelad i fyra delar som följer varumärkets logik – från kärna till konkret tillämpning.
+---
 
-**Varumärkesidentitet** – Vilka vi är, vad vi tror på och hur vi låter. Börja här.
+### Relation till SvFF
 
-**Grunden** – Logotyp, färg, typografi och tillgänglighet. Det visuella systemets byggstenar.
-
-**Grafiska element** – Designelement, bildspråk och layout. Verktygen för kommunikation.
-
-**Varumärket i praktiken** – Hur identiteten används i verkliga sammanhang.
-
-***
-
-## SmFF och SvFF
-
-SmFF är ett av SvFF:s 24 distriktsförbund. Vi delar typografi och kopplingsfärger – men vi har en egen identitet, en egen röst och en egen historia.
-
-Den här manualen hanterar båda lägena: när vi är del av det nationella systemet, och när vi talar med vår egen småländska röst.
-
-> **Se:** [Relation till SvFF](brand-identity/svff-relation.md) för exakta regler om vilket läge som gäller när.
-
-***
+SmFF är ett av SvFF:s 24 distriktsförbund. Vi delar typografi och kopplingsfärger med det nationella förbundet – men vi har en egen identitet, en egen röst och en egen historia. Manualen hanterar båda lägena: när vi är del av det nationella systemet, och när vi talar med vår egen småländska röst.
 
 {% hint style="info" %}
-Den här manualen är för intern personal och externa byråer. Det är ett operativt verktyg, inte en inspirationskälla.
-
-**Version 1.0 · 2025** · Frågor: kontakta distriktschefen
+**Version 1.0 · 2025**\
+Frågor om manualen och dess tillämpning riktas till distriktschefen.
 {% endhint %}
