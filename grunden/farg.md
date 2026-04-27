@@ -1,30 +1,149 @@
 ---
-description: Färgpalett, proportioner, användning
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
-  tags:
-    visible: true
+description: SmFF:s färger är hämtade ur det småländska landskapet. Varje färg bär en berättelse.
 ---
 
-# Färger
+# Färg
 
-## Färger
+SmFF:s färgpalett är inte ett estetiskt val – den är en identitetsbärare. Paletten är uppdelad i fyra lager: **primär**, **accent**, **bas** och **koppling** (SvFF:s nationella färger).
 
-Färgerna i Smålands Fotbollförbunds grafiska profil är inte valda av en slump – de bär på berättelser och känslor som förankrar oss i både historien och framtiden.
+---
 
-Färgpaletten speglar Smålands envishet, skogar och rötter – rött för kampen, grönt för tillväxten och beige för historien. Vitt och grått skapar balans, och paletten är vald för att samspela med de blåa färger som redan används på smalandsfotbollen.se och i Svenska Fotbollförbundets varumärkesmanual.
+## Primärfärger
+
+SmFF ska primärt upplevas som **röd**. Det gröna är stödjande – alltid komplement, aldrig dominant.
+
+<figure>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   ████████████████████████████████  ██████████████████          │
+│   Smålandsröd #A91C1C               Skogsgrön #2F5731           │
+│   Primär identitetsfärg             Stödjande primärfärg        │
+│   Pantone 1807 C                    Pantone 357 C               │
+│   CMYK: C20 M100 Y100 K20           CMYK: C60 M0 Y70 K60        │
+│                                                                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</figure>
+
+### 🔴 Smålandsröd `#A91C1C`
+
+*Inspirerad av de traditionella röda stugorna och lejonet i Smålands vapen.*
+
+| | Värde |
+|---|---|
+| **HEX** | `#A91C1C` |
+| **RGB** | 169 · 28 · 28 |
+| **CMYK** | C20 M100 Y100 K20 |
+| **Pantone** | 1807 C |
+
+**Används till:** Logotyp, rubriker, knappar, primära bakgrundsfärger i SmFF-primärt läge.
+
+{% hint style="warning" %}
+**OBS vid screentryck:** Kontrollera alltid Smålandsröd mot ett tryckt referensprov. Skärmfärg och screentryckt färg kan skilja sig, och befintlig EPS-logotyp kan ha en marginellt avvikande röd ton.
+{% endhint %}
+
+### 🌲 Skogsgrön `#2F5731`
+
+*Hämtad från de djupa småländska skogarna.*
+
+| | Värde |
+|---|---|
+| **HEX** | `#2F5731` |
+| **RGB** | 47 · 87 · 49 |
+| **CMYK** | C60 M0 Y70 K60 |
+| **Pantone** | 357 C |
+
+**Används till:** Rubriker, grafiska element, ikoner, hållbarhetsrelaterade budskap.
+
+---
+
+## Proportioner
+
+SmFF ska upplevas som röd. Skogsgrön är alltid kompletterande.
+
+{% hint style="info" %}
+**Riktlinje:** Röd max 60 % av ytan · Grön max 40 % · Aldrig 50/50 · Röd är alltid primär
+{% endhint %}
+
+---
+
+## Accentfärger
+
+### 🌾 Torparbeige `#E2DBD0`
+*Inspirerad av torpargrus, linnevävar och gamla landsvägar.*
+
+| HEX | RGB | CMYK |
+|---|---|---|
+| `#E2DBD0` | 226 · 219 · 208 | C10 M11 Y18 K0 |
+
+Bakgrunder, stora ytor, presentationsytor. Förmedlar samarbete, tålamod och samhörighet.
+
+### 🌿 Ängsgrön `#99C1A2`
+*Inspirerad av öppna landskap och vårens skiftningar.*
+
+| HEX | RGB | CMYK |
+|---|---|---|
+| `#99C1A2` | 153 · 193 · 162 | C30 M0 Y25 K15 |
+
+Markeringar, illustrationer, stödjande detaljer. Förmedlar tillgänglighet och hopp.
+
+---
+
+## Basfärger
+
+| Namn | HEX | RGB | Användning |
+|---|---|---|---|
+| **Kolsvart** | `#333333` | 51 · 51 · 51 | Brödtext, starka kontraster |
+| **Stenmursgrå** | `#F2F2F2` | 242 · 242 · 242 | Bakgrundsfärg, blockytor |
+| **Linnevit** | `#FFFFFF` | 255 · 255 · 255 | Primär bakgrund |
+
+{% hint style="info" %}
+Använd `#333333` framför ren svart `#000000` – det ger ett mjukare tryckt intryck och bättre skärmläsbarhet.
+{% endhint %}
+
+---
+
+## Kopplingsfärger (SvFF)
+
+Dessa färger används **enbart** när SmFF kommunicerar i det nationella fotbollssystemet. De ersätter aldrig SmFF:s primärfärger i SmFF-primärt läge.
+
+| Namn | HEX | Pantone | Sammanhang |
+|---|---|---|---|
+| **Nationell mörkblå** | `#005293` | 301 C | smalandsfotbollen.se, SvFF-samprofilering |
+| **Nationell ljusblå** | `#4A90E2` | – | Digitala kopplingselement |
+| **Nationell gul** | `#FECB00` | 116 C | SvFF-samprofilering |
+
+{% hint style="danger" %}
+**PPT-avvikelse:** SmFF.thmx innehåller `#004B87` och `#1A75BB`. Dessa avviker från SvFF:s officiella `#005293`. Vid revision av PPT-mallen ska `#005293` användas.
+{% endhint %}
+
+---
+
+## Tillgänglighet – kontrastkrav (WCAG AA)
+
+Minst **4,5:1** för normal text · Minst **3:1** för stor text (18 pt+) och grafik.
+
+| Text | Bakgrund | Kontrast | Status |
+|---|---|---|---|
+| Kolsvart `#333333` | Linnevit `#FFFFFF` | 12,6:1 | ✅ |
+| Linnevit `#FFFFFF` | Smålandsröd `#A91C1C` | 5,9:1 | ✅ |
+| Linnevit `#FFFFFF` | Skogsgrön `#2F5731` | 8,1:1 | ✅ |
+| Kolsvart `#333333` | Torparbeige `#E2DBD0` | 7,2:1 | ✅ |
+| Linnevit `#FFFFFF` | Nationell mörkblå `#005293` | 9,4:1 | ✅ |
+| Linnevit `#FFFFFF` | Stenmursgrå `#F2F2F2` | 1,1:1 | ❌ Aldrig |
+
+> Kontrollera alltid nya kombinationer på [webaim.org/resources/contrastchecker](https://webaim.org/resources/contrastchecker)
+
+---
+
+## Färger vid screentryck och brodyr
+
+- Pantone Textile (inte Pantone Coated) för textilmatchning
+- Brodyr på mörkt underlag: alltid ljus tråd – aldrig röd på röd
+- Screentryck med ett färgsystem: välj Smålandsröd eller vit – aldrig blanda primärfärger i enfargsscreentryck
 
 #### Primärfärger
 
@@ -41,210 +160,3 @@ Färgpaletten speglar Smålands envishet, skogar och rötter – rött för kamp
 #### Kopplingsfärger
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><sup><sub>C100 M54 Y4 K19</sub></sup></td><td><sup><sub>R0 G82 B147</sub></sup></td><td><sup><sub>#005293</sub></sup></td><td><strong>Nationell mörkblå</strong></td><td>Den centrala blåtonen i svensk fotboll, bärande i både SvFF:s och SmFF:s visuella uttryck. Förmedlar stabilitet, professionalism och nationell samhörighet.</td><td><a href="https://singlecolorimage.com/get/005293/300x175">https://singlecolorimage.com/get/005293/300x175</a></td></tr><tr><td><sup><sub>C68 M34 Y0 K0</sub></sup></td><td><sup><sub>R74 G144 B226</sub></sup></td><td><sup><sub>#4A90E2</sub></sup></td><td><strong>Nationell ljusblå</strong></td><td>En mjukare blåton som kompletterar den mörkare basfärgen. Används för att skapa variation, balans och ljusare uttryck i presentationer och digitala miljöer.</td><td><a href="https://singlecolorimage.com/get/4A90E2/300x175">https://singlecolorimage.com/get/4A90E2/300x175</a></td></tr><tr><td><sup><sub>C0 M14 Y100 K0</sub></sup></td><td><sup><sub>R254 G203 B0</sub></sup></td><td><sup><sub>#FECB00</sub></sup></td><td><strong>Nationell gul</strong></td><td>Inspirerad av solen och de svenska fälten. En färg som för in energi och glädje.</td><td><a href="https://singlecolorimage.com/get/FECB00/300x175">https://singlecolorimage.com/get/FECB00/300x175</a></td></tr></tbody></table>
-
-## 05. Färg
-
-***
-
-### Färgfilosofin
-
-Färgerna i SmFF:s grafiska profil är inte valda av en slump – de bär på berättelser och känslor som förankrar oss i både historien och framtiden. Varje färg har ett namn hämtat ur det småländska landskapet och kulturen. Det är inte dekorativt – det är en påminnelse om vad vi representerar varje gång vi gör ett färgval.
-
-Paletten är uppdelad i tre nivåer:
-
-* **Primärfärger** – SmFF:s egna, bärande identitetsfärger
-* **Accentfärger** – stödjande, nyansrika färger från det småländska landskapet
-* **Basfärger** – neutrala strukturfärger för läsbarhet och balans
-* **Kopplingsfärger** – SvFF:s nationella färger, används när SmFF uppträder i det nationella systemet
-
-***
-
-### Primärfärger
-
-Dessa två färger är SmFF:s identitetsbärare. De används i logotypen, rubriker, grafiska element och som primära bakgrundsfärger.
-
-#### Smålandsröd
-
-_Inspirerad av de traditionella röda stugorna och lejonet i Smålands vapen._
-
-Förkroppsligar envishet, mod och det folkliga hjärtat i rörelsen. Det är vår starkaste och mest igenkänningsbara färg.
-
-| Format  | Värde                                             |
-| ------- | ------------------------------------------------- |
-| HEX     | `#A91C1C`                                         |
-| RGB     | R 169 / G 28 / B 28                               |
-| CMYK    | C20 M100 Y100 K20                                 |
-| Pantone | 1807 C (närmaste match – bekräfta med tryckeriet) |
-
-**Används till:** Logotyp, rubriker, knappar, viktiga markeringar, primära bakgrundsfärger i SmFF-primärt läge.
-
-> **Obs om logotypfärgen:** Den befintliga logotypfilen (EPS) kan ha en något avvikande röd ton beroende på original-specifikation. Vid nyproduktion av material används alltid `#A91C1C`. Vid märkning av logotypen på tryck – kontrollera alltid mot ett tryckt referensprov.
-
-#### Skogsgrön
-
-_Hämtad från de djupa småländska skogarna._
-
-Symboliserar trygghet, hållbarhet och framtidstro. Grönens djup signalerar förankring snarare än ytlig miljöprofil.
-
-| Format  | Värde                  |
-| ------- | ---------------------- |
-| HEX     | `#2F5731`              |
-| RGB     | R 47 / G 87 / B 49     |
-| CMYK    | C60 M0 Y70 K60         |
-| Pantone | 357 C (närmaste match) |
-
-**Används till:** Rubriker, grafiska element, ikoner, bakgrundsfärger, hållbarhetsbudskap.
-
-***
-
-### Primärfärgernas proportioner
-
-SmFF ska primärt **upplevas som röd**. Det gröna är stödjande, aldrig dominerande.
-
-Riktlinje för hur stor yta respektive färg upptar i en komposition:
-
-| Kombination                   | Riktlinje                    |
-| ----------------------------- | ---------------------------- |
-| Röd mot vit/neutral bakgrund  | Röd max 60 % av ytan         |
-| Grön mot vit/neutral bakgrund | Grön max 40 % av ytan        |
-| Röd + Grön tillsammans        | Aldrig 50/50 – röd är primär |
-
-I kompositioner med SvFF:s kopplingsfärger gäller SvFF:s proportionsregel: blå är primär, gul är accent (max 25 %).
-
-***
-
-### Accentfärger
-
-Accentfärger används för att nyansera och berika kommunikationen. De är hämtade ur det småländska landskapet och kulturarvet.
-
-#### Torparbeige
-
-_Inspirerad av torpargrus, linnevävar och gamla landsvägar._
-
-| Format | Värde                 |
-| ------ | --------------------- |
-| HEX    | `#E2DBD0`             |
-| RGB    | R 226 / G 219 / B 208 |
-| CMYK   | C10 M11 Y18 K0        |
-
-**Används till:** Bakgrunder, kontraster, stora ytor i presentationer. Förmedlar samarbete, tålamod och samhörighet.
-
-#### Ängsgrön
-
-_Inspirerad av öppna landskap och vårens skiftningar._
-
-| Format | Värde                 |
-| ------ | --------------------- |
-| HEX    | `#99C1A2`             |
-| RGB    | R 153 / G 193 / B 162 |
-| CMYK   | C30 M0 Y25 K15        |
-
-**Används till:** Markeringar, illustrationer och stödjande detaljer. Förmedlar tillgänglighet, hopp och ungdomlighet.
-
-***
-
-### Basfärger
-
-Basfärgerna skapar struktur, läsbarhet och balans. De är alltid med men syns knappt – precis som de ska.
-
-#### Kolsvart
-
-_Inspirerad av järn och småländsk verkstadstradition._
-
-| Format | Värde              |
-| ------ | ------------------ |
-| HEX    | `#333333`          |
-| RGB    | R 51 / G 51 / B 51 |
-| CMYK   | C0 M0 Y0 K80       |
-
-**Används till:** Brödtext, starka kontraster, grafiska element. Välj `#333333` framför ren svart (`#000000`) – det ger ett mjukare tryckt intryck och bättre skärmläsbarhet.
-
-#### Stenmursgrå
-
-_Inspirerad av gamla stenmurar._
-
-| Format | Värde                 |
-| ------ | --------------------- |
-| HEX    | `#F2F2F2`             |
-| RGB    | R 242 / G 242 / B 242 |
-| CMYK   | C4 M3 Y3 K0           |
-
-**Används till:** Bakgrundsfärg, blockytor, alternativ till rent vitt.
-
-#### Linnevit
-
-_Inspirerad av ljusa linnevävar._
-
-| Format | Värde                 |
-| ------ | --------------------- |
-| HEX    | `#FFFFFF`             |
-| RGB    | R 255 / G 255 / B 255 |
-| CMYK   | C0 M0 Y0 K0           |
-
-**Används till:** Primär bakgrund i presentationer, webb och tryck. Standard vit.
-
-***
-
-### Kopplingsfärger
-
-Kopplingsfärgerna är SvFF:s nationella färger. De används när SmFF kommunicerar i det nationella fotbollssystemet – på smalandsfotbollen.se, i SvFF-samprofilering och i nationella kanaler.
-
-**Kopplingsfärgerna ersätter aldrig SmFF:s primärfärger** i SmFF-primärt läge. De kompletterar och binder ihop.
-
-#### Nationell mörkblå (SvFF-blå)
-
-| Format  | Värde              |
-| ------- | ------------------ |
-| HEX     | `#005293`          |
-| RGB     | R 0 / G 82 / B 147 |
-| CMYK    | C100 M54 Y4 K19    |
-| Pantone | 301 C              |
-
-> **Obs om PPT-temat:** SmFF.thmx innehåller `#004B87` som mörkblå. Denna avviker från SvFF:s officiella `#005293`. Vid revision av PPT-mallen ska `#005293` användas. Tills dess – acceptera avvikelsen internt, men använd `#005293` i all nyproduktion.
-
-#### Nationell ljusblå
-
-| Format | Värde                |
-| ------ | -------------------- |
-| HEX    | `#4A90E2`            |
-| RGB    | R 74 / G 144 / B 226 |
-| CMYK   | C68 M34 Y0 K0        |
-
-#### Nationell gul (SvFF-gul)
-
-| Format  | Värde               |
-| ------- | ------------------- |
-| HEX     | `#FECB00`           |
-| RGB     | R 254 / G 203 / B 0 |
-| CMYK    | C0 M14 Y100 K0      |
-| Pantone | 116 C               |
-
-***
-
-### Tillgänglighet och kontrast
-
-Alla textfärger ska uppfylla WCAG AA-kravet (kontrastförhållande minst 4,5:1 för normal text, 3:1 för stor text).
-
-| Text                  | Bakgrund                    | Kontrast | Godkänd           |
-| --------------------- | --------------------------- | -------- | ----------------- |
-| Kolsvart `#333333`    | Linnevit `#FFFFFF`          | 12,6:1   | ✅                 |
-| Linnevit `#FFFFFF`    | Smålandsröd `#A91C1C`       | 5,9:1    | ✅                 |
-| Linnevit `#FFFFFF`    | Skogsgrön `#2F5731`         | 8,1:1    | ✅                 |
-| Kolsvart `#333333`    | Torparbeige `#E2DBD0`       | 7,2:1    | ✅                 |
-| Linnevit `#FFFFFF`    | Nationell mörkblå `#005293` | 9,4:1    | ✅                 |
-| Kolsvart `#333333`    | Ängsgrön `#99C1A2`          | 4,8:1    | ✅                 |
-| Smålandsröd `#A91C1C` | Linnevit `#FFFFFF`          | 5,9:1    | ✅                 |
-| Linnevit `#FFFFFF`    | Stenmursgrå `#F2F2F2`       | 1,1:1    | ❌ – använd aldrig |
-
-> Kontrollera alltid kontrasten vid nya färgkombinationer via [webaim.org/resources/contrastchecker](https://webaim.org/resources/contrastchecker)
-
-***
-
-### Färger i screentryck och brodyr
-
-Vid tryck på textil och merchandise gäller:
-
-* Primärfärger ska matchas mot **Pantone Textile** (inte Pantone Coated) – kontakta tryckleverantören för rätt matchning
-* Brodyr på mörkt underlag: Använd alltid ljus tråd (vit/beige) – aldrig röd på röd
-* Screentryck med begränsat färgantal: Gå alltid ner till en färg och välj antingen Smålandsröd eller vit – aldrig blanda primärfärger i screentryck med en färg
-* Se <14-merchandise-och-event.md> för specifika materialriktlinjer
