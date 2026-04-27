@@ -1,94 +1,86 @@
+---
+description: PowerPoint med SmFF.thmx – regler, mallar och praktiska riktlinjer.
+---
+
 # Presentationer
-
-***
-
-## SmFF.thmx – PowerPoint-temat
 
 SmFF:s officiella PowerPoint-tema är **SmFF.thmx**. Det ska användas vid alla presentationer som skapas i SmFF:s namn – internt, för föreningar och för externa möten.
 
-Temat innehåller:
+Temat innehåller SmFF:s färgpalett, konfigurerade typsnittshierarkier med Calibri som systemtypsnitt samt grundlayouter för framsida, innehåll och avslut.
 
-* SmFF:s färgpalett (primär, accent, bas och kopplingsfärger)
-* Konfigurerade typsnittshierarkier med Calibri som systemtypsnitt
-* Grundlayouter för framsida, innehåll och avslut
+{% hint style="warning" %}
+**PPT-avvikelse:** SmFF.thmx innehåller `#004B87` istället för SvFF:s officiella `#005293`. Vid revision av mallen ska `#005293` användas. Tills dess accepteras avvikelsen internt.
+{% endhint %}
 
-> **Obs:** Temat är byggt med Calibri som primärt typsnitt, inte SvFF Trim eller Stag Sans. Det är korrekt för officemiljö. Om SvFF Trim och Stag Sans är installerade på din dator kan dessa aktiveras manuellt i Slide Master.
+---
 
-***
+## Aktivera rätt typsnitt
 
-## Känd avvikelse i SmFF.thmx
+- Temat är konfigurerat för **Calibri** – systemtypsnitt som fungerar på alla datorer
+- Om **SvFF Trim** och **Stag Sans** är installerade kan dessa aktiveras manuellt i Slide Master
+- Blanda aldrig typsnitt – använd antingen Calibri-uppsättningen eller Trim/Stag-uppsättningen
 
-PPT-temat innehåller mörkblå `#004B87` och `#1A75BB`. Dessa avviker något från SvFF:s officiella `#005293` och `#4A90E2`.
+---
 
-**Beslut:** Vid revision av SmFF.thmx ska `#005293` och `#4A90E2` ersätta befintliga blåtoner för att harmonisera med SvFF:s officiella palett. Tills dess – acceptera avvikelsen i befintliga filer, men använd SvFF-officiella värden i nyproduktion utanför PPT.
+## Slidestrukturer
 
-***
+{% tabs %}
+{% tab title="Framsida" %}
+- Bakgrundsfärg: Smålandsröd eller vit
+- SmFF-logotyp: centrerat eller nedre höger
+- Presentationstitel: SvFF Trim (eller Calibri Bold) – stor, versaler
+- Undertitel / datum / avsändare: Stag Sans Book (eller Calibri Regular), mindre
+- Valfritt: Myللtoning som bakgrundselement i ett hörn
+{% endtab %}
 
-## Slidestruktur
+{% tab title="Innehållsslide" %}
+- Rubrik: SvFF Trim eller Calibri Bold, Smålandsröd
+- Brödtext: Calibri Regular, Kolsvart, 18–24 pt
+- Max **en huvudtanke** per slide
+- Logotyp ej nödvändig på varje innehållsslide
+- Vit bakgrund är standard
+{% endtab %}
 
-### Framsida
+{% tab title="Bildslide" %}
+- Bild täcker hela ytan (utfallande)
+- Textblock med toning som bakgrund i underkant
+- Rubrik: SvFF Trim eller Calibri Bold, vit
+- SmFF-logotyp: nedre höger, vit variant
+{% endtab %}
 
-* Bakgrundsfärg: Smålandsröd eller vit
-* SmFF-logotyp: Centrerat eller nedre höger
-* Presentationstitel: SvFF Trim (eller Calibri Bold om Trim ej installerat) – stor, versaler, vit mot röd bakgrund / röd mot vit
-* Undertitel / datum / avsändare: Stag Sans Book (eller Calibri Regular), mindre
-* Valfritt: Myллtoningen som bakgrundselement i ett hörn
+{% tab title="Citat-slide" %}
+- Stor Stag Sans Book Italic (eller Calibri Italic) i valfri SmFF-färg
+- Citatkälla i Stag Sans Semibold (eller Calibri Bold), mindre
+- Enkel bakgrund – inget störande
+{% endtab %}
 
-\[BILD: Framsida – röd variant] \[BILD: Framsida – vit variant]
+{% tab title="Avslutningsslide" %}
+- Kort avslutande fras eller "Tack" i SvFF Trim
+- SmFF-logotyp, centrerat eller nedre höger
+- Kontaktuppgifter i Stag Sans Book
+- Kan ha Smålandsröd bakgrund för att rama in presentationen
+{% endtab %}
+{% endtabs %}
 
-### Innehållsslide – standardlayout
+---
 
-* Rubrik: SvFF Trim eller Calibri Bold, Smålandsröd
-* Brödtext: Calibri Regular, Kolsvart, 18–24 pt
-* Max en huvudtanke per slide
-* Logotyp ej nödvändig på varje innehållsslide – kan utelämnas
-* Vit bakgrund är standard
-
-\[BILD: Innehållsslide med text] \[BILD: Innehållsslide med bild och text]
-
-### Bildslide
-
-* Bild täcker hela ytan (utfallande)
-* Textblock med Myллtoning som bakgrund i underkant
-* Rubrik: SvFF Trim eller Calibri Bold, vit
-* SmFF-logotyp: Nedre höger, vit variant
-
-\[BILD: Bildslide helskärm]
-
-### Citat-slide
-
-* Stor Stag Sans Book Italic (eller Calibri Italic) i valfri SmFF-färg
-* Citatkälla i Stag Sans Semibold (eller Calibri Bold), mindre
-* Enkel bakgrund – inget störande
-
-### Avslut-slide
-
-* “Tack” eller en avslutande kort fras i SvFF Trim
-* SmFF-logotyp, centrerat eller nedre höger
-* Kontaktuppgifter i Stag Sans Book (Calibri Book)
-* Kan ha röd bakgrund för att rama in presentationen
-
-\[BILD: Avslutsslide]
-
-***
-
-## Rubriker som påstår något
+## Rubriker som påstår
 
 En presentation är bara lika bra som dess rubriker. Rubriker som bara namnger ett ämne kommunicerar ingenting.
 
-| Dålig rubrik              | Bra rubrik                                          |
-| ------------------------- | --------------------------------------------------- |
-| Verksamhetsplan 2025–2026 | Det här fokuserar vi på 2025–2026 – och varför      |
-| Ekonomi                   | Ekonomin är i balans – men vi ser tre risker framåt |
-| Utbildningsstatistik      | Fler ledare utbildar sig – trenden håller i sig     |
-| Information               | Tre saker ni behöver veta inför seriestart          |
+| Dålig rubrik | Bra rubrik |
+|---|---|
+| Verksamhetsplan 2025–2026 | Det här fokuserar vi på 2025–2026 – och varför |
+| Ekonomi | Ekonomin är i balans – men vi ser tre risker framåt |
+| Utbildningsstatistik | Fler ledare utbildar sig – trenden håller i sig |
+| Information | Tre saker ni behöver veta inför seriestart |
 
-***
+---
 
 ## Tekniska regler
 
-* Filformat för delning: .pptx (redigerbart) eller .pdf (låst för presentation)
-* Bildupplösning i slides: min 150 dpi vid slutlig storlek
-* Typsnittsinbäddning: Bädda alltid in typsnitt vid export till PDF (Alternativ → Spara som PDF → Bädda in typsnitt)
-* Färgrymd: RGB för digitala presentationer
-* Animationer: Använd sparsamt – enkla övergångar (“Tona” eller “Skjut”) accepteras. Aldrig snurrande, studdsande eller komplexa animationer.
+- **Filformat vid delning:** .pptx (redigerbart) eller .pdf (låst för presentation)
+- **Bildupplösning:** min 150 dpi vid slutlig storlek
+- **Typsnittsinbäddning:** bädda alltid in vid export till PDF (Alternativ → Spara som PDF → Bädda in typsnitt)
+- **Färgrymd:** RGB för digitala presentationer
+- **Animationer:** sparsamt – enkla övergångar ("Tona" eller "Skjut") accepteras. Aldrig snurrande, studdsande eller komplexa animationer
