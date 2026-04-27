@@ -1,71 +1,88 @@
 ---
-icon: clipboard-list-check
+description: En snabbreferens för externa byråer och leverantörer som producerar material för SmFF.
 ---
 
 # Checklista för byrån
 
-Denna checklista skickas till externa byråer och leverantörer innan produktion startar.
+Den här checklistan skickas till externa byråer och leverantörer innan produktion startar. Alla punkter ska vara uppfyllda innan leverans.
 
-***
+{% hint style="info" %}
+Frågor? Kontakta distriktschefen **innan** produktion – inte efter.
+{% endhint %}
 
-## Innan du börjar – läs detta
+---
 
-Du jobbar med Smålands Fotbollförbunds varumärke. Det kräver att du bekantar dig med varumärkesmanualen på GitHub: \[länk till repo].
+## Innan du börjar
 
-Kom tillbaka hit när du kan svara ja på alla frågor nedan.
+- [ ] Du har läst [Varumärkesattribut](../varumarkesidentitet/varumarkesattribut.md)
+- [ ] Du har läst [Röst & ton](../varumarkesidentitet/rost-and-ton.md)
+- [ ] Du förstår skillnaden mellan SmFF-primärt läge, samprofilering och SvFF-primärt läge
+- [ ] Du vet vilket läge som gäller för det här uppdraget
 
-***
+---
 
-## Checklista
+## Logotyp
 
-### Identitet och ton
+- [ ] Du använder den senaste versionen av logotypfilerna (hämtade från SmFF – aldrig från webbsidor)
+- [ ] Du har valt rätt logotypvariant för bakgrundsfärgen
+- [ ] Friytan runt emblematiken respekteras (lika med radien av "O" i FOTBOLLFÖRBUND)
+- [ ] Logotypen är inte sträckt, roterad eller modifierad
+- [ ] Logotypen är minst 18 mm bred i tryck (48 px digitalt)
+- [ ] Ingen drop shadow, glöd eller annan effekt på logotypen
 
-* [ ] Har du läst [01-identitet.md](../01-identitet.md)?
-* [ ] Har du läst [02-roest-och-spraak.md](../02-roest-och-spraak.md)?
-* [ ] Förstår du skillnaden mellan SmFF-primärt läge och nationellt (SvFF) läge?
+---
 
-### Logotyp
+## Färg
 
-* [ ] Använder du den senaste versionen av logotypfilerna (hämtade från SmFF)?
-* [ ] Har du valt rätt logotypvariant för bakgrundsfärgen?
-* [ ] Respekteras friytan runt emblematiken?
-* [ ] Är logotypen inte sträckt, roterad eller modifierad?
-* [ ] Är logotypen minst 18 mm bred i tryck (eller 48 px digitalt)?
+- [ ] Korrekta HEX / CMYK / Pantone-värden används (se [Färg](../grunden/farg.md))
+- [ ] Kontrastkrav uppfylls (WCAG AA) för all text
+- [ ] Smålandsröd är primär i SmFF-primärt läge
+- [ ] Kopplingsfärger (SvFF-blå/gul) används enbart i samprofilering eller SvFF-primärt läge
 
-### Färg
+---
 
-* [ ] Använder du korrekt HEX/CMYK/Pantone-värden (se [05-faerg.md](../05-faerg.md))?
-* [ ] Har du kontrollerat kontrast för all text (WCAG AA)?
-* [ ] Är Smålandsröd primär om det är SmFF-primärt läge?
+## Typografi
 
-### Typografi
+- [ ] SvFF Trim används för rubriker (eller Calibri Bold om Trim ej tillgänglig)
+- [ ] Stag Sans Book används för brödtext (eller Calibri Regular)
+- [ ] Max tre typsnittsskärningar i samma dokument
+- [ ] Brödtext aldrig i versaler
 
-* [ ] Används SvFF Trim för rubriker (eller Calibri Bold om Trim ej tillgänglig)?
-* [ ] Används Stag Sans Book för brödtext (eller Calibri Regular)?
-* [ ] Är inga fler än tre typsnittsskärningar i samma dokument?
+---
 
-### Bilder
+## Bilder
 
-* [ ] Är bilderna i rätt upplösning (300 dpi tryck / 72 dpi digitalt)?
-* [ ] Är fotorättigheterna klarlagda?
-* [ ] Är bilder på minderåriga godkända av SmFF?
+- [ ] Bilder är i rätt upplösning (300 dpi tryck / 72 dpi digitalt)
+- [ ] Fotorättigheterna är klarlagda och dokumenterade
+- [ ] Bilder på minderåriga är godkända av SmFF (samtycke från vårdnadshavare inhämtat)
+- [ ] Inga AI-genererade bilder
 
-### Tryck (om tillämpligt)
+---
 
-* [ ] Levereras filen som PDF/X-1a eller PDF/X-4?
-* [ ] Är färgrymd CMYK?
-* [ ] Är 3 mm utfall inkluderat?
-* [ ] Är typsnitt inbäddade?
+## Tryck (om tillämpligt)
 
-### Leverans
+- [ ] Filen levereras som PDF/X-1a eller PDF/X-4
+- [ ] Färgrymd är CMYK
+- [ ] 3 mm utfall (bleed) är inkluderat på alla sidor
+- [ ] Typsnitt är inbäddade i PDF:en
+- [ ] Bilder har min 300 dpi vid slutlig storlek
 
-* [ ] Levereras originalfiler (.ai, .indd, .pptx) tillsammans med exporterade filer?
-* [ ] Är filnamnen tydliga och daterade?
-* [ ] Har du noterat eventuella avvikelser från manualen och motiverat dem?
+---
 
-***
+## Leverans
 
-## Kontakt vid frågor
+- [ ] Originalfiler (.ai, .indd, .pptx, .figma) levereras tillsammans med exporterade filer
+- [ ] Filnamn följer konventionen: `SmFF_[beskrivning]_[version]_[datum].[format]`
+- [ ] Eventuella avvikelser från manualen är skriftligt noterade och motiverade
+- [ ] Provtryck / PDF-korrektur är godkänt av SmFF innan serietryck
 
-Distriktschefen, Smålands Fotbollförbund\
-\[e-post] | \[telefon]
+---
+
+## Filnamnsexempel
+
+```
+SmFF_matchaffisch_v1_20250615.pdf
+SmFF_logo_rod_v1.svg
+SmFF_presentation_arsmote_2025_v2.pptx
+SmFF_sociala_medier_mallpack_v1_20250901.zip
+```
