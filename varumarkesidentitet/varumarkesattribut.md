@@ -7,12 +7,12 @@ description: De fem egenskaperna som definierar SmFF:s personlighet – och styr
 SmFF:s fem attribut är inte värderingar på en vägg. De är ett operativt ramverk. När något känns rätt för SmFF – det är för att ett eller flera av dessa attribut är på plats. Varje attribut bryts ned i tre dimensioner: **Text**, **Design** och **Upplevelse**.
 
 {% hint style="info" %}
-**Så här används de:** Nästa gång du skapar kommunikation – ställ dig frågan: vilket attribut är mest relevant här? Och syns det i texten, designen och upplevelsen?
+**Så här används de:** Nästa gång du skapar kommunikation – ställ frågan: vilket attribut är mest relevant här? Och syns det i texten, designen och upplevelsen?
 {% endhint %}
 
 ---
 
-## Rotad
+## 🌱 Rotad
 
 *Vi vet var vi kommer från.*
 
@@ -21,7 +21,7 @@ Varumärket är djupt förankrat i Småland – i landskapet, kulturen och folkr
 {% tabs %}
 {% tab title="Text" %}
 - Referera till Småland och det småländska som faktisk kontext – inte bara geografisk etikett
-- Namnge orter, föreningar och platser: det konkreta är mer äkta än det abstrakta
+- Namnge orter, föreningar och platser – det konkreta är mer äkta än det abstrakta
 - Undvik global marknadsföringsjargong – vi är en regional folkrörelse, inte ett varumärke
 - Berätta historier om hur fotbollen byggts upp i Småland, generation efter generation
 {% endtab %}
@@ -42,11 +42,11 @@ Varumärket är djupt förankrat i Småland – i landskapet, kulturen och folkr
 
 ---
 
-## Envis
+## 💪 Envis
 
 *Vi ger inte upp.*
 
-Den småländska envishet som odlar på stenig mark. Vi hittar vägar när det inte finns färdiga svar. Vi stannar kvar när det är svårt.
+Den småländska envishet som odlar på stenig mark. Vi hittar vägar när det inte finns färdiga svar. Vi stannar kvar när det är svårt. Uthållighet – inte av gammal vana, utan för att vi tror på det vi gör.
 
 {% tabs %}
 {% tab title="Text" %}
@@ -71,7 +71,7 @@ Den småländska envishet som odlar på stenig mark. Vi hittar vägar när det i
 
 ---
 
-## Tillsammans
+## 🦁 Tillsammans
 
 *Vi jagar i flock.*
 
@@ -87,7 +87,7 @@ Lejonet med armbost är inte en ensam krigare – det är ett djur som är stark
 
 {% tab title="Design" %}
 - Bilder på grupper, lag och gemensamma stunder prioriteras framför solobilder
-- Kompositlogotyper (SmFF + SvFF) visar att vi samarbetar
+- Kompositlogotyper (SmFF + SvFF, SmFF + partners) visar att vi samarbetar
 - Undvik hierarkiska layouter som signalerar ett centrum och en periferi
 {% endtab %}
 
@@ -100,7 +100,7 @@ Lejonet med armbost är inte en ensam krigare – det är ett djur som är stark
 
 ---
 
-## Äkta
+## ✊ Äkta
 
 *Vi är som vi är.*
 
@@ -110,7 +110,7 @@ Folkrörelsens autenticitet är vår starkaste tillgång. Vi väljer hellre ett 
 {% tab title="Text" %}
 - Skriv som du talar – naturligt, direkt, utan omskrivningar
 - Erkänn när saker är svåra eller ofärdiga – osäkerhet är mänskligare än fasad
-- Undvik marknadsföringsspråk som skapar distans
+- Undvik marknadsföringsspråk som skapar distans: "optimera", "möjliggöra", "tillhandahålla"
 - Citat och röster från riktiga människor väger tyngre än redaktionell text
 {% endtab %}
 
@@ -130,7 +130,7 @@ Folkrörelsens autenticitet är vår starkaste tillgång. Vi väljer hellre ett 
 
 ---
 
-## Framåt
+## → Framåt
 
 *Vi är alltid på väg.*
 
@@ -139,14 +139,14 @@ Fotbollen är i rörelse. Småland är i rörelse. SmFF driver på, stillastår 
 {% tabs %}
 {% tab title="Text" %}
 - Tala om framtiden med entusiasm och konkrethet: vad händer härnäst?
-- Undvik nostalgisering som ett mål i sig – historien tjänar framtiden
+- Undvik nostalgisering som ett mål i sig – historien tjänar framtiden, inte tvärtom
 - Visa riktning: "vi arbetar mot", "vi fokuserar på", "nästa steg är"
 - Dela lärdomar och experiment öppet: en organisation som lär sig offentligt rör sig framåt
 {% endtab %}
 
 {% tab title="Design" %}
-- Myллtoningen är designelementet för rörelse – organisk, aldrig linjär, alltid i förändring
-- Typografi i SvFF Trim signalerar självförtroende och framåtanda
+- Myللtoningen är designelementet för rörelse – organisk, aldrig linjär, alltid i förändring
+- Typografi i SvFF Trim signalerar självförtroende och framåtanda – stor, rak, utan ursäkter
 - Bilder fångar rörelse och energi: löpande, sparkar, firande, interaktioner
 {% endtab %}
 
@@ -161,12 +161,12 @@ Fotbollen är i rörelse. Småland är i rörelse. SmFF driver på, stillastår 
 
 ## Attributen i kombination
 
-I de starkaste kommunikationsprodukterna syns flera attribut samtidigt. Några naturliga kombinationer:
+I de starkaste kommunikationsprodukterna syns flera attribut samtidigt.
 
 | Situation | Primärt attribut | Stödjande |
 |---|---|---|
 | Matchresultat, eventkommunikation | **Framåt** | Tillsammans |
 | Utbildning, stöd till föreningar | **Rotad** | Tillsammans |
 | Svar på kritik eller utmanande frågor | **Äkta** | Envis |
-| Rekrytering, årsberättelse | **Rotad** | Framåt |
-| Kriskommunkation | **Äkta** | Envis |
+| Årsberättelse, rekrytering | **Rotad** | Framåt |
+| Kriskommunikation | **Äkta** | Envis |
