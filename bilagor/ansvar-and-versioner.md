@@ -1,61 +1,92 @@
-# Tekniska krav på leveransfiler
+---
+description: Vem äger varumärket, hur manualen hålls levande och var du hittar hjälp.
+---
 
-## Bilaga C: Filformat och tekniska leveranskrav
+# Ansvar & versioner
 
-***
+## Varumärkesägande
 
-### Logotypfiler – krav vid beställning hos leverantör
+**Distriktschefen** vid Smålands Fotbollförbund äger och ansvarar för varumärkesplattformen och dess tillämpning. Beslut om avvikelse från manualen fattas av distriktschefen.
 
-| Ändamål              | Format                       | Färgrymd             | Upplösning                        |
-| -------------------- | ---------------------------- | -------------------- | --------------------------------- |
-| Trycksak (offset)    | EPS eller PDF                | CMYK                 | Vektorgrafik                      |
-| Screentryck textil   | EPS eller PDF                | Spot color / Pantone | Vektorgrafik                      |
-| Brodyr               | EPS (förenklad plattversion) | –                    | Vektorgrafik                      |
-| Digital webb         | SVG eller PNG                | RGB / sRGB           | 72 dpi, min 400 px                |
-| Social media profil  | PNG                          | RGB / sRGB           | 400 × 400 px                      |
-| Digital presentation | PNG                          | RGB / sRGB           | 300 px bred, transparent bakgrund |
+---
 
-***
+## Vad kräver godkännande?
 
-### Leveranskrav för byråer – till SmFF
+{% tabs %}
+{% tab title="Kräver alltid godkännande" %}
+- Ny kompositlogotyp (SmFF + extern part)
+- Nya verksamhetslogotyper eller sub-brands
+- Avvikelse från godkänd färgpalett
+- Nytt profilmaterial med logotyp
+- Kampanjmaterial som medvetet bryter mot manualen av kreativa skäl
+- Kommunikation om känsliga ämnen som kan bli publik
+- Nya partnerlogotyper på SmFF:s material
+{% endtab %}
 
-När externa byråer levererar avslutat arbete ska följande alltid ingå:
+{% tab title="Kräver inte godkännande" %}
+- Ordinarie sociala medieinlägg (som följer manualen)
+- Nyhetsbrev och e-postutskick
+- Presentationer enligt PowerPoint-mallen
+- Interna dokument och rapporter
+- Bildval på webbplats (inom bildspråksprinciperna)
+{% endtab %}
+{% endtabs %}
 
-#### Tryckmaterial
+---
 
-* [ ] PDF/X-1a eller PDF/X-4 (produktionsklar)
-* [ ] Original i .ai, .indd eller .psd med länkade filer och typsnitt
-* [ ] Provtryck / PDF-korrektur godkänt av SmFF
+## Versionsstyrning
 
-#### Digitalt material
+Manualen versionshanteras i GitHub-repot. Alla ändringar dokumenteras i versionshistoriken nedan.
 
-* [ ] Exporterade filer i slutformat (JPG, PNG, SVG)
-* [ ] Källfiler (.ai, .psd, .figma-export)
-* [ ] Typsnitten specificerade (namn och skärning)
+| Versionsnivå | Innebär | Beslutas av |
+|---|---|---|
+| **Patch** (1.0 → 1.0.1) | Rättning av fel, tydliggörande av befintlig regel | Distriktschefen |
+| **Minor** (1.0 → 1.1) | Nytt kapitel, komplettering, ny tillämpning | Distriktschefen |
+| **Major** (1.0 → 2.0) | Omarbetad identitet, ny logotyp, ny övergripande strategi | Förbundsstyrelsen |
 
-#### Presentation
+---
 
-* [ ] .pptx med inbäddade typsnitt
-* [ ] PDF-version
+## Versionshistorik
 
-#### Video
+| Version | Datum | Ändringar | Ansvarig |
+|---|---|---|---|
+| 1.0 | 2025 | Första version av varumärkesplattformen | Distriktschefen |
 
-* [ ] MP4, H.264, minst 1080p
-* [ ] Källfiler om SmFF begär det
-* [ ] Undertextfil (.srt) om textning är inkluderat
+---
 
-***
+## Tillgång till filer och mallar
 
-### Filnamnskonvention
+| Material | Kontakt / Plats |
+|---|---|
+| Logotypfiler (EPS, SVG, PNG) | Distriktschefen |
+| SvFF Trim och Stag Sans | SvFF:s marknadsavdelning via distriktschefen |
+| SmFF.thmx (PowerPoint-mall) | \[intern filserver / SharePoint-länk\] |
+| Brevpapper och dokumentmallar | \[intern filserver / SharePoint-länk\] |
+| Bildbank | \[intern bildbank-länk\] |
+| Bildsamtyckesblankett | Distriktschefen |
 
-Alla filer som levereras till eller från SmFF ska namnges enligt:
+---
 
-`SmFF_[beskrivning]_[version]_[datum].[format]`
+## Kontakt
 
-Exempel:
+**Frågor om varumärkesplattformen och dess tillämpning:**\
+Distriktschefen, Smålands Fotbollförbund\
+\[e-post\] · \[telefon\]\
+smalandsfotbollen.se
 
-* `SmFF_matchaffisch_v1_20250315.pdf`
-* `SmFF_logo_rod_v1.svg`
-* `SmFF_nyhetsbrev_maj2025_v2.html`
+**Frågor om SvFF:s grafiska riktlinjer och samprofilering:**\
+Maria Hellströmer, SvFF\
+maria.hellstromer@svenskfotboll.se\
++46 70 295 09 37
 
-Undvik: mellanslag i filnamn, specialtecken (åäö), versaler i filnamn (utom prefix SmFF).
+---
+
+## Att hålla manualen levande
+
+En varumärkesmanual som inte uppdateras förlorar sitt värde. Manualen ska ses över:
+
+- **Löpande** – vid frågor och oklarheter som uppdagar luckor
+- **Årligen** – i samband med verksamhetsplansarbetet
+- **Vid behov** – vid strategiförändringar, nya produkter eller ny samprofilering
+
+Förslag på förändringar skickas till distriktschefen som beslutar om nivå (patch, minor eller major) och genomför uppdateringen i GitHub-repot.
