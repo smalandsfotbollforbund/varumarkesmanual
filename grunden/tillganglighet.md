@@ -1,143 +1,67 @@
 ---
-description: Toning, ramar, grafiska element
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
-  tags:
-    visible: true
+description: Tillgänglighet är inte ett tillägg – det är en grundförutsättning för inkluderande kommunikation.
 ---
 
-# Designelement
+# Tillgänglighet
 
-## Grafiska element
+SmFF kommunicerar med hela Småland. Det innebär att vår kommunikation måste fungera för alla – oavsett syn, kognition eller hur man tar del av innehållet.
 
-Bakom färgerna och formerna finns symboler som förankrar Smålands Fotbollförbund i både vår historia och vår framtid. De är hämtade ur landskapet, kulturen och människorna – och de bär berättelsen om vilka vi är.
+{% hint style="success" %}
+**Kopplat till attributet Tillsammans:** Tillgänglighet är ett konkret uttryck för att vi menar allvar med att ingen lämnas utanför.
+{% endhint %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th></tr></thead><tbody><tr><td><i class="fa-cat-space">:cat-space:</i></td><td><strong>Lejonet</strong></td><td>Kopplar till Smålands landskapsvapen och symboliserar styrka och envishet.</td><td></td><td></td></tr><tr><td><i class="fa-trees">:trees:</i></td><td><strong>Skogen</strong></td><td>Det gröna står för den småländska naturen, tillväxt och framtidstro.</td><td></td><td></td></tr><tr><td><i class="fa-mountains">:mountains:</i></td><td><strong>Jorden &#x26; berget</strong></td><td>Beige representerar rötterna, historien och förankringen i Smålands mylla.</td><td></td><td></td></tr><tr><td><i class="fa-sunglasses">:sunglasses:</i></td><td><strong>Klarheten</strong></td><td>Vitt och grått skapar balans och transparens som står för glaset från glasriket.</td><td></td><td></td></tr></tbody></table>
+---
 
-## 07. Designelement
+## Kontrastkrav (WCAG AA)
 
-***
+Minst **4,5:1** för normal text · Minst **3:1** för stor text (18 pt+) och grafik.
 
-### Formspråket
+| Text | Bakgrund | Kontrast | Status |
+|---|---|---|---|
+| Kolsvart `#333333` | Linnevit `#FFFFFF` | 12,6:1 | ✅ |
+| Linnevit `#FFFFFF` | Smålandsröd `#A91C1C` | 5,9:1 | ✅ |
+| Linnevit `#FFFFFF` | Skogsgrön `#2F5731` | 8,1:1 | ✅ |
+| Kolsvart `#333333` | Torparbeige `#E2DBD0` | 7,2:1 | ✅ |
+| Linnevit `#FFFFFF` | Nationell mörkblå `#005293` | 9,4:1 | ✅ |
+| Kolsvart `#333333` | Ängsgrön `#99C1A2` | 4,8:1 | ✅ |
+| Linnevit `#FFFFFF` | Stenmursgrå `#F2F2F2` | 1,1:1 | ❌ Aldrig |
 
-SmFF:s grafiska formspråk är **organiskt men strukturerat** – precis som det småländska landskapet. Det finns en tydlig uppbyggnad, men mjuka övergångar och naturliga former. Vi undviker hårda tekniska geometrier till förmån för former som känns levande och jordnära.
+> Kontrollera alltid nya kombinationer på [webaim.org/resources/contrastchecker](https://webaim.org/resources/contrastchecker)
 
-De grafiska elementen är verktyg, inte dekoration. De används med avsikt – för att skapa kontrast, struktur, rörelse eller djup.
+---
 
-***
+## Text och läsbarhet
 
-### 1. Myллtoningen – det bärande designelementet
+- Minsta textstorlek: **9 pt** i tryck, **14 px** digitalt
+- Radavstånd: aldrig under **120 %** i löpande text
+- Radlängd: max **75 tecken** per rad för optimal läsbarhet
+- Undvik versaler i långa texter – försämrar läshastigheten
+- Undvik text direkt på fotografier utan tillräcklig kontrast
 
-SmFF:s centrala designelement är en **organisk toning** som visualiserar övergången från den steniga åkern (Torparbeige/Smålandsröd) till skogen (Skogsgrön). Den är SmFF:s svar på SvFF:s blågula toning – och ska upplevas på samma sätt: levande, böljande, aldrig statisk eller linjär.
+---
 
-\[BILD: Myллtoningen i fyra varianter – röd till grön, grön till röd, röd till beige, grön till beige]
+## Bilder och alternativtexter
 
-#### Toningens roll
+Alla bilder som publiceras digitalt ska ha **alt-text** som beskriver bildens innehåll för skärmläsare. Dekorativa bilder (bakgrunder, mönster) ges tom alt-text (`alt=""`).
 
-Toningen binder samman SmFF:s primärfärger och skapar rörelse i kommunikationen. Den berättar historien om Småland – från myllan till skogen, från det historiska till det nutida.
+**Bra alt-text:**\
+"Spelare i röd SmFF-tröja sparkar boll på grusplan i Växjö"
 
-Toningen kan användas:
+**Dålig alt-text:**\
+"Fotboll" · "Bild" · "IMG\_4521"
 
-* Som bakgrundselement på affischer, omslag och framsidor
-* Över fotografier för att skapa SmFF:s bildmanér (se <08-bildspraak.md>)
-* Som avdelarband i trycksaker och presentationsslides
-* Som dekorativt element i bildkanter
+---
 
-#### Toningens regler
+## Video och rörligt innehåll
 
-**Aldrig linjär.** Toningen ska uppfattas som mjukt böljande – använd radial eller friform gradient, inte linjär.
+- Alla videor som publiceras ska ha **undertexter**
+- Video med viktig information ska inte enbart förlita sig på ljud
+- Animationer ska avslutas automatiskt efter 5 sekunder eller ha pausknapp
 
-**Alltid från en kant.** Toningen växer ut från en kant eller ett hörn av ytan – aldrig centralt placerad.
+---
 
-**Proportioner:**\
-Om Smålandsröd är primär i toningen: Röd max 70 %, grön/beige min 30 %.\
-Om Skogsgrön är primär: Grön max 60 %, röd/beige min 40 %.
+## Digitala formulär och knappar
 
-**Opacitet vid bildsättning:** 60–80 % opacitet – bilden under ska fortfarande vara läsbar.
-
-\[BILD: Rätt användning – böljande toning ut från kanten] \[BILD: Fel användning – linjär, centrerad eller för dominant toning]
-
-***
-
-### 2. Ramar
-
-Ramar används som designelement runt fotografier och informationsblock. De skapar tydlighet och ordning i kommunikation med högt informationsinnehåll.
-
-#### Bildramar
-
-Bildramar används i kommunikation där bilder är i fokus – affischer, matchkommunikation, omslag.
-
-**SmFF:s bildram är alltid i Smålandsröd.** (Jämför: SvFF använder blå ram för förbund och gul för landslag.)
-
-**Konstruktion:**
-
-1. Placera bilden i sin arbetsyta (100 %)
-2. Skala ner bilden till 90 % – den frigjorda ytan bildar ramen
-3. På icke-kvadratiska format: justeringa de bredare sidornas ramar så att ramtjockleken är enhetlig på alla fyra sidor
-
-\[BILD: Ramkonstruktion stående format – 100 % och 90 %] \[BILD: Ramkonstruktion liggande format] \[BILD: Färdig affisch med ram]
-
-**Ramens tjocklek:** Proportionell mot layoutens totala storlek. Som riktlinje: max hälften av bredden på bokstaven “i” i den största texten som ramar in.
-
-#### Informationsramar
-
-Informationsramar används runt faktablock, datum, praktisk information som man önskar lyfta fram. De skapar en koppling till fotbollsplanens linjering.
-
-**Konstruktion:**
-
-* Rektangulär form – alltid
-* Enkel linje i Stenmursgrå eller Kolsvart mot ljus bakgrund, Linnevit mot mörk bakgrund
-* Ingen ifylld bakgrundsfärg (undantag: faktarutor i SvFF-blå eller Torparbeige i specifika sammanhang)
-* SvFF Trim används **inte** inuti informationsramar – endast Stag Sans
-
-\[BILD: Informationsram med datum och plats] \[BILD: Faktaruta med flera datapunkter]
-
-***
-
-### 3. Lejonet som grafiskt element
-
-Lejonet med armbost kan användas som ett storskaligt grafiskt element – ett vattenmärke eller en texturdekoration – i bakgrunden av kommunikationsytor.
-
-**Regler:**
-
-* Opacitet: 5–15 % mot vit bakgrund, 10–25 % mot röd eller grön bakgrund
-* Alltid i en enkel, platt version utan detaljer (se SmFF\_lejon\_platt i <03-logotyp.md>)
-* Placeras aldrig bakom brödtext – bara bakom rena ytor eller fotografier
-* Kan klippas av kanten för en mer dynamisk komposition
-
-\[BILD: Lejonet som vattenmärke i presentationsbakgrund] \[BILD: Lejonet beskuret i ett hörn av en affisch]
-
-***
-
-### 4. Linjer och avdelare
-
-Enkla horisontella linjer används som strukturelement för att separera innehållsblock i trycksaker och presentationer.
-
-**Specifikation:**
-
-* Tjocklek: 0,5 pt i tryck, 1 px digitalt
-* Färg: Stenmursgrå (`#F2F2F2`) på vit bakgrund, Linnevit (`#FFFFFF`) på mörk bakgrund, Smålandsröd som accentavdelare
-* Aldrig dekorativa linjer i flera tjocklekar eller dubbla
-
-***
-
-### 5. Formspråk – vad vi undviker
-
-* **Hårda geometriska former** (trianglar, romb, hexagon) utan direkt anknytning till fotboll eller det småländska
-* **Drop shadows och 3D-effekter** på grafiska element
-* **Gradients i fler än två färger** – toningarna är alltid binära
-* **Dekorativa ramar med rundade hörn** – SmFF:s ramar är alltid rektangulära med raka hörn
-* **Texteffekter** – inga konturer, skuggor eller glöd på typsnitt
-* **Ornament och illustrationer** som inte är lejonet, naturmotiv eller fotbollsrelaterade
+- Formulärfält ska ha tydliga etiketter – inte bara placeholder-text
+- Knappar ska ha beskrivande text: inte bara "Skicka" eller "Klicka här"
+- Interaktiva element ska vara nåbara med tangentbord
