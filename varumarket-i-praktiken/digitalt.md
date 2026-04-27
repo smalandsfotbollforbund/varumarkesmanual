@@ -1,7 +1,3 @@
----
-icon: globe-www
----
-
 # Digitalt & webb
 
 ***

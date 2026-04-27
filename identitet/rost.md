@@ -1,6 +1,5 @@
 ---
 description: Hur SmFF låter – i varje ord, i varje kanal, i varje sammanhang.
-icon: head-side-speak
 ---
 
 # Röst & ton

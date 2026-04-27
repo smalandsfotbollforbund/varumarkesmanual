@@ -2,7 +2,6 @@
 description: >-
   De fem egenskaperna som definierar SmFF:s personlighet – och styr varje
   kommunikationsbeslut.
-icon: hands-holding-heart
 ---
 
 # Varumärkesattribut

@@ -2,7 +2,6 @@
 description: >-
   När SmFF är en del av det nationella systemet – och när vi talar med vår egen
   röst.
-icon: handshake-angle
 ---
 
 # Relation till SvFF

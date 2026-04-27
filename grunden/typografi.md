@@ -1,6 +1,5 @@
 ---
 description: Samma typografisystem som SvFF – för igenkänning inom fotbollsfamiljen.
-icon: font-case
 ---
 
 # Typografi

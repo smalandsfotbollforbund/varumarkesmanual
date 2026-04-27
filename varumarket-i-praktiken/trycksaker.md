@@ -1,8 +1,4 @@
----
-icon: print
----
-
-# Tryck
+# Trycksaker
 
 ***
 

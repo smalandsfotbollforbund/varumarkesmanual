@@ -1,6 +1,5 @@
 ---
 description: Vart SmFF är på väg och varför det spelar roll.
-icon: bullseye
 ---
 
 # Vision & mission

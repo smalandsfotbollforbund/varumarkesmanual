@@ -1,7 +1,3 @@
----
-icon: camera-movie
----
-
 # Rörligt innehåll
 
 ## 13. Rörligt och ljud

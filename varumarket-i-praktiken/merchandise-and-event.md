@@ -1,5 +1,4 @@
 ---
-icon: tent-circus
 layout:
   width: default
   title:

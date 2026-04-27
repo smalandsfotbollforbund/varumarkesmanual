@@ -1,6 +1,5 @@
 ---
 description: SmFF:s logotyp är ett cirkelemblem med djupa rötter i folkrörelsetraditionen.
-icon: shield
 ---
 
 # Logotyp

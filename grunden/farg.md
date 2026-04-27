@@ -2,7 +2,6 @@
 description: >-
   SmFF:s färger är hämtade ur det småländska landskapet. Varje färg bär en
   berättelse.
-icon: swatchbook
 ---
 
 # Färg

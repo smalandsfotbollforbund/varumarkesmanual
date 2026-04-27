@@ -1,6 +1,5 @@
 ---
 description: De visuella byggstenarna som allt SmFF-material är byggt på.
-icon: book-open
 ---
 
 # Översikt

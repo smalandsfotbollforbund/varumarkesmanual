@@ -1,6 +1,2 @@
----
-icon: book-open
----
-
 # Översikt
 

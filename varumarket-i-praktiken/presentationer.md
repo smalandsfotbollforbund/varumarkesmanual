@@ -1,7 +1,3 @@
----
-icon: presentation-screen
----
-
 # Presentationer
 
 ***

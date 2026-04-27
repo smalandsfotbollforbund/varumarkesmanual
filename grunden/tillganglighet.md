@@ -2,7 +2,6 @@
 description: >-
   Tillgänglighet är inte ett tillägg – det är en grundförutsättning för
   inkluderande kommunikation.
-icon: universal-access
 ---
 
 # Tillgänglighet

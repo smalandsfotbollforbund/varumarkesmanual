@@ -2,7 +2,6 @@
 description: >-
   Grunden för allt SmFF gör – vår historia, vår plats och det som driver oss
   framåt.
-icon: fire
 ---
 
 # Den småländska andan
