@@ -4,33 +4,33 @@ description: Vart SmFF är på väg och varför det spelar roll.
 
 # Vision & mission
 
-## Vision
+**Vision**
 
-**Fotboll för alla – i hela Småland, hela livet, i takt med tiden.**
+### **Fotboll för alla – i hela Småland, hela livet, i takt med tiden.**
 
 Visionen är vår riktning på lång sikt. Den visar vart vi är på väg. Den formuleras alltid i sin helhet – aldrig förkortas eller omformuleras i officiell kommunikation.
 
 ***
 
-## Mission
+**Mission**
 
-**Vi stärker föreningsliv och människors möjlighet att växa genom fotboll.**
+### **Vi stärker föreningsliv och människors möjlighet att växa genom fotboll.**
 
 Missionen är vad vi gör, varje dag. Den är ett löfte till Smålands föreningar och en förklaring till omvärlden om varför vi finns.
 
 ***
 
-## Verksamhetsidé
+**Verksamhetsidé**
 
-**Vi är ett nav för stöd, samverkan och utveckling – och främjar, utvecklar och administrerar fotbollens alla former i Småland.**
+### **Vi är ett nav för stöd, samverkan och utveckling – och främjar, utvecklar och administrerar fotbollens alla former i Småland.**
 
-Verksamhetsidén är mer operativ än visionen och missionen. Den beskriver hur vi arbetar, inte bara varför.
+Missionen är vad vi gör, varje dag. Den är ett löfte till Smålands föreningar och en förklaring till omvärlden om varför vi finns.
 
 ***
 
 ## Positionering
 
-SmFF är det regionala navet mellan 600+ lokala föreningar och det nationella förbundet SvFF. Vi är inte en klubb, inte ett företag – vi är en folkrörelseorganisation som existerar för att föreningarna ska existera bättre.
+SmFF är det regionala navet mellan de lokala föreningar och det nationella förbundet SvFF. Vi är inte en klubb, inte ett företag – vi är en folkrörelseorganisation som existerar för att föreningarna ska existera bättre.
 
 ```
 UEFA
@@ -54,7 +54,7 @@ Användning av organisationens namn i kommunikation:
 | ------------------------------------------ | ------------------------------------ |
 | Fullständigt officiellt namn               | Smålands Fotbollförbund              |
 | Förkortning (andra omnämnandet och framåt) | SmFF                                 |
-| Vardagligt (internt och informellt)        | Förbundet                            |
+| Vardagligt (internt och informellt)        | Distriktet                           |
 | Webb och digitalt                          | smalandsfotbollen.se                 |
 | På engelska                                | Smålands Football Association (SmFF) |
 

@@ -6,15 +6,15 @@ description: >-
 
 # Varumärkesattribut
 
-SmFF:s fem attribut är inte värderingar på en vägg. De är ett operativt ramverk. När något känns rätt för SmFF – det är för att ett eller flera av dessa attribut är på plats. Varje attribut bryts ned i tre dimensioner: **Text**, **Design** och **Upplevelse**.
+SmFF:s fem attribut är inte värderingar på en vägg. De är ett operativt ramverk. När något känns rätt för SmFF är det för att ett eller flera av dessa attribut är på plats. Varje attribut bryts ned i tre dimensioner: **Text**, **Design** och **Upplevelse**.
 
 {% hint style="info" %}
-**Så här används de:** Nästa gång du skapar kommunikation – ställ frågan: vilket attribut är mest relevant här? Och syns det i texten, designen och upplevelsen?
+**Så här används de:** Nästa gång du skapar kommunikation ställ frågan: vilket attribut är mest relevant här? Och syns det i texten, designen och upplevelsen?
 {% endhint %}
 
 ***
 
-## 🌱 Rotad
+## <i class="fa-seedling">:seedling:</i> Rotad
 
 _Vi vet var vi kommer från._
 
@@ -42,13 +42,11 @@ Varumärket är djupt förankrat i Småland – i landskapet, kulturen och folkr
 {% endtab %}
 {% endtabs %}
 
-***
-
-## 💪 Envis
+## <i class="fa-bicep">:bicep:</i> Envis
 
 _Vi ger inte upp._
 
-Den småländska envishet som odlar på stenig mark. Vi hittar vägar när det inte finns färdiga svar. Vi stannar kvar när det är svårt. Uthållighet – inte av gammal vana, utan för att vi tror på det vi gör.
+Den småländska envishet som odlar på stenig mark. Vi hittar vägar när det inte finns färdiga svar. Vi stannar kvar när det är svårt. Uthållighet, inte av gammal vana, utan för att vi tror på det vi gör.
 
 {% tabs %}
 {% tab title="Text" %}
@@ -71,13 +69,11 @@ Den småländska envishet som odlar på stenig mark. Vi hittar vägar när det i
 {% endtab %}
 {% endtabs %}
 
-***
-
-## 🦁 Tillsammans
+## <i class="fa-cat-space">:cat-space:</i> Tillsammans
 
 _Vi jagar i flock._
 
-Lejonet med armbost är inte en ensam krigare – det är ett djur som är starkast i samarbete. Fotbollen är ett lagspel. Föreningslivet är ett nätverk. SmFF är ett nav, inte en topp.
+Lejonet med armbost är inte en ensam krigare. Det är ett djur som är starkast i samarbete. Fotbollen är ett lagspel. Föreningslivet är ett nätverk. SmFF är ett nav, inte en topp.
 
 {% tabs %}
 {% tab title="Text" %}
@@ -100,9 +96,7 @@ Lejonet med armbost är inte en ensam krigare – det är ett djur som är stark
 {% endtab %}
 {% endtabs %}
 
-***
-
-## ✊ Äkta
+## <i class="fa-hand-fist">:hand-fist:</i> Äkta
 
 _Vi är som vi är._
 
@@ -130,13 +124,11 @@ Folkrörelsens autenticitet är vår starkaste tillgång. Vi väljer hellre ett 
 {% endtab %}
 {% endtabs %}
 
-***
-
-## → Framåt
+## <i class="fa-arrow-right">:arrow-right:</i> Framåt
 
 _Vi är alltid på väg._
 
-Fotbollen är i rörelse. Småland är i rörelse. SmFF driver på, stillastår aldrig. Vi blickar tillbaka för att lära – men vi rör oss framåt.
+Fotbollen är i rörelse. Småland är i rörelse. SmFF driver på, stillastår aldrig. Vi blickar tillbaka för att lära, men vi rör oss framåt.
 
 {% tabs %}
 {% tab title="Text" %}
