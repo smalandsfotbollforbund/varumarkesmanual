@@ -30,7 +30,7 @@ Dessa tre delar separeras aldrig inom emblematiken. Undantag: lejonet som separa
 
 ## Primära varianter och lejonet ensamt
 
-![](/broken/files/DqlG8MPJP4hqYwta5tUk)
+![](../.gitbook/assets/logotyp-varianter.svg)
 
 {% tabs %}
 {% tab title="Primär (röd)" %}
@@ -105,7 +105,7 @@ I lämpliga sammanhang kan lejonet med armbost användas ensamt – utan ring oc
 
 ## Friyta
 
-![](/broken/files/3US9nKztNZZWVBYjQFuZ)
+![](../.gitbook/assets/logotyp-friyta.svg)
 
 Friytan är zonen runt emblematiken där inga andra element placeras – varken text, grafik, bilder eller dekorativa element. Friytan definieras som **radien av bokstaven O i "FOTBOLLFÖRBUND"** i den yttre ringen.
 
@@ -119,7 +119,7 @@ När emblematiken placeras på ett fotografi ska friytan ligga mot en ren och en
 
 ## Minsta tillåtna storlek
 
-![](/broken/files/VOfsr8JpXP6XzRlp6Rda)
+![](../.gitbook/assets/logotyp-minstastorlek.svg)
 
 | Format                 | Emblem (minst) | Lejon ensamt (minst) |
 | ---------------------- | -------------- | -------------------- |
@@ -136,7 +136,7 @@ Under dessa mått används alltid lejonet ensamt – aldrig det fullständiga em
 
 ## Placering
 
-![](/broken/files/9EnEF50eeUql5A1Gsnuw)
+![](../.gitbook/assets/logotyp-placering.svg)
 
 Emblematiken ska vara **15 % av det längsta måttet** på kommunikationsytan.
 
@@ -150,7 +150,7 @@ Emblematiken ska vara **15 % av det längsta måttet** på kommunikationsytan.
 
 ## Samprofilering med SvFF
 
-![](/broken/files/UjxUAWttYe2Mamrya6KQ)
+![](../.gitbook/assets/logotyp-samprofilering.svg)
 
 När SmFF och SvFF visas tillsammans:
 
