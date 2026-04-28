@@ -1,15 +1,29 @@
 ---
 description: De visuella byggstenarna som allt material är byggt på.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: false
+  tags:
+    visible: true
 ---
 
 # Översikt
 
-Grunden är det visuella systemet. Logotypen, färgen, typografin och tillgängligheten är inte stilpreferenser. De är beslut som fattas en gång och sedan tillämpas konsekvent.
+**Grunden är det visuella systemet.** Logotypen, färgen, typografin och tillgängligheten är inte stilpreferenser. De är beslut som fattas en gång och sedan tillämpas konsekvent.
 
 > En välgrundad identitet kräver inte variation – den kräver konsekvens.\
 > Varje gång vi avviker utan anledning försvagar vi igenkänningen.
-
-***
 
 ## I det här avsnittet
 
