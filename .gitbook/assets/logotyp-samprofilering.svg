@@ -1,0 +1,45 @@
+<svg width="640" height="220" viewBox="0 0 640 220" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>SmFF emblem – samprofilering med SvFF</title>
+<desc>Illustration av hur SmFF:s emblem kombineras med SvFF:s logotyp i samprofileringssituationer. SmFF primärt till vänster, SvFF sekundärt till höger, separerade av vertikal linje.</desc>
+<rect width="640" height="220" fill="#FFFFFF"/>
+
+<text x="24" y="28" font-family="system-ui,sans-serif" font-size="10" font-weight="500" fill="#888" letter-spacing="0.1em">SAMPROFILERING – KORREKT</text>
+
+<!-- Korrekt samprofilering -->
+<g transform="translate(24,44)">
+  <rect width="380" height="112" rx="8" fill="#F9F9F9" stroke="#E0E0E0" stroke-width="0.5"/>
+  <!-- SmFF emblem vänster primärt -->
+  <circle cx="80" cy="56" r="46" fill="#A91C1C"/>
+  <circle cx="80" cy="56" r="37" fill="none" stroke="white" stroke-width="1.4"/>
+  <text x="80" y="24" text-anchor="middle" font-family="system-ui,sans-serif" font-size="8" font-weight="700" fill="white" letter-spacing="1.8">SMÅLANDS</text>
+  <text x="80" y="92" text-anchor="middle" font-family="system-ui,sans-serif" font-size="6.5" font-weight="700" fill="white" letter-spacing="0.9">FOTBOLLFÖRBUND</text>
+  <text x="80" y="65" text-anchor="middle" font-size="26" fill="white">🦁</text>
+  <!-- Vertikal linje -->
+  <line x1="174" y1="18" x2="174" y2="94" stroke="#CCCCCC" stroke-width="0.8"/>
+  <!-- SvFF emblem höger sekundärt (något mindre) -->
+  <circle cx="248" cy="56" r="38" fill="#005293"/>
+  <circle cx="248" cy="56" r="30" fill="none" stroke="#FECB00" stroke-width="2"/>
+  <text x="248" y="60" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="700" fill="#FECB00">SvFF</text>
+  <!-- Etiketter -->
+  <text x="80" y="130" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#555">SmFF – primärt (vänster)</text>
+  <text x="248" y="130" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#555">SvFF – sekundärt (höger)</text>
+</g>
+
+<!-- Storleksförhållande -->
+<g transform="translate(424,44)">
+  <rect width="192" height="112" rx="8" fill="#F9F9F9" stroke="#E0E0E0" stroke-width="0.5"/>
+  <text x="96" y="24" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" fill="#555">Storleksförhållande</text>
+  <circle cx="72" cy="68" r="38" fill="#A91C1C"/>
+  <text x="72" y="72" text-anchor="middle" font-size="20" fill="white">🦁</text>
+  <line x1="124" y1="34" x2="124" y2="102" stroke="#CCCCCC" stroke-width="0.5"/>
+  <circle cx="156" cy="68" r="32" fill="#005293"/>
+  <text x="156" y="72" text-anchor="middle" font-family="system-ui,sans-serif" font-size="8" font-weight="700" fill="#FECB00">SvFF</text>
+  <text x="96" y="130" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#555">Max 120 / 100</text>
+</g>
+
+<line x1="24" y1="175" x2="616" y2="175" stroke="#E0E0E0" stroke-width="0.5"/>
+
+<text x="24" y="196" font-family="system-ui,sans-serif" font-size="10" font-weight="500" fill="#888">REGLER:</text>
+<text x="90" y="196" font-family="system-ui,sans-serif" font-size="11" fill="#555">SmFF alltid vänster · SvFF alltid höger · Separerade av vertikal linje · SmFF aldrig mer än 20 % mindre</text>
+
+</svg>

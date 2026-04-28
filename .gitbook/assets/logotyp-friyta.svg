@@ -1,0 +1,68 @@
+<svg width="640" height="340" viewBox="0 0 640 340" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>SmFF emblem – friyta</title>
+<desc>Illustration av friytan runt SmFF:s cirkelemblem. Friytan definieras som radien av bokstaven O i FOTBOLLFÖRBUND i den yttre ringen. Inga grafiska element får placeras inom denna zon.</desc>
+<rect width="640" height="340" fill="#FFFFFF"/>
+
+<text x="24" y="28" font-family="system-ui,sans-serif" font-size="10" font-weight="500" fill="#888" letter-spacing="0.1em">FRIYTA</text>
+
+<g transform="translate(60,44)">
+  <!-- Yttre friytezon -->
+  <rect x="-28" y="-28" width="216" height="216" rx="4" fill="#FDF5F5" stroke="#A91C1C" stroke-width="0.5" stroke-dasharray="3 3" opacity="0.5"/>
+  <!-- Inre marginal -->
+  <rect x="-12" y="-12" width="184" height="184" rx="4" fill="none" stroke="#CCCCCC" stroke-width="0.5" stroke-dasharray="2 2"/>
+  <!-- Emblem -->
+  <circle cx="80" cy="80" r="80" fill="#A91C1C"/>
+  <circle cx="80" cy="80" r="64" fill="none" stroke="white" stroke-width="2"/>
+  <circle cx="80" cy="80" r="63" fill="none" stroke="white" stroke-width="0.4"/>
+  <text x="80" y="28" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="700" fill="white" letter-spacing="2">SMÅLANDS</text>
+  <text x="80" y="136" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9.5" font-weight="700" fill="white" letter-spacing="1">FOTBOLLFÖRBUND</text>
+  <text x="80" y="96" text-anchor="middle" font-size="44" fill="white">🦁</text>
+  <!-- Friyte-pil vänster -->
+  <line x1="-12" y1="80" x2="0" y2="80" stroke="#A91C1C" stroke-width="1" marker-end="url(#a1)" marker-start="url(#a2)"/>
+  <!-- Friyte-pil höger -->
+  <line x1="160" y1="80" x2="172" y2="80" stroke="#A91C1C" stroke-width="1" marker-end="url(#a1)" marker-start="url(#a2)"/>
+  <!-- Friyte-pil topp -->
+  <line x1="80" y1="-12" x2="80" y2="0" stroke="#A91C1C" stroke-width="1" marker-end="url(#a1)" marker-start="url(#a2)"/>
+  <!-- Friyte-pil botten -->
+  <line x1="80" y1="160" x2="80" y2="172" stroke="#A91C1C" stroke-width="1" marker-end="url(#a1)" marker-start="url(#a2)"/>
+  <!-- Etikett friyta -->
+  <text x="-26" y="74" text-anchor="middle" font-family="system-ui,sans-serif" font-size="8" fill="#A91C1C" transform="rotate(-90,-26,74)">Friyta = O</text>
+</g>
+
+<defs>
+  <marker id="a1" viewBox="0 0 8 8" refX="6" refY="4" markerWidth="4" markerHeight="4" orient="auto">
+    <path d="M1 1L6 4L1 7" fill="none" stroke="#A91C1C" stroke-width="1.5" stroke-linecap="round"/>
+  </marker>
+  <marker id="a2" viewBox="0 0 8 8" refX="2" refY="4" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+    <path d="M7 1L2 4L7 7" fill="none" stroke="#A91C1C" stroke-width="1.5" stroke-linecap="round"/>
+  </marker>
+</defs>
+
+<g transform="translate(320,44)">
+  <text x="0" y="20" font-family="system-ui,sans-serif" font-size="13" font-weight="500" fill="#333">Friytan definieras som radien</text>
+  <text x="0" y="40" font-family="system-ui,sans-serif" font-size="13" font-weight="500" fill="#333">av bokstaven</text>
+  <text x="112" y="40" font-family="system-ui,sans-serif" font-size="16" font-weight="700" fill="#A91C1C">O</text>
+  <text x="126" y="40" font-family="system-ui,sans-serif" font-size="13" font-weight="500" fill="#333">i "FOTBOLLFÖRBUND"</text>
+  <text x="0" y="60" font-family="system-ui,sans-serif" font-size="13" fill="#666">i den yttre ringen.</text>
+
+  <line x1="0" y1="80" x2="296" y2="80" stroke="#E0E0E0" stroke-width="0.5"/>
+
+  <text x="0" y="108" font-family="system-ui,sans-serif" font-size="12" fill="#444">Inom friytan placeras aldrig:</text>
+  <rect x="0" y="116" width="3" height="3" rx="1" fill="#A91C1C"/>
+  <text x="10" y="124" font-family="system-ui,sans-serif" font-size="12" fill="#666">Text eller rubriker</text>
+  <rect x="0" y="134" width="3" height="3" rx="1" fill="#A91C1C"/>
+  <text x="10" y="142" font-family="system-ui,sans-serif" font-size="12" fill="#666">Grafiska element eller linjer</text>
+  <rect x="0" y="152" width="3" height="3" rx="1" fill="#A91C1C"/>
+  <text x="10" y="160" font-family="system-ui,sans-serif" font-size="12" fill="#666">Andra logotyper eller symboler</text>
+  <rect x="0" y="170" width="3" height="3" rx="1" fill="#A91C1C"/>
+  <text x="10" y="178" font-family="system-ui,sans-serif" font-size="12" fill="#666">Röriga bildbakgrunder</text>
+
+  <line x1="0" y1="196" x2="296" y2="196" stroke="#E0E0E0" stroke-width="0.5"/>
+
+  <rect x="0" y="208" width="296" height="60" rx="6" fill="#FDF5F5"/>
+  <text x="12" y="228" font-family="system-ui,sans-serif" font-size="11" font-weight="500" fill="#A91C1C">Lejonet ensamt:</text>
+  <text x="12" y="248" font-family="system-ui,sans-serif" font-size="11" fill="#666">Friytan mäts från armbostens</text>
+  <text x="12" y="262" font-family="system-ui,sans-serif" font-size="11" fill="#666">övre kant.</text>
+</g>
+
+</svg>

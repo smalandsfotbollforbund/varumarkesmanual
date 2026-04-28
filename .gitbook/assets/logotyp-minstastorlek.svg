@@ -1,0 +1,108 @@
+<svg width="640" height="300" viewBox="0 0 640 300" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>SmFF emblem – minsta tillåtna storlekar</title>
+<desc>Illustration som visar minsta tillåtna storlek för emblematiken per medium: 48 px digitalt, 18 mm tryck, 25 mm screentryck, och vad som händer när det är för litet</desc>
+<rect width="640" height="300" fill="#FFFFFF"/>
+
+<defs>
+  <marker id="ma" viewBox="0 0 8 8" refX="6" refY="4" markerWidth="4" markerHeight="4" orient="auto">
+    <path d="M1 1L6 4L1 7" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  </marker>
+  <marker id="mb" viewBox="0 0 8 8" refX="2" refY="4" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+    <path d="M7 1L2 4L7 7" fill="none" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+  </marker>
+</defs>
+
+<text x="24" y="28" font-family="system-ui,sans-serif" font-size="10" font-weight="500" fill="#888" letter-spacing="0.1em">MINSTA TILLÅTNA STORLEK – EMBLEM</text>
+
+<!-- 48 px digitalt -->
+<g transform="translate(24,44)">
+  <rect x="-4" y="-4" width="108" height="108" rx="4" fill="#F9F9F9" stroke="#E0E0E0" stroke-width="0.5"/>
+  <circle cx="48" cy="48" r="48" fill="#A91C1C"/>
+  <circle cx="48" cy="48" r="38" fill="none" stroke="white" stroke-width="1.4"/>
+  <text x="48" y="18" text-anchor="middle" font-family="system-ui,sans-serif" font-size="8" font-weight="700" fill="white" letter-spacing="1.5">SMÅLANDS</text>
+  <text x="48" y="80" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7" font-weight="700" fill="white" letter-spacing="0.8">FOTBOLLFÖRBUND</text>
+  <text x="48" y="58" text-anchor="middle" font-size="26" fill="white">🦁</text>
+  <line x1="-4" y1="112" x2="104" y2="112" stroke="#555" stroke-width="0.8" marker-start="url(#mb)" marker-end="url(#ma)"/>
+  <text x="50" y="128" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="500" fill="#333">48 px</text>
+  <text x="50" y="144" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#666">Digitalt (emblem)</text>
+</g>
+
+<!-- 24 px digitalt lejon -->
+<g transform="translate(172,68)">
+  <rect x="-4" y="-4" width="56" height="56" rx="4" fill="#F9F9F9" stroke="#E0E0E0" stroke-width="0.5"/>
+  <circle cx="24" cy="24" r="24" fill="#A91C1C"/>
+  <text x="24" y="32" text-anchor="middle" font-size="14" fill="white">🦁</text>
+  <line x1="-4" y1="60" x2="52" y2="60" stroke="#555" stroke-width="0.8" marker-start="url(#mb)" marker-end="url(#ma)"/>
+  <text x="24" y="76" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="500" fill="#333">24 px</text>
+  <text x="24" y="92" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#666">Digitalt (lejon)</text>
+</g>
+
+<line x1="266" y1="40" x2="266" y2="240" stroke="#E0E0E0" stroke-width="0.5"/>
+<text x="282" y="28" font-family="system-ui,sans-serif" font-size="10" font-weight="500" fill="#888" letter-spacing="0.1em">TRYCK OCH TEXTIL</text>
+
+<!-- 18 mm tryck -->
+<g transform="translate(282,44)">
+  <rect x="-4" y="-4" width="72" height="72" rx="4" fill="#F9F9F9" stroke="#E0E0E0" stroke-width="0.5" stroke-dasharray="3 2"/>
+  <circle cx="32" cy="32" r="32" fill="#A91C1C"/>
+  <circle cx="32" cy="32" r="26" fill="none" stroke="white" stroke-width="1.1"/>
+  <text x="32" y="12" text-anchor="middle" font-family="system-ui,sans-serif" font-size="6" font-weight="700" fill="white" letter-spacing="1">SMÅLANDS</text>
+  <text x="32" y="55" text-anchor="middle" font-family="system-ui,sans-serif" font-size="5.5" font-weight="700" fill="white" letter-spacing="0.5">FOTBOLLFÖRBUND</text>
+  <text x="32" y="40" text-anchor="middle" font-size="18" fill="white">🦁</text>
+  <line x1="-4" y1="76" x2="68" y2="76" stroke="#555" stroke-width="0.8" marker-start="url(#mb)" marker-end="url(#ma)"/>
+  <text x="32" y="92" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="500" fill="#333">18 mm</text>
+  <text x="32" y="108" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#666">Tryck (emblem)</text>
+</g>
+
+<!-- 10 mm lejon tryck -->
+<g transform="translate(392,72)">
+  <rect x="-4" y="-4" width="44" height="44" rx="4" fill="#F9F9F9" stroke="#E0E0E0" stroke-width="0.5" stroke-dasharray="3 2"/>
+  <circle cx="18" cy="18" r="18" fill="#A91C1C"/>
+  <text x="18" y="24" text-anchor="middle" font-size="10" fill="white">🦁</text>
+  <line x1="-4" y1="48" x2="40" y2="48" stroke="#555" stroke-width="0.8" marker-start="url(#mb)" marker-end="url(#ma)"/>
+  <text x="18" y="64" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="500" fill="#333">10 mm</text>
+  <text x="18" y="80" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#666">Tryck (lejon)</text>
+</g>
+
+<!-- 25 mm screentryck -->
+<g transform="translate(470,44)">
+  <rect x="-4" y="-4" width="88" height="88" rx="4" fill="#F9F9F9" stroke="#E0E0E0" stroke-width="0.5" stroke-dasharray="3 2"/>
+  <circle cx="40" cy="40" r="40" fill="#A91C1C"/>
+  <circle cx="40" cy="40" r="32" fill="none" stroke="white" stroke-width="2"/>
+  <text x="40" y="16" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7" font-weight="700" fill="white" letter-spacing="1.4">SMÅLANDS</text>
+  <text x="40" y="68" text-anchor="middle" font-family="system-ui,sans-serif" font-size="6" font-weight="700" fill="white" letter-spacing="0.7">FOTBOLLFÖRBUND</text>
+  <text x="40" y="49" text-anchor="middle" font-size="22" fill="white">🦁</text>
+  <line x1="-4" y1="92" x2="84" y2="92" stroke="#555" stroke-width="0.8" marker-start="url(#mb)" marker-end="url(#ma)"/>
+  <text x="40" y="108" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="500" fill="#333">25 mm</text>
+  <text x="40" y="124" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#666">Screentryck</text>
+</g>
+
+<line x1="24" y1="180" x2="616" y2="180" stroke="#E0E0E0" stroke-width="0.5"/>
+
+<!-- Tabell -->
+<text x="24" y="204" font-family="system-ui,sans-serif" font-size="10" font-weight="500" fill="#888" letter-spacing="0.1em">REFERENSTABELL</text>
+
+<g transform="translate(24,216)">
+  <rect width="592" height="20" rx="2" fill="#F2F2F2"/>
+  <text x="12" y="14" font-family="system-ui,sans-serif" font-size="10" font-weight="500" fill="#555">Format</text>
+  <text x="180" y="14" font-family="system-ui,sans-serif" font-size="10" font-weight="500" fill="#555">Emblem (minst)</text>
+  <text x="380" y="14" font-family="system-ui,sans-serif" font-size="10" font-weight="500" fill="#555">Lejon ensamt (minst)</text>
+</g>
+<g transform="translate(24,238)">
+  <line x1="0" y1="0" x2="592" y2="0" stroke="#E0E0E0" stroke-width="0.5"/>
+  <text x="12" y="14" font-family="system-ui,sans-serif" font-size="11" fill="#333">Digitalt</text>
+  <text x="180" y="14" font-family="system-ui,sans-serif" font-size="11" fill="#333">48 px</text>
+  <text x="380" y="14" font-family="system-ui,sans-serif" font-size="11" fill="#333">24 px</text>
+</g>
+<g transform="translate(24,256)">
+  <line x1="0" y1="0" x2="592" y2="0" stroke="#E0E0E0" stroke-width="0.5"/>
+  <text x="12" y="14" font-family="system-ui,sans-serif" font-size="11" fill="#333">Tryck</text>
+  <text x="180" y="14" font-family="system-ui,sans-serif" font-size="11" fill="#333">18 mm</text>
+  <text x="380" y="14" font-family="system-ui,sans-serif" font-size="11" fill="#333">10 mm</text>
+</g>
+<g transform="translate(24,274)">
+  <line x1="0" y1="0" x2="592" y2="0" stroke="#E0E0E0" stroke-width="0.5"/>
+  <text x="12" y="14" font-family="system-ui,sans-serif" font-size="11" fill="#333">Screentryck textil</text>
+  <text x="180" y="14" font-family="system-ui,sans-serif" font-size="11" fill="#333">25 mm</text>
+  <text x="380" y="14" font-family="system-ui,sans-serif" font-size="11" fill="#333">15 mm</text>
+</g>
+</svg>

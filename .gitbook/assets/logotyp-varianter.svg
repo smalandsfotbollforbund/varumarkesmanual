@@ -1,0 +1,218 @@
+<svg width="640" height="800" viewBox="0 0 640 800" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>SmFF logotyp – primära varianter och godkända bakgrundskombinationer</title>
+<desc>De fem godkända varianterna av SmFF:s cirkelemblem samt godkända och otillåtna bakgrundskombinationer</desc>
+
+<rect width="640" height="800" fill="#FFFFFF"/>
+
+<text x="24" y="30" font-family="system-ui,sans-serif" font-size="10" font-weight="500" fill="#888" letter-spacing="0.1em">PRIMÄRA VARIANTER</text>
+
+<!-- Primär röd -->
+<g transform="translate(24,44)">
+  <rect width="108" height="140" rx="8" fill="#F2F2F2"/>
+  <circle cx="54" cy="54" r="46" fill="#A91C1C"/>
+  <circle cx="54" cy="54" r="37" fill="none" stroke="white" stroke-width="1.6"/>
+  <text x="54" y="22" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7" font-weight="700" fill="white" letter-spacing="1.8">SMÅLANDS</text>
+  <text x="54" y="90" text-anchor="middle" font-family="system-ui,sans-serif" font-size="6" font-weight="700" fill="white" letter-spacing="1">FOTBOLLFÖRBUND</text>
+  <text x="54" y="64" text-anchor="middle" font-size="28" fill="white">🦁</text>
+  <text x="54" y="114" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="500" fill="#333">Primär</text>
+  <text x="54" y="130" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#666">SmFF_logo_rod</text>
+</g>
+
+<!-- Negativ vit -->
+<g transform="translate(148,44)">
+  <rect width="108" height="140" rx="8" fill="#A91C1C"/>
+  <circle cx="54" cy="54" r="46" fill="white"/>
+  <circle cx="54" cy="54" r="37" fill="none" stroke="#A91C1C" stroke-width="1.6"/>
+  <text x="54" y="22" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7" font-weight="700" fill="#A91C1C" letter-spacing="1.8">SMÅLANDS</text>
+  <text x="54" y="90" text-anchor="middle" font-family="system-ui,sans-serif" font-size="6" font-weight="700" fill="#A91C1C" letter-spacing="1">FOTBOLLFÖRBUND</text>
+  <text x="54" y="64" text-anchor="middle" font-size="28" fill="#A91C1C">🦁</text>
+  <text x="54" y="114" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="500" fill="white">Negativ</text>
+  <text x="54" y="130" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="rgba(255,255,255,0.7)">SmFF_logo_vit</text>
+</g>
+
+<!-- Monokrom svart -->
+<g transform="translate(272,44)">
+  <rect width="108" height="140" rx="8" fill="#F2F2F2"/>
+  <circle cx="54" cy="54" r="46" fill="white" stroke="#DDDDDD" stroke-width="0.5"/>
+  <circle cx="54" cy="54" r="37" fill="none" stroke="#333" stroke-width="1.6"/>
+  <text x="54" y="22" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7" font-weight="700" fill="#333" letter-spacing="1.8">SMÅLANDS</text>
+  <text x="54" y="90" text-anchor="middle" font-family="system-ui,sans-serif" font-size="6" font-weight="700" fill="#333" letter-spacing="1">FOTBOLLFÖRBUND</text>
+  <text x="54" y="64" text-anchor="middle" font-size="28" fill="#333">🦁</text>
+  <text x="54" y="114" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="500" fill="#333">Monokrom</text>
+  <text x="54" y="130" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#666">SmFF_logo_svart</text>
+</g>
+
+<!-- Outline -->
+<g transform="translate(396,44)">
+  <rect width="108" height="140" rx="8" fill="#2F5731"/>
+  <circle cx="54" cy="54" r="46" fill="none" stroke="white" stroke-width="2"/>
+  <circle cx="54" cy="54" r="37" fill="none" stroke="white" stroke-width="0.8"/>
+  <text x="54" y="22" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7" font-weight="700" fill="white" letter-spacing="1.8">SMÅLANDS</text>
+  <text x="54" y="90" text-anchor="middle" font-family="system-ui,sans-serif" font-size="6" font-weight="700" fill="white" letter-spacing="1">FOTBOLLFÖRBUND</text>
+  <text x="54" y="64" text-anchor="middle" font-size="28" fill="white">🦁</text>
+  <text x="54" y="114" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="500" fill="white">Outline</text>
+  <text x="54" y="130" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="rgba(255,255,255,0.7)">SmFF_logo_outline</text>
+</g>
+
+<!-- Platt screentryck -->
+<g transform="translate(520,44)">
+  <rect width="108" height="140" rx="8" fill="#F2F2F2"/>
+  <circle cx="54" cy="54" r="46" fill="#A91C1C"/>
+  <circle cx="54" cy="54" r="37" fill="none" stroke="white" stroke-width="2.4"/>
+  <text x="54" y="22" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7" font-weight="700" fill="white" letter-spacing="1.8">SMÅLANDS</text>
+  <text x="54" y="90" text-anchor="middle" font-family="system-ui,sans-serif" font-size="6" font-weight="700" fill="white" letter-spacing="1">FOTBOLLFÖRBUND</text>
+  <text x="54" y="64" text-anchor="middle" font-size="28" fill="white">🦁</text>
+  <text x="54" y="114" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="500" fill="#333">Platt</text>
+  <text x="54" y="130" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#666">SmFF_logo_platt</text>
+</g>
+
+<!-- Divider -->
+<line x1="24" y1="210" x2="616" y2="210" stroke="#E0E0E0" stroke-width="0.5"/>
+<text x="24" y="234" font-family="system-ui,sans-serif" font-size="10" font-weight="500" fill="#888" letter-spacing="0.1em">LEJONET ENSAMT</text>
+
+<!-- Lejon röd -->
+<g transform="translate(24,248)">
+  <rect width="108" height="128" rx="8" fill="#F2F2F2"/>
+  <circle cx="54" cy="48" r="42" fill="#A91C1C"/>
+  <text x="54" y="64" text-anchor="middle" font-size="36" fill="white">🦁</text>
+  <text x="54" y="106" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="500" fill="#333">Röd</text>
+  <text x="54" y="120" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#666">SmFF_lejon_rod</text>
+</g>
+
+<!-- Lejon vit -->
+<g transform="translate(148,248)">
+  <rect width="108" height="128" rx="8" fill="#A91C1C"/>
+  <text x="54" y="64" text-anchor="middle" font-size="36" fill="white">🦁</text>
+  <text x="54" y="106" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="500" fill="white">Vit</text>
+  <text x="54" y="120" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="rgba(255,255,255,0.7)">SmFF_lejon_vit</text>
+</g>
+
+<!-- Lejon svart -->
+<g transform="translate(272,248)">
+  <rect width="108" height="128" rx="8" fill="#F2F2F2"/>
+  <text x="54" y="64" text-anchor="middle" font-size="36" fill="#333">🦁</text>
+  <text x="54" y="106" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="500" fill="#333">Svart</text>
+  <text x="54" y="120" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#666">SmFF_lejon_svart</text>
+</g>
+
+<!-- Lejon platt/brodyr -->
+<g transform="translate(396,248)">
+  <rect width="108" height="128" rx="8" fill="#F2F2F2"/>
+  <circle cx="54" cy="48" r="42" fill="white" stroke="#A91C1C" stroke-width="1.5"/>
+  <text x="54" y="64" text-anchor="middle" font-size="36" fill="#A91C1C">🦁</text>
+  <text x="54" y="106" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="500" fill="#333">Platt</text>
+  <text x="54" y="120" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#666">SmFF_lejon_platt</text>
+</g>
+
+<!-- Lejon vattenmärke -->
+<g transform="translate(520,248)">
+  <rect width="108" height="128" rx="8" fill="#F2F2F2"/>
+  <text x="54" y="64" text-anchor="middle" font-size="36" fill="#A91C1C" opacity="0.10">🦁</text>
+  <text x="54" y="106" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" font-weight="500" fill="#333">Vattenmärke</text>
+  <text x="54" y="120" text-anchor="middle" font-family="system-ui,sans-serif" font-size="10" fill="#666">5–25 % opacitet</text>
+</g>
+
+<!-- Divider -->
+<line x1="24" y1="402" x2="616" y2="402" stroke="#E0E0E0" stroke-width="0.5"/>
+<text x="24" y="426" font-family="system-ui,sans-serif" font-size="10" font-weight="500" fill="#4A7A4E" letter-spacing="0.1em">GODKÄNT – BAKGRUNDSKOMBINATIONER</text>
+
+<g transform="translate(24,440)">
+  <rect width="84" height="84" rx="6" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="0.5"/>
+  <circle cx="42" cy="38" r="28" fill="#A91C1C"/>
+  <circle cx="42" cy="38" r="22" fill="none" stroke="white" stroke-width="0.9"/>
+  <text x="42" y="43" text-anchor="middle" font-size="15" fill="white">🦁</text>
+  <text x="42" y="76" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="#666">Vit bakgrund</text>
+</g>
+<g transform="translate(120,440)">
+  <rect width="84" height="84" rx="6" fill="#F2F2F2"/>
+  <circle cx="42" cy="38" r="28" fill="#A91C1C"/>
+  <circle cx="42" cy="38" r="22" fill="none" stroke="white" stroke-width="0.9"/>
+  <text x="42" y="43" text-anchor="middle" font-size="15" fill="white">🦁</text>
+  <text x="42" y="76" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="#666">Stenmursgrå</text>
+</g>
+<g transform="translate(216,440)">
+  <rect width="84" height="84" rx="6" fill="#E2DBD0"/>
+  <circle cx="42" cy="38" r="28" fill="#A91C1C"/>
+  <circle cx="42" cy="38" r="22" fill="none" stroke="white" stroke-width="0.9"/>
+  <text x="42" y="43" text-anchor="middle" font-size="15" fill="white">🦁</text>
+  <text x="42" y="76" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="#666">Torparbeige</text>
+</g>
+<g transform="translate(312,440)">
+  <rect width="84" height="84" rx="6" fill="#A91C1C"/>
+  <circle cx="42" cy="38" r="28" fill="white"/>
+  <circle cx="42" cy="38" r="22" fill="none" stroke="#A91C1C" stroke-width="0.9"/>
+  <text x="42" y="43" text-anchor="middle" font-size="15" fill="#A91C1C">🦁</text>
+  <text x="42" y="76" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="rgba(255,255,255,0.85)">Smålandsröd</text>
+</g>
+<g transform="translate(408,440)">
+  <rect width="84" height="84" rx="6" fill="#2F5731"/>
+  <circle cx="42" cy="38" r="28" fill="none" stroke="white" stroke-width="1.8"/>
+  <text x="42" y="43" text-anchor="middle" font-size="15" fill="white">🦁</text>
+  <text x="42" y="76" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="rgba(255,255,255,0.85)">Skogsgrön</text>
+</g>
+<g transform="translate(504,440)">
+  <rect width="84" height="84" rx="6" fill="#333333"/>
+  <circle cx="42" cy="38" r="28" fill="none" stroke="white" stroke-width="1.8"/>
+  <text x="42" y="43" text-anchor="middle" font-size="15" fill="white">🦁</text>
+  <text x="42" y="76" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="rgba(255,255,255,0.85)">Kolsvart</text>
+</g>
+
+<!-- Divider -->
+<line x1="24" y1="548" x2="616" y2="548" stroke="#E0E0E0" stroke-width="0.5"/>
+<text x="24" y="572" font-family="system-ui,sans-serif" font-size="10" font-weight="500" fill="#A32D2D" letter-spacing="0.1em">INTE TILLÅTET</text>
+
+<g transform="translate(24,586)">
+  <rect width="84" height="84" rx="6" fill="#A91C1C"/>
+  <circle cx="42" cy="38" r="28" fill="#A91C1C" stroke="rgba(255,255,255,0.15)" stroke-width="0.5"/>
+  <text x="42" y="43" text-anchor="middle" font-size="15" fill="rgba(255,255,255,0.2)">🦁</text>
+  <line x1="6" y1="6" x2="78" y2="78" stroke="#E24B4A" stroke-width="2" stroke-linecap="round"/>
+  <line x1="78" y1="6" x2="6" y2="78" stroke="#E24B4A" stroke-width="2" stroke-linecap="round"/>
+  <text x="42" y="76" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="rgba(255,255,255,0.7)">Röd på röd</text>
+</g>
+<g transform="translate(120,586)">
+  <rect width="84" height="84" rx="6" fill="#F2F2F2"/>
+  <circle cx="42" cy="38" r="28" fill="#A91C1C"/>
+  <circle cx="42" cy="38" r="22" fill="none" stroke="white" stroke-width="0.9"/>
+  <text x="42" y="43" text-anchor="middle" font-size="15" fill="white" transform="rotate(-30,42,38)">🦁</text>
+  <line x1="6" y1="6" x2="78" y2="78" stroke="#E24B4A" stroke-width="2" stroke-linecap="round"/>
+  <line x1="78" y1="6" x2="6" y2="78" stroke="#E24B4A" stroke-width="2" stroke-linecap="round"/>
+  <text x="42" y="76" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="#666">Roterad</text>
+</g>
+<g transform="translate(216,586)">
+  <rect width="84" height="84" rx="6" fill="#F2F2F2"/>
+  <ellipse cx="42" cy="38" rx="32" ry="20" fill="#A91C1C"/>
+  <text x="42" y="43" text-anchor="middle" font-size="15" fill="white">🦁</text>
+  <line x1="6" y1="6" x2="78" y2="78" stroke="#E24B4A" stroke-width="2" stroke-linecap="round"/>
+  <line x1="78" y1="6" x2="6" y2="78" stroke="#E24B4A" stroke-width="2" stroke-linecap="round"/>
+  <text x="42" y="76" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="#666">Förvrängd</text>
+</g>
+<g transform="translate(312,586)">
+  <rect width="84" height="84" rx="6" fill="#F2F2F2"/>
+  <circle cx="42" cy="38" r="18" fill="#A91C1C"/>
+  <text x="42" y="43" text-anchor="middle" font-size="10" fill="white">🦁</text>
+  <line x1="6" y1="6" x2="78" y2="78" stroke="#E24B4A" stroke-width="2" stroke-linecap="round"/>
+  <line x1="78" y1="6" x2="6" y2="78" stroke="#E24B4A" stroke-width="2" stroke-linecap="round"/>
+  <text x="42" y="76" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="#666">För liten</text>
+</g>
+<g transform="translate(408,586)">
+  <rect width="84" height="84" rx="6" fill="#F2F2F2"/>
+  <circle cx="42" cy="38" r="28" fill="#4A90E2"/>
+  <circle cx="42" cy="38" r="22" fill="none" stroke="white" stroke-width="0.9"/>
+  <text x="42" y="43" text-anchor="middle" font-size="15" fill="white">🦁</text>
+  <line x1="6" y1="6" x2="78" y2="78" stroke="#E24B4A" stroke-width="2" stroke-linecap="round"/>
+  <line x1="78" y1="6" x2="6" y2="78" stroke="#E24B4A" stroke-width="2" stroke-linecap="round"/>
+  <text x="42" y="76" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="#666">Fel färg</text>
+</g>
+<g transform="translate(504,586)">
+  <rect width="84" height="84" rx="6" fill="#F2F2F2"/>
+  <circle cx="42" cy="38" r="28" fill="#A91C1C" filter="url(#glow)"/>
+  <circle cx="42" cy="38" r="22" fill="none" stroke="white" stroke-width="0.9"/>
+  <text x="42" y="43" text-anchor="middle" font-size="15" fill="white">🦁</text>
+  <rect x="20" y="8" width="44" height="12" rx="2" fill="rgba(255,200,0,0.3)"/>
+  <text x="42" y="18" text-anchor="middle" font-family="system-ui,sans-serif" font-size="7" fill="rgba(0,0,0,0.5)">shadow</text>
+  <line x1="6" y1="6" x2="78" y2="78" stroke="#E24B4A" stroke-width="2" stroke-linecap="round"/>
+  <line x1="78" y1="6" x2="6" y2="78" stroke="#E24B4A" stroke-width="2" stroke-linecap="round"/>
+  <text x="42" y="76" text-anchor="middle" font-family="system-ui,sans-serif" font-size="9" fill="#666">Effekter</text>
+</g>
+
+</svg>
