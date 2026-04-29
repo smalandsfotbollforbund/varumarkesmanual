@@ -40,7 +40,7 @@ Godkänt mot: Linnevit `#FFFFFF` · Stenmursgrå `#F2F2F2` · Torparbeige `#E2DB
 
 ## Negativ variant
 
-Den negativa varianten används på mörka och röda bakgrunder.
+Den negativa varianten är vit med transparent bakgrund. Placeras direkt mot röda, gröna och mörka ytor – bakgrundsfärgen lyser igenom och ger rätt kontrast.
 
 ![](<../.gitbook/assets/emblem-negativ.svg>)
 
@@ -66,7 +66,7 @@ SmFF_logo_svart.svg / .eps / .png
 
 ## Outline-variant
 
-Konturemblem med transparent bakgrund. Används på enfärgade mörka ytor där den fyllda varianten inte syns tillräckligt. Bokstäverna i ringen är genomskinliga – bakgrundsfärgen lyser igenom.
+Utgår från den negativa varianten – men utan ifyllnad. Alla linjer och former renderas som öppna konturer mot transparent bakgrund. Ingen del är ifylld: bokstäver, lejon och ringar är enbart streck. Bakgrundsfärgen syns igenom hela emblematiken.
 
 ![](<../.gitbook/assets/emblem-outline.svg>)
 
@@ -123,8 +123,6 @@ Under minimigränserna försvinner detaljer och texten i ringen blir oläslig. A
 
 ![](<../.gitbook/assets/minsta-storlek.svg>)
 
-Från vänster: 48 px (digitalt) · 18 mm (tryck) · 25 mm (screentryck textil)
-
 | Format | Emblem (minst) | Lejon ensamt (minst) |
 |---|---|---|
 | **Digitalt** | 48 px | 24 px |
@@ -164,6 +162,14 @@ Från vänster: Röd på röd (försvinner) · Roterad · Förvrängd (sträckt/
 - Inline i löpande brödtext
 - Egna rekombinationer av text och lejon
 {% endhint %}
+
+---
+
+## Proportionsregel – 15 %
+
+Emblematiken ska vara **15 % av kommunikationsytans längsta mått** – oavsett om det är en affisch, ett presentationsomslag eller en banderoll.
+
+![](<../.gitbook/assets/proportionsregel-15.svg>)
 
 ---
 
