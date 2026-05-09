@@ -2,10 +2,8 @@
 
 Det här är inte förslag. Det är hur SmFF håller ihop över tid. Som The Masters skyddar sina ritualer ska vi skydda våra signaler.
 
-![](.gitbook/assets/stenmurslinje.svg)
-
 {% hint style="success" %}
-**★ Gör alltid**
+**Gör alltid:**
 
 - Använd Smålandsröd `#A91C1C` som huvudsignal
 - Låt grönt stötta, inte dominera
@@ -20,7 +18,7 @@ Det här är inte förslag. Det är hur SmFF håller ihop över tid. Som The Mas
 {% endhint %}
 
 {% hint style="danger" %}
-**✗ Gör aldrig**
+**Gör aldrig:**
 
 - Skapa nya logotyper eller varianter
 - Separera lejonet från armborset i emblemet
@@ -36,9 +34,9 @@ Det här är inte förslag. Det är hur SmFF håller ihop över tid. Som The Mas
 
 ---
 
-> *Rött som hjärta.*\
-> *Grönt som landskap.*\
-> *Beige som mylla.*\
+> *Rött som hjärta.*
+> *Grönt som landskap.*
+> *Beige som mylla.*
 > *Lejonet som kraft.*
 
 ---
