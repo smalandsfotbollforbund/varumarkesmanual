@@ -10,14 +10,14 @@ Vi delar typografisystem med Svenska Fotbollförbundet. **SvFF Trim** för rubri
 
 ## Typografiska nivåer
 
-| Roll | Typsnitt | Vikt | Storlek | Användning |
-|---|---|---|---|---|
-| **Display / Hero** | SvFF Trim | Bold | 56–168 pt | Affischer, omslag, kampanjgrafik |
-| **Rubrik 2** | SvFF Trim | Bold | 32–56 pt | Sidhuvud, avdelningsrubrik |
-| **Citat / Manifest** | Stag Sans | Book Italic | 20–32 pt | Manifest, citat, rubriker med värme |
-| **Etikett** | Stag Sans | Semibold versaler | 10–14 pt | Kategorier, etiketter, tracking 0.18em |
-| **Brödtext** | Stag Sans | Book | 14–17 pt | All löpande text, radavstånd 1.6 |
-| **Bildtext / Detalj** | Stag Sans | Regular | 11–13 pt | Datum, plats, bildtext, tracking +0.05em |
+| Roll                  | Typsnitt  | Vikt              | Storlek   | Användning                               |
+| --------------------- | --------- | ----------------- | --------- | ---------------------------------------- |
+| **Display / Hero**    | SvFF Trim | Bold              | 56–168 pt | Affischer, omslag, kampanjgrafik         |
+| **Rubrik 2**          | SvFF Trim | Bold              | 32–56 pt  | Sidhuvud, avdelningsrubrik               |
+| **Citat / Manifest**  | Stag Sans | Book Italic       | 20–32 pt  | Manifest, citat, rubriker med värme      |
+| **Etikett**           | Stag Sans | Semibold versaler | 10–14 pt  | Kategorier, etiketter, tracking 0.18em   |
+| **Brödtext**          | Stag Sans | Book              | 14–17 pt  | All löpande text, radavstånd 1.6         |
+| **Bildtext / Detalj** | Stag Sans | Regular           | 11–13 pt  | Datum, plats, bildtext, tracking +0.05em |
 
 SvFF Trim finns **bara i versaler**. Den är aldrig liten. Trim används stor, kraftfull och utan ursäkter.
 
@@ -25,10 +25,11 @@ Stag Sans Book Italic används **sparsamt** — för manifest, citat och rubrike
 
 {% hint style="danger" %}
 **Aldrig:**
-- SvFF Trim i gemener (det finns inte)
-- Brödtext i versaler — försämrar läsbarheten drastiskt
-- Fler än tre typsnittsskärningar i ett dokument
-- Manuell sträckning eller komprimering av typsnitt
+
+* SvFF Trim i gemener (det finns inte)
+* Brödtext i versaler — försämrar läsbarheten drastiskt
+* Fler än tre typsnittsskärningar i ett dokument
+* Manuell sträckning eller komprimering av typsnitt
 {% endhint %}
 
 ## 80-talets koppling
@@ -57,7 +58,7 @@ SvFF Trim Bold i tunga rubrikblock. Stora versaler, trångt radavstånd, ingen u
 {% tab title="Editorial — citat-stil" %}
 Editorialformatet är SmFF:s mer reflekterande röst.
 
-> *"Bakom varje match finns någon som kritar linjer och kokar kaffe."*
+> _"Bakom varje match finns någon som kritar linjer och kokar kaffe."_
 
 Stag Sans Book Italic i stor storlek — ett citat som tar halva sidan. Torparbeige bakgrund. SvFF Trim-rubrik i Skogsgrön ovanför. Avsändaren i Semibold under citatet.
 
@@ -65,6 +66,6 @@ DM Serif Italic (webbersättning för Stag Sans Book Italic) används sparsamt �
 {% endtab %}
 {% endtabs %}
 
----
+***
 
-[← 03 Färgpalett](03-farg.md) | [Nästa — 05 Grafiska Element →](05-grafiska-element.md)
+[← 03 Färgpalett](farg/03-farg.md) | [Nästa — 05 Grafiska Element →](05-grafiska-element.md)
