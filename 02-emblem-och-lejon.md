@@ -4,13 +4,11 @@ Cirkelemblemet är vår officiella avsändare. Lejonet är vår identitetsbärar
 
 ## Systemet
 
-**Emblemet** är den formella avsändaren — tre delar som alltid hör samman: yttre ring, inre ring, lejonet med armborset. Aldrig separerade inom emblematiken.
+{% tabs %}
+{% tab title="Cirkelemblemet — Avsändare" %}
+**Primär · Formell**
 
-**Lejonet** är den emotionella karaktären — Smålands landskapsvapen isolerat, utan ring och utan text. Det är förbundets ansikte i fält.
-
-De ersätter inte varandra. De kompletterar varandra. Använd dem inte i samma yta utan särskild anledning.
-
-## Emblem används för
+Tre delar som alltid hör samman: yttre ring, inre ring, lejonet med armborset. Aldrig separerade inom emblematiken. Detta är förbundets officiella signatur.
 
 | Sammanhang |
 |---|
@@ -22,8 +20,12 @@ De ersätter inte varandra. De kompletterar varandra. Använd dem inte i samma y
 | Trycksaker |
 | Utbildningsmaterial |
 | Samprofilering |
+{% endtab %}
 
-## Lejonet används för
+{% tab title="Lejonet — Karaktär" %}
+**Sekundär · Emotionell**
+
+Vår Liver Bird. Används när uttrycket ska vara mer sportigt, digitalt eller emotionellt. Lejonet är förbundets ansikte i fält.
 
 | Sammanhang |
 |---|
@@ -35,12 +37,14 @@ De ersätter inte varandra. De kompletterar varandra. Använd dem inte i samma y
 | Omslagsbilder |
 | Presentationskapitel |
 | Eventgrafik |
+{% endtab %}
+{% endtabs %}
 
 ## Lejonet är vår Liver Bird
 
 Ett självständigt kännetecken som lever sitt eget liv vid sidan av emblemet. På profilbilden, på kepsen, broderat på ärmen, präglat på matchprogrammet.
 
-Lejonet är emotionellt. Emblemet är formellt.
+Lejonet är emotionellt. Emblemet är formellt. Använd dem inte i samma yta utan särskild anledning.
 
 Liverpools Liver Bird är ett kommunvapen — inte klubblogotypen. Men den är mer Liverpool än logotypen någonsin kan vara. Den sitter på byggnader, tatueringar, muralväggar, t-tröjor. Den har ett eget liv bortom den formella identiteten.
 
@@ -63,13 +67,15 @@ Samma regel gäller lejonet ensamt: friytan mäts från armbostets yttre kant.
 | Screentryck textil | 25 mm | 15 mm |
 | Brodyr | 50 mm | 25 mm |
 
-Under minimigränsen syns inte detaljerna. Använd lejonet ensamt om ytan är för liten för fullständigt emblem.
+{% hint style="warning" %}
+Under minimigränsen syns inte detaljerna. Använd lejonet ensamt om ytan är för liten för det fullständiga emblemet.
+{% endhint %}
 
 ### Godkända bakgrunder
 
 | Variant | Godkänt mot |
 |---|---|
-| Röd (primär) | Linnevit, Torparbeige, Beige |
+| Röd (primär) | Linnevit, Torparbeige, Stenmursgrå |
 | Vit (negativ) | Smålandsröd, Skogsgrön, Kolsvart |
 | Gul (kampanj) | Kolsvart |
 | Monokrom | Enfargsreproduktion, gravyr, prägling |
@@ -81,13 +87,15 @@ Under minimigränsen syns inte detaljerna. Använd lejonet ensamt om ytan är f�
 - Respektera friytan konsekvent — utan undantag
 - Välj rätt variant för bakgrunden
 
-## Gör aldrig
+{% hint style="danger" %}
+**Gör aldrig:**
 
 - Separera lejonet från armborset i emblemet
 - Skapa nya logotyper eller varianter
 - Rotera emblematiken i någon riktning
 - Lägg skuggor, glöd eller effekter på märket
 - Reproducera under minimigränsen
+{% endhint %}
 
 ---
 

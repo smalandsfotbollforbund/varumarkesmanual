@@ -2,6 +2,8 @@
 
 Smålands Fotbollförbund är fotbollens småländska samlingskraft. Inte en mindre version av SvFF — en egen rörelse med rötter i myllan och ögonen mot framtiden.
 
+![](.gitbook/assets/stenmurslinje.svg)
+
 ## De tre dimensionerna
 
 | Dimension | Betydelse | Visuellt uttryck |
@@ -30,9 +32,11 @@ Sju kontrasterande par definierar vem vi är. Känslan finns alltid i spänninge
 
 ## Förbundets manifest
 
-> En smålänning som kan hålla ett årsmöte, bygga en stenmur och starta ett anfall. Det är så vårt förbund ska kännas. Saklig men varm. Färgstark men aldrig skrikig. Stolt men inte självgod. Vi är inte fotbollens centrum — vi är dess ryggrad.
->
-> — Förbundets manifest
+{% hint style="success" %}
+En smålänning som kan hålla ett årsmöte, bygga en stenmur och starta ett anfall. Det är så vårt förbund ska kännas. Saklig men varm. Färgstark men aldrig skrikig. Stolt men inte självgod. Vi är inte fotbollens centrum — vi är dess ryggrad.
+
+*— Förbundets manifest*
+{% endhint %}
 
 ---
 
