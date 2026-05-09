@@ -4,6 +4,8 @@ Rött är hjärtat. Grönt är landskapet. Beige är myllan. Gul är energin. Pa
 
 ## Primär palett
 
+![](.gitbook/assets/color-palette-primary.svg)
+
 | Namn | Hex | Roll |
 |---|---|---|
 | **Smålandsröd** | `#A91C1C` | Huvudfärg. Kraft, kamp, identitet. |
@@ -14,6 +16,8 @@ Rött är hjärtat. Grönt är landskapet. Beige är myllan. Gul är energin. Pa
 
 ## 80-talsaccent — sparsamt och kontrollerat
 
+![](.gitbook/assets/color-palette-accent.svg)
+
 | Namn | Hex | Användning |
 |---|---|---|
 | **Matchgul** | `#FECB00` | Accent. Siffror, etiketter, matchdag. |
@@ -21,9 +25,13 @@ Rött är hjärtat. Grönt är landskapet. Beige är myllan. Gul är energin. Pa
 | **Stenmursgrå** | `#888884` | Neutral. Detaljer, bildtexter. |
 | **Kritlinje** | `#F2F2F2` | Block, planlinjer, raster. |
 
-80-talsaccenterna är inte en parallell palett. De är redskap för specifika kommunikationssituationer. Sparsamt och kontrollerat — aldrig som primärfärg.
+{% hint style="info" %}
+80-talsaccenterna är inte en parallell palett. De är redskap för specifika kommunikationssituationer — kampanjer, matchdagsgrafik, liverapportering. Sparsamt och kontrollerat. Aldrig som primärfärg.
+{% endhint %}
 
 ## Proportionsregeln
+
+![](.gitbook/assets/proportion-bar.svg)
 
 Färger i rätt proportion är skillnaden mellan identitet och kaos. Regeln gäller vardagsbalansen — affischer och kampanjer får bryta mönstret.
 
@@ -37,13 +45,15 @@ Färger i rätt proportion är skillnaden mellan identitet och kaos. Regeln gäl
 | **7 %** | Kolsvart | Text, grafik och hårda kontraster. |
 | **3 %** | Matchgul accent | Energi och kampanj. Sparsamt och med ett tydligt syfte varje gång. |
 
-## Förbjudna kombinationer
+{% hint style="warning" %}
+**Förbjudna kombinationer:**
 
-- **Rött och grönt i 50/50-balans** — röd är alltid primär
-- **Linnevit text på Torparbeige** — otillräcklig kontrast
-- **Accentfärger utan grön eller beige mellanlägg** — skapar vibration
-- **Neon som huvuduttryck** — accentfärger är sekundära redskap
-- **Fler än tre färger på en yta** — utan specifikt designgodkännande
+- Rött och grönt i 50/50-balans — röd är alltid primär
+- Linnevit text på Torparbeige — otillräcklig kontrast
+- Accentfärger utan grön eller beige mellanlägg — skapar vibration
+- Neon som huvuduttryck — accentfärger är sekundära redskap
+- Fler än tre färger på en yta — utan specifikt designgodkännande
+{% endhint %}
 
 ---
 

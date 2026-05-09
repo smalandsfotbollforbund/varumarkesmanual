@@ -4,11 +4,18 @@ Det här är varumärkesmanualen för Smålands Fotbollförbund. Den samlar allt
 
 Arbetsnamnet säger det rakaste: **Med rötter, ryggrad och riktning.**
 
+![](.gitbook/assets/stenmurslinje.svg)
+
 Tre ord. Ingen fluff. Det är vad vi är.
 
 ## För vem
 
 Manualen vänder sig till **intern personal och externa byråer**. Det är ett operativt verktyg — inte en inspirationskälla. Behöver du snabba svar: gå till rätt kapitel. Behöver du förstå varför: börja med kapitel 01.
+
+{% hint style="info" %}
+**Version 2.0 · 2024 · Konfidentiellt**\
+Frågor om manualen riktas till distriktschefen.
+{% endhint %}
 
 ## Vad den innehåller
 

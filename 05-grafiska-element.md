@@ -4,9 +4,11 @@ Grafiska element är verktyg, inte dekoration. De skapar struktur, kontrast och 
 
 ## Stenmurslinjen
 
+![](.gitbook/assets/stenmurslinje-element.svg)
+
 Bruten linje av varierande färgblock — bygger på stenmurens logik. Smålänningar byggde stenmurar av det som låg i vägen och förvandlade hinder till ordning. Linjen är aldrig perfekt jämn — det är meningen.
 
-**Beskrivning:** Rektangulära block i varierande bredd i en horisontell rad. Primärfärg är Smålandsröd, med inslag av Skogsgrön och Matchgul. Inget block är identiskt med ett annat.
+**Beskrivning:** Rektangulära block i varierande bredd i en horisontell rad. Primärfärg är Smålandsröd `#A91C1C`, med inslag av Skogsgrön `#2F5731` och Matchgul `#FECB00`. Inget block är identiskt med ett annat.
 
 **Användningsområden:**
 - Avdelare i trycksaker och presentationer
@@ -14,15 +16,17 @@ Bruten linje av varierande färgblock — bygger på stenmurens logik. Smålänn
 - Rytmisk markör under rubriker
 - Separeringsband på affischer och eventgrafik
 
-Känsla: Byggt för hand, men ordnat.
+*Känsla: Byggt för hand, men ordnat.*
 
 ---
 
 ## Planlinjen
 
+![](.gitbook/assets/planlinjen.svg)
+
 Tunna vita linjer hämtade från fotbollsplanens kritlinjer. Planen är det enda stället i fotboll där allt är exakt — varje linje har ett syfte och ett rätt mått.
 
-**Beskrivning:** Rena, geometriska linjer i Linnevit eller Kritlinje `#F2F2F2`. Kan representera hela planens grid (mittlinje, straffområde, mittcirkel) eller enstaka linjer som strukturelement. Alltid mot mörk bakgrund — Skogsgrön eller Kolsvart.
+**Beskrivning:** Rena, geometriska linjer i Linnevit eller Kritlinje `#F2F2F2`. Representerar planens grid — mittlinje, straffområde, mittcirkel. Alltid mot mörk bakgrund: Skogsgrön `#2F5731` eller Kolsvart `#333333`.
 
 **Användningsområden:**
 - Bakgrundsgrid på omslag och eventgrafik
@@ -30,15 +34,17 @@ Tunna vita linjer hämtade från fotbollsplanens kritlinjer. Planen är det enda
 - Strukturlinjer i presentationslayouter
 - Informationsblock och faktarutor
 
-Känsla: Fotboll, struktur, riktning.
+*Känsla: Fotboll, struktur, riktning.*
 
 ---
 
 ## Lejonmönstret
 
-Lejonet i låg opacitet eller som beskuren detalj — bär varumärket utan att skrika. Används på omslag, eventväggar, diplom och sociala mallar.
+![](.gitbook/assets/lejon-rod.svg)
 
-**Beskrivning:** Lejonet i sin enkla version, upprepat eller storskaligt beskuret. Opacitet 5–15 % mot ljus bakgrund, 10–25 % mot röd eller grön bakgrund. Kan användas centrerat, överlappande i grid eller beskuret vid kanten för dynamik.
+Lejonet i låg opacitet eller som beskuren detalj — bär varumärket utan att skrika.
+
+**Beskrivning:** Lejonet i sin enkla version, upprepat eller storskaligt beskuret. Opacitet 5–15 % mot ljus bakgrund, 10–25 % mot röd eller grön bakgrund. Kan centreras, överlappas i grid eller beskäras vid kanten för dynamik.
 
 **Användningsområden:**
 - Bakgrunder på omslags- och framsidor
@@ -48,15 +54,17 @@ Lejonet i låg opacitet eller som beskuren detalj — bär varumärket utan att 
 
 Aldrig bakom löpande brödtext. Aldrig med detaljer som försvinner vid låg opacitet.
 
-Känsla: Identitet utan att skrika.
+*Känsla: Identitet utan att skrika.*
 
 ---
 
 ## 80-talsblocket
 
-Färgfält i rött, grönt, beige och gul accent — alltid i enkel geometri. Aldrig diagonaler för diagonalernas skull. Används för kampanjer, jubileum och matchdag.
+![](.gitbook/assets/80-talsblocket.svg)
 
-**Beskrivning:** Rektangulära block i SmFF:s primärfärger — Smålandsröd dominerar, med Skogsgrön, Torparbeige och Matchgul som komplement. Blocken täcker ytan i tydliga zoner: en för rubrik, en för bild, en för logotyp. Inga rundningar, ingen toning, inga mjuka övergångar.
+Färgfält i rött, grönt, beige och gul accent — alltid i enkel geometri. Aldrig diagonaler för diagonalernas skull.
+
+**Beskrivning:** Rektangulära block i SmFF:s primärfärger. Smålandsröd dominerar, med Skogsgrön, Torparbeige och Matchgul som komplement. Blocken skapar tydliga zoner: en för rubrik, en för bild, en för logotyp. Inga rundningar, ingen toning, inga mjuka övergångar.
 
 **Användningsområden:**
 - Kampanjaffischer och matchdagsgrafik
@@ -64,7 +72,7 @@ Färgfält i rött, grönt, beige och gul accent — alltid i enkel geometri. Al
 - Sociala medier-mallar med hög visuell energi
 - Eventväggar och fysisk dekoration
 
-Känsla: Nostalgisk energi, modern precision.
+*Känsla: Nostalgisk energi, modern precision.*
 
 ---
 

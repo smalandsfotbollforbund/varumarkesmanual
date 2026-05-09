@@ -2,7 +2,9 @@
 
 Affisch, utbildningskort, matchdräkt, serietabell. När identiteten möter verkligheten ska den kännas igen på tre meters håll — och ändå hålla för granskning på nära håll.
 
-## Affisch
+{% tabs %}
+{% tab title="Affisch" %}
+![](.gitbook/assets/affisch-mockup.svg)
 
 Kampanjaffischen är SmFF:s starkaste enskilda kommunikationsformat.
 
@@ -22,10 +24,10 @@ Exempelstruktur:
 - Tagline: ★ FÖR FOTBOLLEN. FÖR SMÅLAND.
 - Rubrik: FÖRENINGEN FÖRST.
 - Meta: Datum, bakgrundsbeskrivning, kampanjsäsong
+{% endtab %}
 
----
-
-## Utbildningskort — Modus-format
+{% tab title="Utbildningskort" %}
+![](.gitbook/assets/utbildningskort.svg)
 
 Utbildningskort är SmFF:s sätt att paketera lärande. Kompakt, användbart, direkt.
 
@@ -44,11 +46,9 @@ Exempelkort — SvFF C Barntränare:
 - Titel: SVFF C — BARNTRÄNARE
 - Text: För dig som leder barn och ungdomar i förening. Tre kvällar, ett helgpass, en kursledare som varit där.
 - Detaljer: 12 OKT · VÄXJÖ · Anmälan 5 OKT
+{% endtab %}
 
----
-
-## Matchdräkt
-
+{% tab title="Matchdräkt" %}
 SmFF:s officiella dräktfärger och hur de hanteras i materialet.
 
 **Färgval:**
@@ -61,10 +61,10 @@ SmFF:s officiella dräktfärger och hur de hanteras i materialet.
 - Matchgul accent används för nummer eller detaljer i hemmaställ
 - Namntext under nummer: Stag Sans Semibold
 - SmFF-emblem på vänster bröst, 50 mm minimum
+{% endtab %}
 
----
-
-## Serietabell
+{% tab title="Serietabell" %}
+![](.gitbook/assets/serietabell.svg)
 
 Serietabellen är ett funktionellt format — läsbarhet före branding.
 
@@ -86,11 +86,9 @@ Serietabellen är ett funktionellt format — läsbarhet före branding.
 | 6 | Eksjö City | 18 | **22** |
 
 Tabelltitel i Stag Sans Semibold versaler med ★-markör. Kolsvart bakgrund ger kontrast och seriositet.
+{% endtab %}
 
----
-
-## Webb
-
+{% tab title="Webb" %}
 Webb-kontexten styrs av SvFF:s plattform på smalandsfotbollen.se. SmFF kontrollerar innehåll, ton och bildval — inte grunddesign.
 
 **Block och knappar:**
@@ -102,11 +100,9 @@ Webb-kontexten styrs av SvFF:s plattform på smalandsfotbollen.se. SmFF kontroll
 - Hero-sektioner och landningssidor: 5–15 % opacitet
 - Aldrig bakom löpande brödtext
 - Tillåts beskäras av webbläsarens kant för dynamik
+{% endtab %}
 
----
-
-## Sociala medier
-
+{% tab title="Sociala medier" %}
 **Mallstruktur:**
 - Logotyp alltid nedre höger (undantag: profilbild)
 - Rubrik i SvFF Trim versaler vid grafiska inlägg
@@ -121,11 +117,9 @@ Webb-kontexten styrs av SvFF:s plattform på smalandsfotbollen.se. SmFF kontroll
 5. "Vi är inte fotbollens centrum — vi är dess ryggrad."
 
 Alla fem är korta. Alla fem påstår något. Ingen förklarar bara ett ämne.
+{% endtab %}
 
----
-
-## Presentationer
-
+{% tab title="Presentationer" %}
 Presentationsmalen är **SmFF.thmx** — används alltid. Skapa aldrig en fristående presentation utanför mallen.
 
 **Omslagssida:**
@@ -141,11 +135,9 @@ Presentationsmalen är **SmFF.thmx** — används alltid. Skapa aldrig en frist�
 - Logotyp behövs inte på varje sida
 
 Separera alltid omslaget visuellt från innehållssidorna. Omslaget signalerar att vi kommit igång.
+{% endtab %}
 
----
-
-## Merchandise
-
+{% tab title="Merchandise" %}
 Rekommenderade produkter från SmFF:s standardsortiment.
 
 | Produkt | Logotyp | Placering | Teknik |
@@ -159,6 +151,8 @@ Rekommenderade produkter från SmFF:s standardsortiment.
 | **Penna** | Emblem (minimal) | Längs sidan | Rollstämpel |
 
 Primärfärg på merchandise är alltid **röd** — rött plagg med vit logotyp, eller vitt plagg med röd logotyp. Blå merchandise tillhör SvFF-kontexten, inte SmFF. Godkänn alltid ett provtryck innan serieproduktion.
+{% endtab %}
+{% endtabs %}
 
 ---
 

@@ -2,7 +2,8 @@
 
 Det här är inte förslag. Det är hur SmFF håller ihop över tid. Som The Masters skyddar sina ritualer ska vi skydda våra signaler.
 
-## Gör alltid
+{% hint style="success" %}
+**Gör alltid:**
 
 - Använd Smålandsröd `#A91C1C` som huvudsignal
 - Låt grönt stötta, inte dominera
@@ -14,8 +15,10 @@ Det här är inte förslag. Det är hur SmFF håller ihop över tid. Som The Mas
 - Låt bilder kännas äkta — riktiga föreningar, riktiga ansikten
 - Ge varje yta en tydlig uppgift
 - Behåll frizonen runt emblemet
+{% endhint %}
 
-## Gör aldrig
+{% hint style="danger" %}
+**Gör aldrig:**
 
 - Skapa nya logotyper eller varianter
 - Separera lejonet från armborset i emblemet
@@ -27,6 +30,7 @@ Det här är inte förslag. Det är hur SmFF håller ihop över tid. Som The Mas
 - Skriv byråkratiskt när det går att skriva mänskligt
 - Blanda SvFF Trim med ett "retro-typsnitt"
 - Använd accentfärger utan grön eller beige mellanlägg
+{% endhint %}
 
 ---
 
