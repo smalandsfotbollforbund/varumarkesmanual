@@ -1,47 +1,45 @@
 # 04 — Typografi
 
-**SvFF Trim** och **Stag Sans** är licensierade via SvFF och tillhandahålls av SvFF:s marknadsavdelning. De distribueras inte vidare. I officemiljö används **Calibri** som systemfallback — det är alltid bättre att göra rätt med Calibri än att improvisera med ett annat typsnitt.
+Vi delar typografisystem med Svenska Fotbollförbundet. **SvFF Trim** för rubriker, **Stag Sans** för text. 80-talet kommer inte genom typsnittet — det kommer genom kompositionen.
+
+**SvFF Trim** och **Stag Sans** är förbundets licensierade system, delat med SvFF. Typsnitten tillhandahålls av SvFF:s marknadsavdelning — de distribueras inte vidare. **Calibri** används som fallback i Office-miljö.
 
 ## Typografiska nivåer
 
-Sex nivåer täcker all kommunikation. Följ hierarkin konsekvent.
-
 | Roll | Typsnitt | Vikt | Storlek | Användning |
 |---|---|---|---|---|
-| **Kampanjrubrik** | SvFF Trim | Bold (enda skärning) | 80–120 pt | Affischer, omslag, kampanjgrafik |
-| **Kapitelrubrik** | SvFF Trim | Bold | 48–72 pt | Sidhuvud, avdelningsrubrik i trycksaker |
-| **Avdelningsrubrik** | Stag Sans | Semibold | 20–30 pt | Underavdelning, ingress i presentationer |
-| **Ingress** | Stag Sans | Book | 14–18 pt | Inledande stycke, manchett, faktablock |
-| **Löptext** | Stag Sans | Book | 9–11 pt | All brödtext i tryck och digitalt |
-| **Etikett** | Stag Sans | Semibold versaler | 7–9 pt | Bildtext, informationsram, kategori |
+| **Display / Hero** | SvFF Trim | Bold | 56–168 px / pt | Affischer, omslag, kampanjgrafik |
+| **Rubrik 2** | SvFF Trim | Bold | 32–56 px / pt | Sidhuvud, avdelningsrubrik |
+| **Citat / Manifest** | Stag Sans | Book Italic | 20–32 px / pt | Manifest, citat, rubriker med värme |
+| **Etikett** | Stag Sans | Semibold versaler | 10–14 px / pt | Kategorier, etiketter, tracking 0.18em |
+| **Brödtext** | Stag Sans | Book | 14–17 px / pt | All löpande text, radavstånd 1.6 |
+| **Bildtext / Detalj** | Stag Sans | Regular | 11–13 px / pt | Datum, plats, bildtext, tracking +0.05em |
 
 SvFF Trim finns **bara i versaler**. Det är inte en begränsning — det är karaktären. Trim är aldrig liten. Den används stor, kraftfull och utan ursäkter.
 
+Stag Sans Book Italic används **sparsamt** — för manifest, citat och rubriker som bär värme. Aldrig i kombination med SvFF Trim på samma rad.
+
 ## 80-talets koppling
 
-80-talsestetiken uppstår genom **kompositionen** — inte typsnittet. Det är ingen 80-tals-font i systemet. Det är hur typografin placeras, hur blocken möter varandra, hur Trim-rubriken sitter mot en djärv färgyta.
+80-talsestetiken uppstår genom **kompositionen** — inte typsnittet. Det finns inget 80-tals-typsnitt i systemet.
 
-Trim i stort format mot en röd yta med ett hårt beskuret fotografi nedanför — det är 80-tal. Trim i 12 pt mot vit bakgrund i ett Word-dokument — det är ingenting.
-
-Nyckeln är kontrasten: stort mot litet, fetstil mot luftrum, kraft mot enkelhet.
+SvFF Trim i tunga rubrikblock. Stora versaler, trångt radavstånd, ingen utfyllnad. 80-talet uppstår genom rytmen — blocken som möter varandra, hur Trim-rubriken sitter mot en djärv färgyta, kontrasten mellan stort och litet.
 
 ## Kombinationsexempel
 
-### Kampanj
+### Kampanj — SvFF Trim Bold i block
 
-Kampanjformatet är systemets starkaste uttryck. Det dominerar visuellt och kräver en tydlig idé.
+> **SMÅLAND**
+> **BYGGER**
+> **FRAMÅT**
 
-> **SvFF Trim Bold i block** — rubrik i versaler, full sidbredd, mot Smålandsröd bakgrund. Ingen brödtext. Logotyp nedre höger. Lejonet som vattenmärke vid 15 % opacitet.
+Stor rubrik. Full bredd. Mot Smålandsröd bakgrund. Gul accent på ett nyckelord. Lejonet som vattenmärke. Inga kompromisser.
 
-Kampanjformatet tål inga kompromisser. Antingen är det fullt utfört eller det görs inte.
+### Editorial — citat-stil
 
-### Editorial
+> *"Bakom varje match finns någon som kritar linjer och kokar kaffe."*
 
-Editorialformatet är för djupare kommunikation — tidningsstil, årsberättelse, utbildningsmaterial.
-
-> *Stag Sans Book Italic i stor storlek* — ett citat som tar halva sidan. Avsändaren i Semibold under. Torparbeige bakgrund. SvFF Trim-rubrik ovanför i Skogsgrön.
-
-Editorial-formatet är SmFF:s mer reflekterande röst. Det används när innehållet kräver att läsaren stannar upp.
+Stag Sans Book Italic i stor storlek. Halva sidan. Torparbeige bakgrund. SvFF Trim-rubrik i Skogsgrön ovanför. Avsändaren i Semibold under citatet.
 
 ---
 

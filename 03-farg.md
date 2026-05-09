@@ -1,62 +1,49 @@
 # 03 — Färgpalett
 
-Färgerna är inte valda för att de är snygga. De är valda för att de stämmer. Varje färg bär en berättelse från Småland och en funktion i systemet.
+Rött är hjärtat. Grönt är landskapet. Beige är myllan. Gul är energin. Paletten är hämtad från det befintliga SmFF-systemet och förstärkt med en kontrollerad 80-talsaccent.
 
 ## Primär palett
 
-Fem färger utgör grunden. Allt material byggs på dessa.
-
 | Namn | Hex | Roll |
 |---|---|---|
-| **Smålandsröd** | `#A91C1C` | Primärfärg. Logotyp, knappar, rubriker, primära bakgrunder. Alltid dominant. |
-| **Skogsgrön** | `#2F5731` | Sekundärfärg. Stödjer röd — aldrig dominant. Grafiska element, ikoner. |
-| **Torparbeige** | `#E2DBD0` | Bakgrundsfärg. Presentationer, brödtextytor, värme. |
-| **Kolsvart** | `#333333` | Brödtext, grafik, kontraster. Välj framför rent svart. |
-| **Linnevit** | `#FFFFFF` | Primär bakgrund. Webb, presentationer, tryck. |
+| **Smålandsröd** | `#A91C1C` | Huvudfärg. Kraft, kamp, identitet. |
+| **Skogsgrön** | `#2F5731` | Stöd. Natur, trygghet, framtid. |
+| **Torparbeige** | `#E2DBD0` | Bakgrund. Värme, historia. |
+| **Linnevit** | `#FFFFFF` | Luft. Enkelhet, tydlighet. |
+| **Kolsvart** | `#333333` | Text. Kontrast, verkstadskänsla. |
 
-Varje färg har ett ursprung: Röd från stugorna och lejonets blod. Grön från de djupa skogarna. Beige från torpargrus och linnevävar. Svart från järnet och verkstadstraditionen. Vitt från ljuset och öppenheten.
-
-## 80-talsaccent
-
-Fyra accentfärger för kampanjmaterial, energifyllda ytor och markeringar med extra laddning. De används sparsamt — aldrig som primärfärg, alltid med avsikt.
+## 80-talsaccent — sparsamt och kontrollerat
 
 | Namn | Hex | Användning |
 |---|---|---|
-| **Kampanjgul** | `#E8B830` | Markeringar, CTA-element, energi. Aldrig mot Torparbeige. |
-| **Tegelröd** | `#C4603A` | Värme, nostalgi, kampanjgrafik. Kompletterar Skogsgrön. |
-| **Himmelsblå** | `#5B9ABF` | Digital accentfärg, informationsblock. Aldrig mot Skogsgrön. |
-| **Spenatgrön** | `#6A9B6A` | Komplement till primär grönt i kampanjkontext. |
+| **Matchgul** | `#FECB00` | Accent. Siffror, etiketter, matchdag. |
+| **Retrogrön** | `#99C1A2` | Ungdom & utbildning. |
+| **Stenmursgrå** | `#888884` | Neutral. Detaljer, bildtexter. |
+| **Kritlinje** | `#F2F2F2` | Block, planlinjer, raster. |
 
-80-talsaccenterna är inte en parallell palett. De är redskap för specifika kommunikationssituationer — kampanjer, matchdagsgrafik, liverapportering.
+80-talsaccenterna är inte en parallell palett. De är redskap för specifika kommunikationssituationer. Sparsamt och kontrollerat — aldrig som primärfärg.
 
 ## Proportionsregeln
 
-Färger i rätt proportion är skillnaden mellan identitet och kaos. Regeln är enkel och absolut:
+Färger i rätt proportion är skillnaden mellan identitet och kaos. Regeln gäller vardagsbalansen — affischer och kampanjer får bryta mönstret.
 
 **50 — 25 — 15 — 7 — 3**
 
 | Del | Färg | Förklaring |
 |---|---|---|
-| **50 %** | Linnevit | Grunden. Det vita ger luft, läsbarhet och utrymme för allt annat att andas. |
-| **25 %** | Smålandsröd | Primärfärgen. Det starkaste visuella budskapet. Dominerande men inte överväldigande. |
+| **50 %** | Linnevit / Torparbeige | Neutral grund. Ger luft, läsbarhet och utrymme för allt annat. |
+| **25 %** | Smålandsröd | Primärfärgen. Det starkaste visuella budskapet. |
 | **15 %** | Skogsgrön | Djup och kontrast. Alltid stödjande — aldrig i konkurrens med röd. |
-| **7 %** | Torparbeige | Värme och historia. Bakgrunder, mjuka zoner, markeringar. |
-| **3 %** | 80-talsaccent | Energi och kampanj. Sparsamt och med ett tydligt syfte varje gång. |
-
-Regeln gäller per kommunikationsyta, inte per projekt.
+| **7 %** | Kolsvart | Text, grafik och hårda kontraster. |
+| **3 %** | Matchgul accent | Energi och kampanj. Sparsamt och med ett tydligt syfte varje gång. |
 
 ## Förbjudna kombinationer
 
-Dessa kombinationer används aldrig — varken av estetiska eller tillgänglighetsskäl:
-
-- **Röd text på röd bakgrund** — försvinner helt
-- **Grön text på grön bakgrund** — försvinner helt
-- **Linnevit text på Torparbeige** — otillräcklig kontrast (1,6:1)
-- **Kampanjgul mot Torparbeige** — vibration, obehaglig läsupplevelse
-- **Himmelsblå mot Skogsgrön** — krockar med SvFF-systemet i SmFF-primärt läge
-- **Mer än tre färger på en yta** — utan specifikt designgodkännande
-
-Kontrollera alltid ny kombination mot WCAG AA (minst 4,5:1 för brödtext, 3:1 för grafik).
+- **Rött och grönt i 50/50-balans** — röd är alltid primär
+- **Linnevit text på Torparbeige** — otillräcklig kontrast
+- **Accentfärger utan grön eller beige mellanlägg** — skapar vibration
+- **Neon som huvuduttryck** — accentfärger är sekundära redskap
+- **Fler än tre färger på en yta** — utan specifikt designgodkännande
 
 ---
 

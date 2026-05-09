@@ -1,52 +1,38 @@
 # 01 — Strategi & Identitet
 
-Smålands Fotbollförbund är ett distrikt, men det är inte vad vi är. Vi är en folkrörelse med djupa rötter i en faktisk plats. Det är skillnaden som styr allt — hur vi ser ut, hur vi skriver, vad vi väljer att visa och vad vi väljer att låta bli.
+Smålands Fotbollförbund är fotbollens småländska samlingskraft. Inte en mindre version av SvFF — en egen rörelse med rötter i myllan och ögonen mot framtiden.
 
 ## De tre dimensionerna
 
-Varumärket bygger på tre dimensioner. De är inte slogans. De är strukturen under allt vi gör.
-
 | Dimension | Betydelse | Visuellt uttryck |
 |---|---|---|
-| **Rötter** | Förankringen i Småland — historien, myllan, folkrörelsetraditionen. Vi vet var vi kommer från. | Torparbeige, Stenmurslinjen, jordnära bildspråk med lokala miljöer |
-| **Ryggrad** | Integritet och konsekvens — vi gör vad vi säger och säger det rakt. Inga omvägar. | Kolsvart, skarp typografi, tydlig hierarki, rakryggad ton |
-| **Riktning** | Rörelsen framåt — vi blickar tillbaka för att lära, men vi rör oss framåt. | Smålandsröd, kraftfulla rubriker i SvFF Trim, dynamiska element |
+| **Rötter** | Historia · Föreningar · Landskap | Torparbeige, Stenmurslinjen, jordnära bildspråk |
+| **Ryggrad** | Tydlighet · Ansvar · Demokrati | Kolsvart, skarp typografi, tydlig hierarki |
+| **Riktning** | Utveckling · Unga · Framåt | Smålandsröd, SvFF Trim i stora block, rörelse |
 
-Dimensionerna samverkar. I den starkaste kommunikationen syns alla tre.
+Fotbollen i Småland är byggd av människor med båda fötterna i myllan. Föreningarna är grunden, ideellt arbete är motorn, och landskapet — från Vättern till Östersjön — är vår spelplan.
+
+Vi säger vad vi menar. Vi gör det vi lovar. Beslut tas på årsmötet, inte i kulisserna. Smålänningens raka ord och ordnade tanke är det som håller förbundet stadigt.
+
+Vi förvaltar inte. Vi bygger. Varje barn som binder sina första fotbollsskor i Småland ska mötas av ett förbund som vill någonstans — och som tar dem dit.
 
 ## Varumärkets personlighet
 
-SmFF är ingen organisation som försöker låta stor. Vi vet vad vi är och vi äger det. Sju kontrasterande par definierar personligheten:
+Sju kontrasterande par definierar vem vi är. Känslan finns alltid i spänningen — ingen av polerna gäller ensam.
 
 - *Saklig men varm*
-- *Rotad men framåtblickande*
-- *Envis men öppen*
-- *Lokal men relevant*
-- *Folklig men professionell*
-- *Strukturerad men levande*
-- *Stolt men ödmjuk*
-
-Kännsligheten finns alltid i spänningen. Ingen av polerna gäller ensam.
+- *Färgstark men aldrig skrikig*
+- *Stolt men inte självgod*
+- *Rak men aldrig omständlig*
+- *Jordnära men aldrig pompös*
+- *Exakt men aldrig stel*
+- *Envis men aldrig kompromissande*
 
 ## Förbundets manifest
 
-Manifestet är inte en tagline. Det är en redogörelse för vad vi tror på.
-
-> Vi är från Småland.
+> En smålänning som kan hålla ett årsmöte, bygga en stenmur och starta ett anfall. Det är så vårt förbund ska kännas. Saklig men varm. Färgstark men aldrig skrikig. Stolt men inte självgod. Vi är inte fotbollens centrum — vi är dess ryggrad.
 >
-> Det är inte en geografisk etikett. Det är en identitet.
->
-> Vi har rest oss ur stenig mark. Byggt föreningar i glesa skogar och jobbat oss uppåt utan genvägar. Envishet är inte en egenskap vi är stolta över — det är en förutsättning som vi vuxit upp med.
->
-> Fotbollen kom hit och mötte en region som inte gav upp. Den mötte människor som vet att framgång aldrig byggs ensam. Lejonet i vårt vapen jagar i flock. Det kräver samarbete, organisation och tillit till dem bredvid dig.
->
-> Det är fotboll. Det är Småland. Det är vi.
->
-> Vi springer inte ifrån vår historia — vi springer med den. Varje plan vi bygger, varje ledare vi utbildar, varje unge som sparkar sin första boll är ett steg framåt på samma väg.
->
-> Med rötter i myllan, ryggrad av envishet och riktning mot framtiden.
->
-> Det är Smålands Fotbollförbund.
+> — Förbundets manifest
 
 ---
 

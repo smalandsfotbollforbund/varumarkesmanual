@@ -1,43 +1,49 @@
 # 07 — Tillämpningar
 
-Identiteten lever här — i det som faktiskt produceras, publiceras och används. Varje tillämpning har sina egna regler, men alla följer samma system.
+Affisch, utbildningskort, matchdräkt, serietabell. När identiteten möter verkligheten ska den kännas igen på tre meters håll — och ändå hålla för granskning på nära håll.
 
 ## Affisch
 
-Kampanjaffischen är SmFF:s starkaste enskilda kommunikationsformat. Den ska se ut som att vi menar det.
+Kampanjaffischen är SmFF:s starkaste enskilda kommunikationsformat.
 
 **Kampanjprinciper:**
-- En primär bild — aldrig collage
-- En primär rubrik i SvFF Trim — aldrig mer än fyra ord
+- En primär rubrik i SvFF Trim — kraftfull, versaler, aldrig mer än fyra ord
+- En tagline i Stag Sans Regular, versaler, i låg opacitet ovanför rubriken
 - Logotyp nedre höger, 15 % av längsta sidan
 - Ingen brödtext — det som inte ryms i rubriken ryms inte på affischen
 
 **Layout:**
-- Röd bakgrund (primärt) eller röd bildram mot neutral bakgrund
-- Lejonet som vattenmärke vid 10–15 % opacitet bakom rubriken
-- 80-talsblocket används för att skapa zoner om ytan kräver det
-- Stag Sans Book för eventuell datum/plats-information — litet, diskret, nedre vänster
+- Röd bakgrund som standard
+- Nyckelord eller siffra i Matchgul som accent i rubriken
+- Kampanjmeta (datum, plats, kort beskrivning) i Stag Sans Regular med tunn horisontell linje ovan
+- Lejonet som vattenmärke vid 10–15 % opacitet i bakgrunden
+
+Exempelstruktur:
+- Tagline: ★ FÖR FOTBOLLEN. FÖR SMÅLAND.
+- Rubrik: FÖRENINGEN FÖRST.
+- Meta: Datum, bakgrundsbeskrivning, kampanjsäsong
 
 ---
 
-## Utbildningskort
+## Utbildningskort — Modus-format
 
-Utbildningskort i Modus-format är SmFF:s sätt att paketera lärande. Kompakt, användbart, direkt.
+Utbildningskort är SmFF:s sätt att paketera lärande. Kompakt, användbart, direkt.
 
-**Format:**
-- A5 eller A6 (fysiskt) / 1 080 × 1 080 px (digitalt)
-- Korten är fristående — varje kort är ett komplett budskap
-
-**Grid:**
-- Tre zoner: rubrikfält (övre tredjedel), innehållsyta (mittdel), avsändarfält (undre rand)
-- Rubrikfält: Smålandsröd bakgrund, SvFF Trim rubrik i Linnevit
-- Innehållsyta: Linnevit bakgrund, Stag Sans Book brödtext, max 50 ord
-- Avsändarfält: Torparbeige, SmFF-logotyp och eventuell serietitel
+**Grid — tre zoner:**
+- Övre zon: SmFF-emblem + kategori i Stag Sans Semibold versaler (Skogsgrön)
+- Mittzon: Titel i SvFF Trim (Smålandsröd) + kort beskrivning i Stag Sans Book, max 40 ord
+- Nedre zon: Stenmurslinje + tre detaljfält (datum, plats, anmälningsdatum)
 
 **Färgroller:**
-- Röd rubrikfält signalerar: "det här är det viktigaste"
-- Torparbeige avsändarfält signalerar: "det här är SmFF:s material"
-- Grön används för att markera kategori (träning, regel, taktik) — ett litet block i övre höger hörn
+- Smålandsröd titel signalerar: det här är det viktigaste
+- Skogsgrön kategori signalerar: vilken typ av utbildning
+- Torparbeige bakgrund signalerar: SmFF:s material
+
+Exempelkort — SvFF C Barntränare:
+- Kategori: ★ TRÄNARUTBILDNING
+- Titel: SVFF C — BARNTRÄNARE
+- Text: För dig som leder barn och ungdomar i förening. Tre kvällar, ett helgpass, en kursledare som varit där.
+- Detaljer: 12 OKT · VÄXJÖ · Anmälan 5 OKT
 
 ---
 
@@ -46,32 +52,40 @@ Utbildningskort i Modus-format är SmFF:s sätt att paketera lärande. Kompakt, 
 SmFF:s officiella dräktfärger och hur de hanteras i materialet.
 
 **Färgval:**
-- Primär: Smålandsröd tröja, vita shorts, röda strumpor
-- Alternativ: Linnevit tröja, röda shorts, vita strumpor
-- Målvakt: Skogsgrön tröja — den enda situation där grönt är primärt
+- Hemma: Skogsgrön tröja, vit text och detaljer
+- Borta: Linnevit tröja, Smålandsröd text och detaljer
+- Målvakt: separat färgval enligt SvFF:s riktlinjer
 
 **Nummerhantering:**
-- Vita siffror på röd tröja (Trim-inspirerad stil)
-- Röda siffror på vit tröja
-- Namntext i Stag Sans Semibold — aldrig SvFF Trim (läsbarheten prioriteras på avstånd)
-- SmFF-emblem på vänster bröst — 50 mm bredd minimum
+- Stora siffror i Oswald/SvFF Trim-stil — tydlighet på avstånd prioriteras
+- Matchgul accent används för nummer eller detaljer i hemmaställ
+- Namntext under nummer: Stag Sans Semibold
+- SmFF-emblem på vänster bröst, 50 mm minimum
 
 ---
 
 ## Serietabell
 
-Serietabellen är ett funktionellt format — den ska vara läsbar före den är SmFF-branded.
+Serietabellen är ett funktionellt format — läsbarhet före branding.
 
 **Typografi:**
-- Rubrikrad: Stag Sans Semibold versaler, 8 pt, Kolsvart
-- Lagnamn och data: Stag Sans Book, 9–10 pt
-- Topplacering (1–3): Stag Sans Semibold, Kolsvart
-- Nedflyttningszonen: Tegelröd (80-talsaccent) som bakgrundsfärg på aktuella rader
+- Kolumnhuvud: Stag Sans Semibold versaler, tracking 0.18em, låg opacitet
+- Lagnamn: SvFF Trim Regular (eller Oswald Medium) — läses snabbt
+- Poäng: SvFF Trim Bold, Matchgul — det viktigaste siffervärdet
+- Övriga tal (matcher, mål): Stag Sans Regular, dämpad färg
 
-**Accentfärg:**
-- En Planslinje i Smålandsröd delar tabellen från omgivande innehåll
-- Tabellhuvudet mot Torparbeige bakgrund
-- SmFF-logotyp i sidfot, liten, diskret
+**Struktur (exempeldata — Division 2 Södra Götaland, Omgång 18):**
+
+| # | Lag | M | P |
+|---|---|---|---|
+| 1 | Husqvarna FF | 18 | **38** |
+| 2 | Nässjö FF | 18 | **34** |
+| 3 | Vimmerby IF | 18 | **31** |
+| 4 | Kalmar FF U21 | 18 | **28** |
+| 5 | Värnamo IK | 18 | **24** |
+| 6 | Eksjö City | 18 | **22** |
+
+Tabelltitel i Stag Sans Semibold versaler med ★-markör. Kolsvart bakgrund ger kontrast och seriositet.
 
 ---
 
@@ -81,74 +95,70 @@ Webb-kontexten styrs av SvFF:s plattform på smalandsfotbollen.se. SmFF kontroll
 
 **Block och knappar:**
 - CTA-knappar: Smålandsröd bakgrund, Linnevit text, Stag Sans Semibold
-- Informationsblock: Torparbeige bakgrund för att signalera SmFF-specifikt innehåll
-- Varningsblock eller nyhetsbanner: Skogsgrön bakgrund, Linnevit text
+- Informationsblock: Torparbeige bakgrund för SmFF-specifikt innehåll
+- Aldrig SmFF:s röd-gröna designelement mot SvFF-plattformens egna element
 
 **Lejonet som vattenmärke:**
-- Kan användas i hero-sektioner och landningssidor vid 5–15 % opacitet
-- Aldrig bakom löpande text
-- Tillåts klippas av webbläsarens kant för dynamik
+- Hero-sektioner och landningssidor: 5–15 % opacitet
+- Aldrig bakom löpande brödtext
+- Tillåts beskäras av webbläsarens kant för dynamik
 
 ---
 
 ## Sociala medier
 
-Sociala medier är ofta SmFF:s närmaste kontakt med föreningarna. Formatet kräver snabbhet och igenkänning.
-
 **Mallstruktur:**
 - Logotyp alltid nedre höger (undantag: profilbild)
-- Rubrik i SvFF Trim (eller Calibri Bold versaler) vid grafiska inlägg
-- Kampanjgul eller Tegelröd som accentfärg för energi
-- Inga drop shadows, inga effekter
+- Rubrik i SvFF Trim versaler vid grafiska inlägg
+- Matchgul som accentfärg för energi och markeringar
+- Inga drop shadows eller effekter
 
-**Fem exempelrubriker som fungerar:**
-1. "63 föreningar. 12 000 spelare. Varje lördag på en plan i Småland."
-2. "Från Alvesta till Värnamo — det är vi."
-3. "Inte för att det är enkelt. För att det spelar roll."
+**Fem rubriker som fungerar:**
+1. "★ FÖR FOTBOLLEN. FÖR SMÅLAND."
+2. "Lördag 14:00. Husqvarna FF möter Vimmerby IF. Ta med kaffe — det kan ta ett tag."
+3. "Föreningarna är grunden. Vi bygger tillsammans, en match i taget."
 4. "Nya domare. Nya ledare. Samma hjärta."
-5. "Säsongen börjar. Kommer du?"
+5. "Vi är inte fotbollens centrum — vi är dess ryggrad."
 
-Alla fem är korta. Alla fem påstår något. Ingen förklarar ett ämne.
+Alla fem är korta. Alla fem påstår något. Ingen förklarar bara ett ämne.
 
 ---
 
 ## Presentationer
 
-Presentationsmalen är **SmFF.thmx** — den används alltid. Skapa aldrig en fristående presentation utanför mallen.
+Presentationsmalen är **SmFF.thmx** — används alltid. Skapa aldrig en fristående presentation utanför mallen.
 
-**Omslag:**
-- Smålandsröd bakgrund (primärt) eller Linnevit
-- Titel i SvFF Trim — stor, versaler
+**Omslagssida:**
+- Röd bakgrund (primärt) eller Linnevit
+- Titel i SvFF Trim — stora versaler
 - Undertitel, datum, avsändare i Stag Sans Book
 - Logotyp centrerat eller nedre höger
 
 **Innehållssidor:**
 - Vit bakgrund som standard
-- Rubrik i Calibri Bold versaler (röd) eller SvFF Trim om det är installerat
+- Rubrik i Calibri Bold versaler (röd) — en rubrik som påstår, aldrig namnger
 - Max en huvudtanke per slide
-- Logotyp behövs inte på varje innehållsslide
+- Logotyp behövs inte på varje sida
 
-Separera alltid omslaget visuellt från innehållssidorna. Omslagets röda bakgrund signalerar att vi kommit igång.
+Separera alltid omslaget visuellt från innehållssidorna. Omslaget signalerar att vi kommit igång.
 
 ---
 
 ## Merchandise
 
-Rekommenderade produkter från SmFF:s standardsortiment. Varje produkt har en primär logotypplacering.
+Rekommenderade produkter från SmFF:s standardsortiment.
 
 | Produkt | Logotyp | Placering | Teknik |
 |---|---|---|---|
-| **T-shirt / träningströja** | Emblem eller lejon | Vänster bröst | Screentryck eller transfer |
+| **T-shirt / träningströja** | Emblem eller lejon | Vänster bröst | Screentryck |
 | **Jacka** | Fullständigt emblem | Vänster bröst | Brodyr |
-| **Keps** | Lejon (platt version) | Frontpanel, centrerat | Brodyr |
+| **Keps** | Lejon (enkel version) | Frontpanel, centrerat | Brodyr |
 | **Tygkasse** | Fullständigt emblem | Centrerat, framsida | Screentryck |
-| **Mugg** | Emblem | Höger sida vid grepp | Transfer eller screentryck |
-| **Anteckningsbok** | Emblem | Framsida, nedre höger | Prägling eller screentryck |
+| **Mugg** | Emblem | Höger sida vid grepp | Transfer |
+| **Anteckningsbok** | Emblem | Framsida, nedre höger | Prägling |
 | **Penna** | Emblem (minimal) | Längs sidan | Rollstämpel |
 
-Primärfärg på merchandise är alltid **röd** — rött plagg med vit logotyp, eller vitt plagg med röd logotyp. Blå merchandise tillhör SvFF-kontexten, inte SmFF.
-
-Godkänn alltid ett provtryck innan serietryck. Skärmfärg och tryckt färg skiljer sig alltid något för Smålandsröd.
+Primärfärg på merchandise är alltid **röd** — rött plagg med vit logotyp, eller vitt plagg med röd logotyp. Blå merchandise tillhör SvFF-kontexten, inte SmFF. Godkänn alltid ett provtryck innan serieproduktion.
 
 ---
 

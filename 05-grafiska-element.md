@@ -1,18 +1,18 @@
 # 05 — Grafiska Element
 
-SmFF:s grafiska element är verktygen som ger kommunikationen sin känsla. Färger och typsnitt berättar vad vi är — elementen berättar var vi kommer från. Fyra element. Varje ett hämtar ur det småländska landskapet eller förbundets historia.
+Grafiska element är verktyg, inte dekoration. De skapar struktur, kontrast och rytm. Fyra element bär systemet.
 
 ## Stenmurslinjen
 
-En organisk, lätt ojämn horisontell linje inspirerad av de stenmurar som delar upp det småländska landskapet. Smålänningar byggde stenmurar av det som låg i vägen — de förvandlade hinder till gränser, gränser till ordning.
+Bruten linje av varierande färgblock — bygger på stenmurens logik. Smålänningar byggde stenmurar av det som låg i vägen och förvandlade hinder till ordning. Linjen är aldrig perfekt jämn — det är meningen.
 
-**Beskrivning:** Linjen är aldrig perfekt rak — det är meningen. Den har en handgjord kvalitet som skiljer den från en vanlig avdelare. Tjocklek varierar lätt längs linjens längd. Färg: Kolsvart mot ljus bakgrund, Linnevit mot mörk bakgrund.
+**Beskrivning:** Rektangulära block i varierande bredd i en horisontell rad. Primärfärg är Smålandsröd, med inslag av Skogsgrön och Matchgul. Inget block är identiskt med ett annat.
 
 **Användningsområden:**
-- Avdelarsektioner i trycksaker och presentationer
-- Sidfot i nyhetsbrev och dokument
-- Dekorativt element under eller ovanför rubriker
-- Separeringsband på affischer
+- Avdelare i trycksaker och presentationer
+- Sidhuvud och sidfot i utbildningsmaterial
+- Rytmisk markör under rubriker
+- Separeringsband på affischer och eventgrafik
 
 Känsla: Byggt för hand, men ordnat.
 
@@ -20,31 +20,33 @@ Känsla: Byggt för hand, men ordnat.
 
 ## Planlinjen
 
-En ren, skarp, geometrisk linje hämtad från fotbollsplanens markeringar. Planen är det enda stället i fotboll där allt är exakt — varje linje har ett syfte och ett rätt mått.
+Tunna vita linjer hämtade från fotbollsplanens kritlinjer. Planen är det enda stället i fotboll där allt är exakt — varje linje har ett syfte och ett rätt mått.
 
-**Beskrivning:** Ren och perfekt rak, i kontrast till Stenmurslinjen. Tjocklek är konsekvent längs hela linjen. Kan användas som enstaka linje eller som parallella linjer (t.ex. mittlinjens bredd eller straffområdets hörn). Färg: Smålandsröd eller Linnevit.
+**Beskrivning:** Rena, geometriska linjer i Linnevit eller Kritlinje `#F2F2F2`. Kan representera hela planens grid (mittlinje, straffområde, mittcirkel) eller enstaka linjer som strukturelement. Alltid mot mörk bakgrund — Skogsgrön eller Kolsvart.
 
 **Användningsområden:**
-- Informationsblock och faktarutor
-- Separatorer i serietabeller och matchprogram
-- Ramar runt fotografier (i kombination med bildramssystemet)
+- Bakgrundsgrid på omslag och eventgrafik
+- Taktiska illustrationer och diagramunderlag
 - Strukturlinjer i presentationslayouter
+- Informationsblock och faktarutor
 
-Känsla: Precis och professionell.
+Känsla: Fotboll, struktur, riktning.
 
 ---
 
 ## Lejonmönstret
 
-Lejonet med armbost upprepat som ett sömlöst mönster eller textur — i låg opacitet som bakgrundselement. Det gör att identiteten finns i ytan utan att ta plats från kommunikationen.
+Lejonet i låg opacitet eller som beskuren detalj — bär varumärket utan att skrika. Används på omslag, eventväggar, diplom och sociala mallar.
 
-**Beskrivning:** Lejonet i sin platta version (SmFF\_lejon\_platt), upprepat i ett grid eller ett oregelbundet mönster. Opacitet 5–15 % mot ljus bakgrund, 10–25 % mot röd eller grön bakgrund. Aldrig bakom löpande brödtext. Kan klippas av kanten för dynamik.
+**Beskrivning:** Lejonet i sin enkla version, upprepat eller storskaligt beskuret. Opacitet 5–15 % mot ljus bakgrund, 10–25 % mot röd eller grön bakgrund. Kan användas centrerat, överlappande i grid eller beskuret vid kanten för dynamik.
 
 **Användningsområden:**
 - Bakgrunder på omslags- och framsidor
-- Fyllnadselement på ytor som annars är tomma
-- Vattenmärke på diplom, certifikat och officiella dokument
-- Texturlag under fotografi med toning
+- Vattenmärke på diplom och certifikat
+- Fyllnadselement på stora ytor
+- Texturlag under fotografier med toning
+
+Aldrig bakom löpande brödtext. Aldrig med detaljer som försvinner vid låg opacitet.
 
 Känsla: Identitet utan att skrika.
 
@@ -52,15 +54,15 @@ Känsla: Identitet utan att skrika.
 
 ## 80-talsblocket
 
-Djärva, kantiga färgblock i en komposition inspirerad av 80-talets grafiska estetik. Stora fält av primärfärg möter varandra utan mjuka övergångar — hårt, tydligt, energifyllt. Det är det moderna uttrycket av det klassiska formspråket.
+Färgfält i rött, grönt, beige och gul accent — alltid i enkel geometri. Aldrig diagonaler för diagonalernas skull. Används för kampanjer, jubileum och matchdag.
 
-**Beskrivning:** Rektangulära block i SmFF:s primärfärger och/eller 80-talsaccenter. Inget mjukt. Inga rundningar. Blocken täcker delar av ytan och skapar zoner — en för rubrik, en för bild, en för logotyp. Proportioner bestäms av innehållet, inte av ett fast grid.
+**Beskrivning:** Rektangulära block i SmFF:s primärfärger — Smålandsröd dominerar, med Skogsgrön, Torparbeige och Matchgul som komplement. Blocken täcker ytan i tydliga zoner: en för rubrik, en för bild, en för logotyp. Inga rundningar, ingen toning, inga mjuka övergångar.
 
 **Användningsområden:**
 - Kampanjaffischer och matchdagsgrafik
-- Omslag till utbildningsmaterial och rapporter
+- Omslag till utbildningsmaterial och jubileumsprodukter
 - Sociala medier-mallar med hög visuell energi
-- Bakgrund för kampanjrubriker i SvFF Trim
+- Eventväggar och fysisk dekoration
 
 Känsla: Nostalgisk energi, modern precision.
 

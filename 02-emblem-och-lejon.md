@@ -1,51 +1,56 @@
 # 02 — Emblem & Lejon
 
-SmFF har inte en logotyp. Vi har ett system med två delar som gör olika jobb.
+Cirkelemblemet är vår officiella avsändare. Lejonet är vår identitetsbärare i fält. Tillsammans utgör de SmFF:s två röster — den formella och den emotionella.
 
-**Emblemet** är den formella avsändaren — cirkellogotypen med text och lejon i ringen. Det är vad vi visar när vi undertecknar, representerar och kommunicerar officiellt.
+## Systemet
 
-**Lejonet** är den emotionella karaktären — Smålands landskapsvapen isolerat, utan ring och utan text. Det är vad vi visar när vi vill skapa känsla, röra upp stolthet, märka merchandise.
+**Emblemet** är den formella avsändaren — tre delar som alltid hör samman: yttre ring, inre ring, lejonet med armborset. Aldrig separerade inom emblematiken.
 
-De ersätter inte varandra. De kompletterar varandra.
+**Lejonet** är den emotionella karaktären — Smålands landskapsvapen isolerat, utan ring och utan text. Det är förbundets ansikte i fält.
+
+De ersätter inte varandra. De kompletterar varandra. Använd dem inte i samma yta utan särskild anledning.
 
 ## Emblem används för
 
-| Sammanhang | Exempel |
-|---|---|
-| Officiella dokument | Brev, avtal, protokoll, beslut |
-| Primär tryckkommunikation | Affischer, programblad, informationsblad |
-| Formell digital kommunikation | E-postsignatur, officiella banners |
-| Samprofilering | Tillsammans med SvFF, kommuner, partners |
-| Skyltning och dekoration | Entréskyltar, podier, flaggor |
+| Sammanhang |
+|---|
+| Officiella dokument |
+| Diplom & bevis |
+| Webb (huvudavsändare) |
+| Årsmöteshandlingar |
+| Beslut & protokoll |
+| Trycksaker |
+| Utbildningsmaterial |
+| Samprofilering |
 
 ## Lejonet används för
 
-| Sammanhang | Exempel |
-|---|---|
-| Digitala ikoner | Favicon, app-ikon, profilbild i sociala medier |
-| Textil och brodyr | Träningskläder, kepsar, jackor |
-| Merchandise | Muggar, väskor, prylprodukter |
-| Dekorativt element | Vattenmärke i bakgrunder (5–25 % opacitet) |
-| Kampanjmaterial | Affischer med emotionell laddning |
-| Stansning och prägling | Präglade ytor, gravyr på produkter |
+| Sammanhang |
+|---|
+| Sociala medier |
+| Profilbild & favicon |
+| Brodyr & patches |
+| Mönster & vattenmärken |
+| Merchandise |
+| Omslagsbilder |
+| Presentationskapitel |
+| Eventgrafik |
 
 ## Lejonet är vår Liver Bird
 
-Liverpool FC:s Liver Bird är en mytologisk fågel som sitter på en katedral i stan. Den är kommunvapnet, inte klubblogotypen. Men den är mer Liverpool än logotypen någonsin kan vara — den sitter på byggnader, tatueringar, muralväggar, t-tröjor. Den har ett eget liv bortom den formella identiteten.
+Ett självständigt kännetecken som lever sitt eget liv vid sidan av emblemet. På profilbilden, på kepsen, broderat på ärmen, präglat på matchprogrammet.
 
-Lejonet med armbost är SmFF:s Liver Bird.
+Lejonet är emotionellt. Emblemet är formellt.
 
-Det finns i Smålands vapen sedan medeltiden. Det är starkare än vår organisation — det är ett landskap. Det kan bära känsla, identitet och stolthet på ett sätt som emblemet, med sin text och sina ringar, aldrig kan göra lika fritt.
+Liverpools Liver Bird är ett kommunvapen — inte klubblogotypen. Men den är mer Liverpool än logotypen någonsin kan vara. Den sitter på byggnader, tatueringar, muralväggar, t-tröjor. Den har ett eget liv bortom den formella identiteten.
 
-Lejonet jagar i flock. Det kräver samarbete och organisation. Det är ett precisionsvapen — armbostet är inte ett brutalt vapen, det är ett skicklighetsvapen. Det berättar om en region vars styrka alltid legat i slughet och samarbete snarare än storlek och resurser.
-
-Använd det. Ge det utrymme. Men ge det alltid värdighet.
+Det är exakt den logiken som gäller för SmFF:s lejon. Det finns i Smålands vapen sedan medeltiden. Det är starkare än vår organisation — det är ett landskap. Ge det utrymme. Men ge det alltid värdighet.
 
 ## Logotypregler
 
 ### Frizon
 
-Friytan runt emblematiken definieras som **radien av bokstaven O i "FOTBOLLFÖRBUND"** i den yttre ringen. Inga andra element — text, grafik, bilder, kanter — placeras inom denna zon.
+Friytan runt emblematiken definieras som **radien av bokstaven O i "FOTBOLLFÖRBUND"** i den yttre ringen. Inga andra element placeras inom denna zon — text, grafik, bilder eller kanter.
 
 Samma regel gäller lejonet ensamt: friytan mäts från armbostets yttre kant.
 
@@ -58,33 +63,30 @@ Samma regel gäller lejonet ensamt: friytan mäts från armbostets yttre kant.
 | Screentryck textil | 25 mm | 15 mm |
 | Brodyr | 50 mm | 25 mm |
 
-Under minimigränsen syns inte detaljerna. Använd lejonet ensamt om ytan är för liten för det fullständiga emblemet.
+Under minimigränsen syns inte detaljerna. Använd lejonet ensamt om ytan är för liten för fullständigt emblem.
 
 ### Godkända bakgrunder
 
 | Variant | Godkänt mot |
 |---|---|
-| Röd (primär) | Linnevit, Stenmursgrå, Torparbeige |
+| Röd (primär) | Linnevit, Torparbeige, Beige |
 | Vit (negativ) | Smålandsröd, Skogsgrön, Kolsvart |
-| Outline | Skogsgrön, Kolsvart, mörka fotografier |
+| Gul (kampanj) | Kolsvart |
 | Monokrom | Enfargsreproduktion, gravyr, prägling |
 
 ## Gör
 
 - Använd emblemet vid all officiell kommunikation
-- Använd lejonet ensamt på textil, merchandise och kampanjmaterial
+- Använd lejonet ensamt på sociala medier, textil och merchandise
 - Respektera friytan konsekvent — utan undantag
-- Välj rätt variant för bakgrunden (röd på ljust, vit på mörkt)
-- Ge lejonet utrymme att andas — det tål att vara stort
+- Välj rätt variant för bakgrunden
 
 ## Gör aldrig
 
+- Separera lejonet från armborset i emblemet
+- Skapa nya logotyper eller varianter
 - Rotera emblematiken i någon riktning
-- Sträck eller komprimera formen
-- Placera röd logotyp mot röd bakgrund
-- Lägg till drop shadow, glöd eller andra effekter
-- Återskapa emblematiken i eget bildbehandlingsprogram
-- Blanda logotypvarianterna (t.ex. röd ring med vit text)
+- Lägg skuggor, glöd eller effekter på märket
 - Reproducera under minimigränsen
 
 ---
