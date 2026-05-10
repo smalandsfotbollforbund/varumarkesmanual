@@ -10,16 +10,14 @@
 
 * [02 — Emblem & Lejon](market/02-emblem-och-lejon.md)
 
-## Färg
-
-* [Primärpalett](farg/03-farg.md)
-* [Stödpalett](farg/03-farg-1.md)
-* [Baspalett](farg/baspalett.md)
-* [Landspalett](farg/landspalett.md)
-* [Proportioner och kombinationer](farg/proportioner-och-kombinationer.md)
-
 ***
 
+* [Färger](farger/README.md)
+  * [Primärpalett](farger/03-farg.md)
+  * [Stödpalett](farger/03-farg-1.md)
+  * [Baspalett](farger/baspalett.md)
+  * [Landspalett](farger/landspalett.md)
+  * [Proportioner och kombinationer](farger/proportioner-och-kombinationer.md)
 * [04 — Typografi](04-typografi.md)
 * [05 — Grafiska Element](05-grafiska-element.md)
 * [06 — Röst & Ton](06-rost-och-ton.md)
