@@ -99,4 +99,4 @@ Under minimigränsen syns inte detaljerna. Använd lejonet ensamt om ytan är f�
 
 ***
 
-[← 01 Strategi & Identitet](../karnan/01-strategi.md) | [Nästa — 03 Färgpalett →](../farger/03-farg.md)
+[← 01 Strategi & Identitet](../karnan/01-strategi.md) | [Nästa — 03 Färgpalett →](../farger/primar.md)

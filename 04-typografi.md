@@ -68,4 +68,4 @@ DM Serif Italic (webbersättning för Stag Sans Book Italic) används sparsamt �
 
 ***
 
-[← 03 Färgpalett](farger/03-farg.md) | [Nästa — 05 Grafiska Element →](05-grafiska-element.md)
+[← 03 Färgpalett](farger/primar.md) | [Nästa — 05 Grafiska Element →](05-grafiska-element.md)

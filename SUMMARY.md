@@ -13,10 +13,10 @@
 ***
 
 * [Färger](farger/README.md)
-  * [Primärpalett](farger/03-farg.md)
-  * [Stödpalett](farger/03-farg-1.md)
-  * [Baspalett](farger/baspalett.md)
-  * [Landspalett](farger/landspalett.md)
+  * [Primärpalett](farger/primar.md)
+  * [Stödpalett](farger/stod.md)
+  * [Baspalett](farger/bas.md)
+  * [Landspalett](farger/land.md)
   * [Proportioner och kombinationer](farger/proportioner-och-kombinationer.md)
 * [04 — Typografi](04-typografi.md)
 * [05 — Grafiska Element](05-grafiska-element.md)
