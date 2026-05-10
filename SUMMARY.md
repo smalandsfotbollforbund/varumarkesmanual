@@ -6,18 +6,18 @@
 
 * [01 — Strategi & Identitet](karnan/01-strategi.md)
 
-## Märket
-
-* [02 — Emblem & Lejon](market/02-emblem-och-lejon.md)
-
 ***
 
-* [Färger](farger/README.md)
-  * [Primärpalett](farger/primar.md)
-  * [Stödpalett](farger/stod.md)
-  * [Baspalett](farger/bas.md)
-  * [Landspalett](farger/land.md)
-  * [Proportioner och kombinationer](farger/proportioner-och-kombinationer.md)
+* [Märket](market/README.md)
+  * [Emblem](market/emblem.md)
+  * [Lejon](market/lejon.md)
+  * [Användning](market/anvandning.md)
+* [Färgen](fargen/README.md)
+  * [Primärpalett](fargen/primar.md)
+  * [Stödpalett](fargen/stod.md)
+  * [Baspalett](fargen/bas.md)
+  * [Landspalett](fargen/land.md)
+  * [Proportioner och kombinationer](fargen/proportioner-och-kombinationer.md)
 * [04 — Typografi](04-typografi.md)
 * [05 — Grafiska Element](05-grafiska-element.md)
 * [06 — Röst & Ton](06-rost-och-ton.md)

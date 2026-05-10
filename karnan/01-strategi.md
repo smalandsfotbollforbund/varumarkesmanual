@@ -40,4 +40,4 @@ _— Förbundets manifest_
 
 ***
 
-[← Välkommen](../) | [Nästa — 02 Emblem & Lejon →](../market/02-emblem-och-lejon.md)
+[← Välkommen](../) | [Nästa — 02 Emblem & Lejon →](../market/)
