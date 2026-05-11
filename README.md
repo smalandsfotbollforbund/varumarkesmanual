@@ -40,4 +40,4 @@ Hittar du något som saknas eller verkar fel: kontakta distriktschefen.
 
 ***
 
-← | [Nästa — 01 Strategi & Identitet →](karnan/01-strategi.md)
+← | [Nästa — 01 Strategi & Identitet →](/broken/pages/i96DG9A06hl0MMXDbZqR)

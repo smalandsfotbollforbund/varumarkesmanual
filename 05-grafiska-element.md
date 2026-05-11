@@ -11,14 +11,15 @@ Bruten linje av varierande färgblock — bygger på stenmurens logik. Smålänn
 **Beskrivning:** Rektangulära block i varierande bredd i en horisontell rad. Primärfärg är Smålandsröd `#A91C1C`, med inslag av Skogsgrön `#2F5731` och Matchgul `#FECB00`. Inget block är identiskt med ett annat.
 
 **Användningsområden:**
-- Avdelare i trycksaker och presentationer
-- Sidhuvud och sidfot i utbildningsmaterial
-- Rytmisk markör under rubriker
-- Separeringsband på affischer och eventgrafik
 
-*Känsla: Byggt för hand, men ordnat.*
+* Avdelare i trycksaker och presentationer
+* Sidhuvud och sidfot i utbildningsmaterial
+* Rytmisk markör under rubriker
+* Separeringsband på affischer och eventgrafik
 
----
+_Känsla: Byggt för hand, men ordnat._
+
+***
 
 ## Planlinjen
 
@@ -29,14 +30,15 @@ Tunna vita linjer hämtade från fotbollsplanens kritlinjer. Planen är det enda
 **Beskrivning:** Rena, geometriska linjer i Linnevit eller Kritlinje `#F2F2F2`. Representerar planens grid — mittlinje, straffområde, mittcirkel. Alltid mot mörk bakgrund: Skogsgrön `#2F5731` eller Kolsvart `#333333`.
 
 **Användningsområden:**
-- Bakgrundsgrid på omslag och eventgrafik
-- Taktiska illustrationer och diagramunderlag
-- Strukturlinjer i presentationslayouter
-- Informationsblock och faktarutor
 
-*Känsla: Fotboll, struktur, riktning.*
+* Bakgrundsgrid på omslag och eventgrafik
+* Taktiska illustrationer och diagramunderlag
+* Strukturlinjer i presentationslayouter
+* Informationsblock och faktarutor
 
----
+_Känsla: Fotboll, struktur, riktning._
+
+***
 
 ## Lejonmönstret
 
@@ -47,16 +49,17 @@ Lejonet i låg opacitet eller som beskuren detalj — bär varumärket utan att 
 **Beskrivning:** Lejonet i sin enkla version, upprepat eller storskaligt beskuret. Opacitet 5–15 % mot ljus bakgrund, 10–25 % mot röd eller grön bakgrund. Kan centreras, överlappas i grid eller beskäras vid kanten för dynamik.
 
 **Användningsområden:**
-- Bakgrunder på omslags- och framsidor
-- Vattenmärke på diplom och certifikat
-- Fyllnadselement på stora ytor
-- Texturlag under fotografier med toning
+
+* Bakgrunder på omslags- och framsidor
+* Vattenmärke på diplom och certifikat
+* Fyllnadselement på stora ytor
+* Texturlag under fotografier med toning
 
 Aldrig bakom löpande brödtext. Aldrig med detaljer som försvinner vid låg opacitet.
 
-*Känsla: Identitet utan att skrika.*
+_Känsla: Identitet utan att skrika._
 
----
+***
 
 ## 80-talsblocket
 
@@ -67,13 +70,14 @@ Färgfält i rött, grönt, beige och gul accent — alltid i enkel geometri. Al
 **Beskrivning:** Rektangulära block i SmFF:s primärfärger. Smålandsröd dominerar, med Skogsgrön, Torparbeige och Matchgul som komplement. Blocken skapar tydliga zoner: en för rubrik, en för bild, en för logotyp. Inga rundningar, ingen toning, inga mjuka övergångar.
 
 **Användningsområden:**
-- Kampanjaffischer och matchdagsgrafik
-- Omslag till utbildningsmaterial och jubileumsprodukter
-- Sociala medier-mallar med hög visuell energi
-- Eventväggar och fysisk dekoration
 
-*Känsla: Nostalgisk energi, modern precision.*
+* Kampanjaffischer och matchdagsgrafik
+* Omslag till utbildningsmaterial och jubileumsprodukter
+* Sociala medier-mallar med hög visuell energi
+* Eventväggar och fysisk dekoration
 
----
+_Känsla: Nostalgisk energi, modern precision._
 
-[← 04 Typografi](04-typografi.md) | [Nästa — 06 Röst & Ton →](06-rost-och-ton.md)
+***
+
+[← 04 Typografi](04-typografi/) | [Nästa — 06 Röst & Ton →](06-rost-och-ton.md)

@@ -1,13 +1,10 @@
 # Table of contents
 
 * [Välkommen](README.md)
-
-## Kärnan
-
-* [01 — Strategi & Identitet](karnan/01-strategi.md)
-
-***
-
+* [Kärnan](karnan/README.md)
+  * [Tre dimensioner](karnan/dimensioner.md)
+  * [Personlighet](karnan/personlighet.md)
+  * [Manifest](karnan/manifest.md)
 * [Märket](market/README.md)
   * [Emblem](market/emblem.md)
   * [Lejon](market/lejon.md)
@@ -18,7 +15,9 @@
   * [Baspalett](fargen/bas.md)
   * [Landspalett](fargen/land.md)
   * [Proportioner och kombinationer](fargen/proportioner-och-kombinationer.md)
-* [04 — Typografi](04-typografi.md)
+* [Typografi](04-typografi/README.md)
+  * [Nivåer](04-typografi/nivaer.md)
+  * [Kombinationer](04-typografi/kombinationer.md)
 * [05 — Grafiska Element](05-grafiska-element.md)
 * [06 — Röst & Ton](06-rost-och-ton.md)
 * [07 — Tillämpningar](07-tillampningar.md)
