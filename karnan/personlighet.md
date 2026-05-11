@@ -32,7 +32,7 @@ description: >-
 {% endstep %}
 
 {% step %}
-### Jordnära men aldrig pompös
+### Jordnära men amtitiös
 
 
 {% endstep %}
@@ -44,7 +44,7 @@ description: >-
 {% endstep %}
 
 {% step %}
-### Envis men aldrig kompromissande
+### Envis men pragmatisk
 
 
 {% endstep %}
