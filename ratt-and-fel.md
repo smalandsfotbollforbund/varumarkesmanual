@@ -58,4 +58,4 @@ Det här är inte förslag. Det är hur SmFF håller ihop över tid. Som The Mas
 
 ***
 
-[← 07 Tillämpningar](07-tillampningar.md) | [Välkommen ←](./)
+[← 07 Tillämpningar](tillampningar.md) | [Välkommen ←](./)
