@@ -1,4 +1,24 @@
-# 07 — Tillämpningar
+---
+icon: '7'
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
+# Tillämpningar
 
 Affisch, utbildningskort, matchdräkt, serietabell. När identiteten möter verkligheten ska den kännas igen på tre meters håll — och ändå hålla för granskning på nära håll.
 

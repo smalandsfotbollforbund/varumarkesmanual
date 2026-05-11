@@ -1,8 +1,24 @@
 ---
 icon: '4'
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
-# Typografi
+# Typografin
 
 Vi delar typografisystem med Svenska Fotbollförbundet. **SvFF Trim** för rubriker, **Stag Sans** för text. 80-talet kommer inte genom typsnittet — det kommer genom kompositionen.
 

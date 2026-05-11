@@ -2,6 +2,22 @@
 description: >-
   Sju kontrasterande par definierar vem vi är. Känslan finns alltid i spänningen
   — ingen av polerna gäller ensam.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Personlighet

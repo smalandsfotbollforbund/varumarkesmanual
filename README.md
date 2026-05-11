@@ -1,3 +1,22 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
 # Välkommen
 
 Det här är varumärkesmanualen för Smålands Fotbollförbund. Den samlar allt du behöver veta om hur vi ser ut, hur vi låter och varför vi gör det på det sättet.

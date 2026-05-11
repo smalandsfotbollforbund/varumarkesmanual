@@ -1,3 +1,22 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
 # Tonvärden
 
 Sex ord definierar hur rösten uttrycks. Varje ord har sin motpol — det vi aktivt väljer bort.

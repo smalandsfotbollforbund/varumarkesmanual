@@ -3,6 +3,22 @@ description: >-
   Smålands Fotbollförbund är fotbollens småländska samlingskraft. Vi finns för
   föreningarna, bygger på ideellt arbete och tar ansvar för nästa generation.
 icon: '1'
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Kärnan
