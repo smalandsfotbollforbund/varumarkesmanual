@@ -8,45 +8,30 @@ description: >-
 
 {% stepper %}
 {% step %}
-### Saklig men varm
-
-
+#### Saklig men varm
 {% endstep %}
 
 {% step %}
-### Färgstark men aldrig skrikig
-
-
+#### Färgstark men aldrig skrikig
 {% endstep %}
 
 {% step %}
-### Stolt men inte självgod
-
-
+#### Stolt men inte självgod
 {% endstep %}
 
 {% step %}
-### Rak men aldrig omständig
-
-
+#### Rak men aldrig omständig
 {% endstep %}
 
 {% step %}
-### Jordnära men amtitiös
-
-
+#### Jordnära men amtitiös
 {% endstep %}
 
 {% step %}
-### Exakt men aldrig stel
-
-
+#### Exakt men aldrig stel
 {% endstep %}
 
 {% step %}
-### Envis men pragmatisk
-
-
+#### Envis men pragmatisk
 {% endstep %}
 {% endstepper %}
-
