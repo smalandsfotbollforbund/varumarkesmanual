@@ -1,4 +1,7 @@
 ---
+description: >-
+  Används när uttrycket ska vara mer sportigt, digitalt eller emotionellt.
+  Lejonet är förbundets ansikte i fält.
 layout:
   width: default
   title:
