@@ -35,6 +35,28 @@ layout:
 
 Rapporter, beslut, protokoll, yttranden
 
+{% columns %}
+{% column %}
+{% hint style="success" icon="thumbs-up" %}
+**SÅ HÄR LÅTER VI**
+
+Distriktsstyrelsen beslutade vid möte den 15 april att tillsätta en arbetsgrupp för att se över seriesystemet i Kronoberg och Kalmar under 2026. Gruppen rapporterar till styrelsen senast den 1 september.
+{% endhint %}
+
+Fullständiga meningar. Korrekt svenska. Neutral ton, varken stelt formell eller lättsamt folklig.
+{% endcolumn %}
+
+{% column %}
+{% hint style="danger" icon="thumbs-down" %}
+**SÅ HÄR LÅTER VI INTE**
+
+~~Med anledning av styrelsens uppdrag att initiera en översyn av seriesystemets struktur i berörda områden har en arbetsgrupp tillsatts i syfte att möjliggöra en genomlysning av dessa frågeställningar.~~
+{% endhint %}
+
+Omständligt. Passivt. Ingen information.
+{% endcolumn %}
+{% endcolumns %}
+
 | Så låter vi                                                                                                                                                                                                                                | Så låter vi inte                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <blockquote><p>Förbundsstyrelsen beslutade vid möte den 15 april att tillsätta en arbetsgrupp för att se över seriesystemet i Kronoberg och Kalmar under 2026. Gruppen rapporterar till styrelsen senast den 1 september.</p></blockquote> | <blockquote><p>Med anledning av styrelsens uppdrag att initiera en översyn av seriesystemets struktur i berörda områden har en arbetsgrupp tillsatts i syfte att möjliggöra en genomlysning av dessa frågeställningar.</p></blockquote> |
