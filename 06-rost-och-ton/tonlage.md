@@ -17,7 +17,31 @@ layout:
     visible: true
 ---
 
-# Tonlägen
+# Tonläge
+
+{% hint style="success" icon="thumbs-up" %}
+**SÅ HÄR LÅTER VI**
+
+#### "Lördag 14:00. Husqvarna FF möter Vimmerby IF. Ta med kaffe - det kan ta ett tag."
+
+#### "Föreningarna är grunden. Vi bygger tillsammans, en match i taget."
+{% endhint %}
+
+{% hint style="danger" icon="thumbs-down" %}
+**SÅ HÄR LÅTER VI INTE**
+
+~~"Vi är otroligt glada att kunna bjuda in samtliga intressenter till denna fantastiska upplevelse under vår spännande höstsäsong!"~~
+
+~~"Vår stakeholderbas utgör fundamentet i den processuella implementeringen."~~
+{% endhint %}
+
+| Så låter vi                                                                                                                                                                                                                                                                                                                                                                                                           | Så låter vi inte |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| <h3>Officiellt</h3><p>Rapporter, beslut, protokoll, yttranden:</p><blockquote><p>Förbundsstyrelsen beslutade vid möte den 15 april att tillsätta en arbetsgrupp för att se över seriesystemet i Kronoberg och Kalmar under 2026. Gruppen rapporterar till styrelsen senast den 1 september.</p></blockquote><p>Fullständiga meningar. Korrekt svenska. Neutral ton — varken stelt formell eller lättsamt folklig.</p> |                  |
+| <h3>Kampanj</h3><p>Affischer, matchdagsgrafik, rekrytering:</p><blockquote><p>"Lördag 14:00. Husqvarna FF möter Vimmerby IF. Ta med kaffe — det kan ta ett tag."</p></blockquote><p>Korta meningar. Hög energi. Konkret tid och plats. Aldrig generellt, alltid specifikt.</p><p></p>                                                                                                                                 |                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                       |                  |
+
+
 
 ## Tonlägen
 
