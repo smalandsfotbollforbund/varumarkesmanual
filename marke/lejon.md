@@ -1,7 +1,7 @@
 ---
 description: >-
   Används när uttrycket ska vara mer sportigt, digitalt eller emotionellt.
-  Lejonet är förbundets ansikte i fält.
+  Lejonet med armborstet är symbolen för landskapet.
 layout:
   width: default
   title:
@@ -21,8 +21,6 @@ layout:
 ---
 
 # Lejon
-
-## Lejonet är vår Liver Bird
 
 Ett självständigt kännetecken som lever sitt eget liv vid sidan av emblemet. På profilbilden, på kepsen, broderat på ärmen, präglat på matchprogrammet.
 
