@@ -10,7 +10,7 @@
   * [Lejon](marke/lejon.md)
   * [Användning](marke/anvandning.md)
 * [Färg](farg/README.md)
-  * [Primär](farg/primar.md)
+  * [Palett](farg/palett.md)
   * [Sekundär](farg/stod.md)
   * [Bas](farg/bas.md)
   * [Nationellt](farg/land.md)
