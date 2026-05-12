@@ -1,4 +1,7 @@
 ---
+description: >-
+  Färger i rätt proportion är skillnaden mellan identitet och kaos. Regeln
+  gäller vardagsbalansen, medan affischer och kampanjer får bryta mönstret.
 layout:
   width: default
   title:
@@ -19,25 +22,9 @@ layout:
 
 # Proportioner
 
-<table data-header-hidden><thead><tr><th width="500" data-type="image">Neutral</th><th width="250" data-type="image">Primär</th><th width="150" data-type="image">Sekundär</th><th width="70" data-type="image">Bas</th><th width="30" data-type="image">Accent</th></tr></thead><tbody><tr><td><a href="https://singlecolorimage.com/get/E2DBD0/500x50">https://singlecolorimage.com/get/E2DBD0/500x50</a></td><td><a href="https://singlecolorimage.com/get/A91C1C/250x50">https://singlecolorimage.com/get/A91C1C/250x50</a></td><td><a href="https://singlecolorimage.com/get/1A3A2A/150x50">https://singlecolorimage.com/get/1A3A2A/150x50</a></td><td><a href="https://singlecolorimage.com/get/111111/70x50">https://singlecolorimage.com/get/111111/70x50</a></td><td><a href="https://singlecolorimage.com/get/FECB00/30x50">https://singlecolorimage.com/get/FECB00/30x50</a></td></tr></tbody></table>
+<figure><img src="../.gitbook/assets/fargproportioner.svg" alt=""><figcaption><p>Neutral (50%), Primär (25%), Sekundär (15%), Bas (7%) och Accent (3%)</p></figcaption></figure>
 
-<img src="https://singlecolorimage.com/get/E2DBD0/500x50" alt="Neutral" style="width: 50%; height: 3vh; margin: 0; padding: 0;"><img src="https://singlecolorimage.com/get/A91C1C/250x50" alt="Primär" style="width: 25%; height: 3vh; margin: 0; padding: 0;"><img src="https://singlecolorimage.com/get/1A3A2A/150x50" alt="Sekundär" style="width: 15%; height: 3vh; margin: 0; padding: 0;"><img src="https://singlecolorimage.com/get/111111/70x50" alt="Bas" style="width: 7%; height: 3vh; margin: 0; padding: 0;"><img src="https://singlecolorimage.com/get/FECB00/30x50" alt="Accent" style="width: 3%; height: 3vh; margin: 0; padding: 0;">
-
-## Proportionsregeln
-
-![](../.gitbook/assets/proportion-bar.svg)
-
-Färger i rätt proportion är skillnaden mellan identitet och kaos. Regeln gäller vardagsbalansen — affischer och kampanjer får bryta mönstret.
-
-**50 — 25 — 15 — 7 — 3**
-
-| Del      | Färg                   | Förklaring                                                         |
-| -------- | ---------------------- | ------------------------------------------------------------------ |
-| **50 %** | Linnevit / Torparbeige | Neutral grund. Ger luft, läsbarhet och utrymme för allt annat.     |
-| **25 %** | Smålandsröd            | Primärfärgen. Det starkaste visuella budskapet.                    |
-| **15 %** | Skogsgrön              | Djup och kontrast. Alltid stödjande — aldrig i konkurrens med röd. |
-| **7 %**  | Kolsvart               | Text, grafik och hårda kontraster.                                 |
-| **3 %**  | Matchgul accent        | Energi och kampanj. Sparsamt och med ett tydligt syfte varje gång. |
+<table><thead><tr><th width="100">Andel</th><th>Kategori</th><th>Förklaring</th></tr></thead><tbody><tr><td><strong>50 %</strong></td><td>Neutral färg, såsom linnevit eller torparbeige</td><td>Neutral grund. Ger luft, läsbarhet och utrymme för allt annat.</td></tr><tr><td><strong>25 %</strong></td><td>Primärfärg, såsom Smålandsröd</td><td>Primärfärgen. Det starkaste visuella budskapet.</td></tr><tr><td><strong>15 %</strong></td><td>Sekundärfärg, såsom Skogsgrön</td><td>Djup och kontrast. Alltid stödjande — aldrig i konkurrens med röd.</td></tr><tr><td><strong>7 %</strong></td><td>Basfärg, såsom Kolsvart</td><td>Text, grafik och hårda kontraster.</td></tr><tr><td><strong>3 %</strong></td><td>Accentfärg, såsom Matchgul accent</td><td>Energi och kampanj. Sparsamt och med ett tydligt syfte varje gång.</td></tr></tbody></table>
 
 {% hint style="warning" %}
 **Förbjudna kombinationer:**
