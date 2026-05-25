@@ -9,7 +9,7 @@
   * [Lejon](marke/lejon.md)
 * [Färg](farg/README.md)
   * [Palett](farg/palett.md)
-  * [Proportioner](farg/proportioner.md)
+  * [Proportioner](farg/proportioner-och-kombinationer.md)
   * [Kombinationer](farg/kombinationer.md)
 * [Typografi](typografi/README.md)
   * [Nivåer](typografi/nivaer.md)
