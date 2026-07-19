@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Välkommen](README.md)
+* [Vårt varumärke](README.md)
 * [Positionering](positionering/README.md)
   * [Vilka vi är](positionering/vilka-vi-ar.md)
   * [Strategisk grund](positionering/strategisk-grund.md)

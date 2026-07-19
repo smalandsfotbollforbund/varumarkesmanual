@@ -1,6 +1,15 @@
 ---
+description: >-
+  Vår berättelse om hur vi låter och ser ut för att positionera oss. Detta är
+  Smålands Fotbollförbunds varumärkesmanual.
+cover: .gitbook/assets/sidhuvud.svg
+coverY: 0
 layout:
   width: default
+  cover:
+    visible: true
+    size: background
+    mask: none
   title:
     visible: true
   description:
@@ -19,11 +28,9 @@ layout:
     visible: true
 ---
 
-# Välkommen
+# Vårt varumärke
 
 ## Välkommen
-
-![Lejonet med armborstet i Smålandsröd, distriktets digitala primärmärke ur Smålands landskapsvapen](https://1772278110-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAQUIlpkQmEm8Zp9mMG5A%2Fuploads%2FpoEBo0lLD5AwcBxqUYGr%2Flejon-rod.svg?alt=media\&token=bf7a901e-9303-443f-8d26-8239603eaf97)
 
 Detta är Smålands Fotbollförbunds varumärkesmanual, låst i version 1.0. Varumärket består av fyra pelare. All kommunikation i distriktets namn hämtar sina beslut här. Distriktschefen äger varumärkesmanualen och dess utformning, och beslutar om avvikelser och uppdateringar.
 
@@ -41,12 +48,6 @@ Detta är Smålands Fotbollförbunds varumärkesmanual, låst i version 1.0. Var
 | Välja, beställa eller publicera bilder     | [Bildspråk](visuell-identitet/bildsprak.md)                                 |
 | Kolla vad ett ord heter hos oss            | [Ordbruk](rost/ordbruk.md)                                                  |
 | Göra en sista koll före publicering        | [Rätt & fel](ratt-and-fel.md)                                               |
-
-#### Två läsvägar
-
-**Ny på kansliet?** Läs [Vilka vi är](positionering/vilka-vi-ar.md), [Så låter vi](rost/sa-later-vi.md) och [Rätt & fel](ratt-and-fel.md). Det tar en kvart och räcker för att börja arbeta.
-
-**Byrå eller formgivare?** Läs hela [Visuell identitet](visuell-identitet/) och [Rätt & fel](ratt-and-fel.md). Alla exakta värden finns i tabellerna: hexkoder, frizoner, minsta storlekar och proportionsregeln.
 
 #### De fyra pelarna
 
