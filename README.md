@@ -15,48 +15,31 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Välkommen
 
-Det här är varumärkesmanualen för Smålands Fotbollförbund. Den samlar allt du behöver veta om hur vi ser ut, hur vi låter och varför vi gör det på det sättet.
+## Välkommen
 
-Arbetsnamnet säger det rakaste: **Med rötter, ryggrad och riktning.**
+Detta är Smålands Fotbollförbunds varumärkesmanual, låst i version 1.0. Varumärket består av fyra pelare. All kommunikation i distriktets namn hämtar sina beslut här. Distriktschefen äger varumärkesmanualen och dess utformning, och beslutar om avvikelser och uppdateringar.
 
-![](.gitbook/assets/stenmurslinje.svg)
+### De fyra pelarna
 
-Tre ord. Ingen fluff. Det är vad vi är.
+1. **Positionering.** Vilka vi är, vem vi talar till och vad vi står för.
+2. **Röst.** Hur vi låter, i alla kanaler.
+3. **Visuell identitet.** Färg, skrift, märke, element och bild.
+4. **Berättelsen.** Ursprunget, genomlinjen och bevisen.
 
-## För vem
+### Genomlinjen
 
-Manualen vänder sig till **intern personal och externa byråer**. Det är ett operativt verktyg — inte en inspirationskälla. Behöver du snabba svar: gå till rätt kapitel. Behöver du förstå varför: börja med kapitel 01.
+> Det som byggs för hand i Småland håller i generationer, och fotbollen är inget undantag.
 
-{% hint style="info" %}
-**Version 2.0 · 2024 · Konfidentiellt**\
-Frågor om manualen riktas till distriktschefen.
-{% endhint %}
+### Bondetestet
 
-## Vad den innehåller
+Före varje produktion:
 
-Åtta kapitel som täcker allt från strategi till tillämpning:
-
-* Varför vi ser ut som vi gör
-* Hur emblemet och lejonet används — och inte används
-* Exakta färgvärden och proportionsregler
-* Typografisystemet och hur det kombineras
-* De fyra grafiska elementen
-* Vår röst och hur vi anpassar tonen per sammanhang
-* Konkreta tillämpningar för varje kanal och format
-* En tydlig lista med vad vi alltid gör och aldrig gör
-
-## Hur du använder den
-
-Börja i kapitel 01 om du är ny. Är du erfaren och letar efter en specifik regel — gå direkt dit du behöver. Varje kapitel är självbärande.
-
-Hittar du något som saknas eller verkar fel: kontakta distriktschefen.
-
-> _"Med rötter, ryggrad och riktning."_
-
-***
-
-← | [Nästa — 01 Strategi & Identitet →](/broken/pages/i96DG9A06hl0MMXDbZqR)
+1. Gör vi mer än nödvändigt?
+2. Är det vi gör gjort ordentligt?
+3. Skulle vilken lagledare som helst i Småland förstå det?
