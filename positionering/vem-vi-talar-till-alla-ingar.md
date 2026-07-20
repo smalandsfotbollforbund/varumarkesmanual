@@ -12,7 +12,7 @@ Primär mottagare. Den som leder träningarna, går utbildningarna och möter sp
 {% endstep %}
 
 {% step %}
-### **Den ideella organisationsledaren i föreningen**
+### Den ideella organisationsledaren i föreningen
 
 Styrelser, kanslister, eldsjälar. De som håller i nyckelknippan. Föreningen först.
 {% endstep %}

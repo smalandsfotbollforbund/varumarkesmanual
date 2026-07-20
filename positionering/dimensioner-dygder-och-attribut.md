@@ -1,5 +1,5 @@
 ---
-description: Rötter, ryggrad, riktning. De fyra dygderna och de fem attributen.
+description: De tre dimensionerna, de fyra dygderna och de fem attributen.
 ---
 
 # Dimensioner, dygder och attribut
@@ -8,25 +8,19 @@ description: Rötter, ryggrad, riktning. De fyra dygderna och de fem attributen.
 
 {% columns %}
 {% column %}
-<i class="fa-1">:1:</i>
-
-### Rötter
+### <i class="fa-1">:1:</i> Rötter
 
 Historia, föreningar, landskap. Föreningarna är grunden, ideellt arbete är motorn, och landskapet, från Vättern till Östersjön, genom skog, mossar och öppna fält, är vår spelplan.
 {% endcolumn %}
 
 {% column %}
-<i class="fa-2">:2:</i>
-
-### Ryggrad
+### <i class="fa-2">:2:</i> Ryggrad
 
 Tydlighet, ansvar, delaktighet. Vi säger vad vi menar. Vi gör det vi lovar. Smålandsfotbollen är en folkrörelse där föreningarna äger sin fotboll och alla röster hörs. Delaktigheten är inte en metod, den är arvet.
 {% endcolumn %}
 
 {% column %}
-<i class="fa-3">:3:</i>
-
-### Riktning
+### <i class="fa-3">:3:</i> Riktning
 
 Utveckling, unga, framåt. Vi förvaltar inte. Vi bygger. Varje barn som knyter sina första fotbollsskor i Småland ska mötas av ett distrikt som vill någonstans, och som tar dem dit.
 {% endcolumn %}
@@ -68,7 +62,7 @@ Småland är inte ett steg på vägen, det är målet. Vi bygger fotboll som var
 
 </details>
 
-### Fem attribut, det dagliga beslutsfiltret
+## Fem attribut, det dagliga beslutsfiltret
 
 Attributen gör dygderna operativa. Inte värderingar på en vägg, utan ett filter för varje kommunikationsval.
 
