@@ -1,3 +1,7 @@
+---
+icon: cubes-stacked
+---
+
 # Positionering
 
 ## Positionering

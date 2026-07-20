@@ -1,3 +1,7 @@
+---
+icon: timeline
+---
+
 # Berättelsen
 
 ## Berättelsen

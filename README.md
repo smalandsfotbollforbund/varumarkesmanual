@@ -1,9 +1,10 @@
 ---
 description: >-
-  Vår berättelse om hur vi låter och ser ut för att positionera oss. Detta är
-  Smålands Fotbollförbunds varumärkesmanual.
+  Detta är Smålands Fotbollförbunds varumärkesmanual. Varumärket består av fyra
+  pelare. All kommunikation i distriktets namn hämtar sina beslut här.
 cover: .gitbook/assets/sidhuvud.svg
 coverY: 0
+coverHeight: 147
 layout:
   width: default
   cover:
@@ -30,9 +31,7 @@ layout:
 
 # Vårt varumärke
 
-## Välkommen
-
-Detta är Smålands Fotbollförbunds varumärkesmanual, låst i version 1.0. Varumärket består av fyra pelare. All kommunikation i distriktets namn hämtar sina beslut här. Distriktschefen äger varumärkesmanualen och dess utformning, och beslutar om avvikelser och uppdateringar.
+Detta är Smålands Fotbollförbunds varumärkesmanual. Varumärket består av fyra pelare. All kommunikation i distriktets namn hämtar sina beslut här. Distriktschefen äger varumärkesmanualen och dess utformning, och beslutar om avvikelser och uppdateringar.
 
 {% hint style="info" %}
 **Manualen är bindande.** Reglerna är beslut, inte förslag. Exempel är markerade som exempel. Är du osäker frågar du distriktschefen före publicering, inte efter.

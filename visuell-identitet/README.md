@@ -1,3 +1,7 @@
+---
+icon: image-landscape
+---
+
 # Visuell identitet
 
 ## Visuell identitet
