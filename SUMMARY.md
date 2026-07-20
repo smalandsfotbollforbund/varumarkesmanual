@@ -2,10 +2,10 @@
 
 * [Vårt varumärke](README.md)
 * [Positionering](positionering/README.md)
-  * [Vilka vi är](positionering/vilka-vi-ar.md)
+  * [Vilka vi är och den strategiska grunden](positionering/vilka-vi-ar-och-den-strategiska-grunden.md)
   * [Strategisk grund](positionering/strategisk-grund.md)
   * [Dimensioner, dygder och attribut](positionering/dimensioner-dygder-och-attribut.md)
-  * [Vem vi talar till](positionering/vem-vi-talar-till.md)
+  * [Vem vi talar till, alla ingår](positionering/vem-vi-talar-till-alla-ingar.md)
   * [Alla ingår](positionering/alla-ingar.md)
   * [Berättelserna är styrkan](positionering/berattelserna-ar-styrkan.md)
   * [Vad vi står för och emot](positionering/vad-vi-star-for-och-emot.md)
