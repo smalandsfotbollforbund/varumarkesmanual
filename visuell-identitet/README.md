@@ -3,7 +3,7 @@ description: >-
   Den visuella identiteten byggs som smålänningen bygger en stenmur: av det som
   finns på platsen, för hand, utan dekoration. Och den står i hundra år.
 icon: image-landscape
-cover: ../.gitbook/assets/bakgrund-torparbeige.svg
+cover: ../.gitbook/assets/bakgrund-kritvit.svg
 coverY: 0
 layout:
   width: default

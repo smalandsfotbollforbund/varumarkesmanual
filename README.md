@@ -44,7 +44,7 @@ Detta är Smålands Fotbollförbunds varumärkesmanual. Varumärket består av f
 
 ## De fyra pelarna
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h3>Positionering</h3></td><td>Vilka vi är, vem vi talar till och vad vi står för.</td><td><a href=".gitbook/assets/cover-positionering.svg">cover-positionering.svg</a></td></tr><tr><td><h2>Röst</h2></td><td>Hur vi låter, i alla kanaler.</td><td></td></tr><tr><td><h2>Visuell identitet</h2></td><td>Färg, skrift, märke, element och bild.</td><td></td></tr><tr><td><h2>Berättelsen</h2></td><td>Ursprunget, genomlinjen och bevisen.</td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h3>Positionering</h3></td><td>Vilka vi är, vem vi talar till och vad vi står för.</td><td><a href=".gitbook/assets/cover-positionering.svg">cover-positionering.svg</a></td></tr><tr><td><h2>Röst</h2></td><td>Hur vi låter, i alla kanaler.</td><td><a href=".gitbook/assets/cover-rost.svg">cover-rost.svg</a></td></tr><tr><td><h2>Visuell identitet</h2></td><td>Färg, skrift, märke, element och bild.</td><td><a href=".gitbook/assets/cover-visuell-identitet.svg">cover-visuell-identitet.svg</a></td></tr><tr><td><h2>Berättelsen</h2></td><td>Ursprunget, genomlinjen och bevisen.</td><td><a href=".gitbook/assets/cover-berattelsen.svg">cover-berattelsen.svg</a></td></tr></tbody></table>
 
 
 
