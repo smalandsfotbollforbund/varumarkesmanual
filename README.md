@@ -32,6 +32,22 @@ layout:
 
 Detta är Smålands Fotbollförbunds varumärkesmanual. Varumärket består av fyra pelare. All kommunikation i distriktets namn hämtar sina beslut här. Distriktschefen äger varumärkesmanualen och dess utformning, och beslutar om avvikelser och uppdateringar.
 
+**Ägarskap:** Distriktschefen äger varumärkesmanualen och dess utformning, och beslutar om avvikelser.
+
+## Positioneringsmeningen
+
+> **Smålands Fotbollförbund är Smålandsfotbollens ryggrad. Sveriges tredje största fotbollsdistrikt, med rötter i myllan och ögonen mot framtiden, som bygger fotboll för alla genom föreningarna, från knatte till proffs.**
+
+* Tagline: _"Med rötter, ryggrad och riktning."_
+* Kampanjform: _"Hårt arbete. Inga ursäkter."_
+* Rörelseform: _"Från mylla till mål."_
+
+## De fyra pelarna
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h3>Positionering</h3></td><td>Vilka vi är, vem vi talar till och vad vi står för.</td><td><a href=".gitbook/assets/cover-positionering.svg">cover-positionering.svg</a></td></tr><tr><td><h2>Röst</h2></td><td>Hur vi låter, i alla kanaler.</td><td></td></tr><tr><td><h2>Visuell identitet</h2></td><td>Färg, skrift, märke, element och bild.</td><td></td></tr><tr><td><h2>Berättelsen</h2></td><td>Ursprunget, genomlinjen och bevisen.</td><td></td></tr></tbody></table>
+
+
+
 <button type="button" class="button primary" data-action="ask" data-icon="message-question">Ställ din fråga om vårt varumärke...</button>
 
 {% hint style="info" %}
