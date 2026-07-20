@@ -8,7 +8,87 @@ description: Varför människan alltid går före sakfrågan.
 
 Varje kommunikationsinsats ska söka berättelsen och människan bakom sakfrågan. En serietabell är information. Människan bakom tabellen är kommunikation. Detta är distriktets sätt att visa att alla ingår: genom att berätta om alla, från knatte till proffs, med samma värme och samma stolthet.
 
+{% columns %}
+{% column %}
+{% hint style="success" %}
+## **Gör alltid /** vad vi står för
+
+* **Föreningen först.** \
+  All fotboll börjar någonstans. Ofta med en nyckelknippa, en kaffetermos och någon som kommer lite tidigare.
+* **Hårt arbete, inga ursäkter.** \
+  Kollektiv styrka och individuell utveckling, sida vid sida. Varje lag representerar sin bygd.
+* **Delaktighet på riktigt.** \
+  Smålandsfotbollen är en folkrörelse. Föreningarna äger sin fotboll, och alla ska kunna vara med och påverka.
+* **Fotboll för alla.** \
+  Trygga miljöer, jämställdhet och inkludering, i by och stad, för alla, hela livet. Och de bästa måste få vara bäst.
+* **Precision är respekt.** \
+  Datum, tider, platser, alltid med. "Snart" och "i närtid" är ord som skräms bort.
+* **Vi bygger för generationer.** \
+  Fotboll som varar, i varje dal och på varje skogsglänt. Som stenmuren: byggd en gång, står i hundra år. Från mylla till mål.
+{% endhint %}
+
+
+{% endcolumn %}
+
+{% column %}
+{% hint style="danger" icon="square-xmark" %}
+## **Gör aldrig /** vad vi är emot
+
+* **Byråkratspråk och floskler.**\
+  Vi skriver mänskligt när det går, och det går alltid.
+* **Skryt och arrogans.**\
+  Vi vet vad vi är värda men behöver inte säga det högt. Resultaten talar.
+* **Kall korporativism.**\
+  Bakom varje siffra finns ett barn som spelar för första gången och en veteran som spelar sin sista match.
+* **Fusk och otrygghet.**\
+  Manipulation, doping, rasism och diskriminering har ingen plats på någon plan i Småland.
+* **Nostalgi som ursäkt.**\
+  Rötterna är spelplanen, inte museet. Vi springer när andra går. Vi stannar kvar när andra ger upp.
+* **Kompromissande med kvalitet.**\
+  Vi ber inte om ursäkt för att vi håller en standard. Kvalitet är inte ett val, det är ett krav.
+* **Att göra sig märkvärdig.**\
+  Det största smålandsbrottet av alla.
+{% endhint %}
+{% endcolumn %}
+{% endcolumns %}
+
 ## Vad vi står för och emot
+
+{% hint style="success" %}
+## **Gör alltid /** vad vi står för
+
+* **Föreningen först.** \
+  All fotboll börjar någonstans. Ofta med en nyckelknippa, en kaffetermos och någon som kommer lite tidigare.
+* **Hårt arbete, inga ursäkter.** \
+  Kollektiv styrka och individuell utveckling, sida vid sida. Varje lag representerar sin bygd.
+* **Delaktighet på riktigt.** \
+  Smålandsfotbollen är en folkrörelse. Föreningarna äger sin fotboll, och alla ska kunna vara med och påverka.
+* **Fotboll för alla.** \
+  Trygga miljöer, jämställdhet och inkludering, i by och stad, för alla, hela livet. Och de bästa måste få vara bäst.
+* **Precision är respekt.** \
+  Datum, tider, platser, alltid med. "Snart" och "i närtid" är ord som skräms bort.
+* **Vi bygger för generationer.** \
+  Fotboll som varar, i varje dal och på varje skogsglänt. Som stenmuren: byggd en gång, står i hundra år. Från mylla till mål.
+{% endhint %}
+
+{% hint style="danger" icon="square-xmark" %}
+## **Gör aldrig /** vad vi är emot
+
+* **Byråkratspråk och floskler.**\
+  Vi skriver mänskligt när det går, och det går alltid.
+* **Skryt och arrogans.**\
+  Vi vet vad vi är värda men behöver inte säga det högt. Resultaten talar.
+* **Kall korporativism.**\
+  Bakom varje siffra finns ett barn som spelar för första gången och en veteran som spelar sin sista match.
+* **Fusk och otrygghet.**\
+  Manipulation, doping, rasism och diskriminering har ingen plats på någon plan i Småland.
+* **Nostalgi som ursäkt.**\
+  Rötterna är spelplanen, inte museet. Vi springer när andra går. Vi stannar kvar när andra ger upp.
+* **Kompromissande med kvalitet.**\
+  Vi ber inte om ursäkt för att vi håller en standard. Kvalitet är inte ett val, det är ett krav.
+* **Att göra sig märkvärdig.**\
+  Det största smålandsbrottet av alla.
+{% endhint %}
 
 ### Vad vi står för
 
