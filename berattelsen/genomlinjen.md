@@ -1,3 +1,7 @@
+---
+description: Meningen som allt annat hänger på.
+---
+
 # Genomlinjen
 
 ## Genomlinjen

@@ -1,3 +1,7 @@
+---
+description: Hur elit och bredd håller ihop.
+---
+
 # Alla ingår
 
 ## Alla ingår. Även de bästa.

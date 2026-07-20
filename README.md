@@ -8,7 +8,7 @@ layout:
   width: default
   cover:
     visible: true
-    size: background
+    size: full
     mask: none
   title:
     visible: true
@@ -31,6 +31,8 @@ layout:
 # Vårt varumärke
 
 Detta är Smålands Fotbollförbunds varumärkesmanual. Varumärket består av fyra pelare. All kommunikation i distriktets namn hämtar sina beslut här. Distriktschefen äger varumärkesmanualen och dess utformning, och beslutar om avvikelser och uppdateringar.
+
+<button type="button" class="button primary" data-action="ask" data-icon="message-question">Ställ din fråga om vårt varumärke...</button>
 
 {% hint style="info" %}
 **Manualen är bindande.** Reglerna är beslut, inte förslag. Exempel är markerade som exempel. Är du osäker frågar du distriktschefen före publicering, inte efter.

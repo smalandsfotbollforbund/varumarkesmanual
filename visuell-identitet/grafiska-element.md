@@ -1,3 +1,7 @@
+---
+description: Stenmurslinjen, planlinjen och de andra verktygen.
+---
+
 # Grafiska element
 
 ## Grafiska element

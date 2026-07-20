@@ -1,3 +1,7 @@
+---
+description: Vad vi kallar oss själva och andra. Bindande.
+---
+
 # Namnbruk
 
 ## Namnbruk

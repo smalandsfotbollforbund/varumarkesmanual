@@ -1,3 +1,7 @@
+---
+description: Raster, rubrikblock och mobilskärm först.
+---
+
 # Komposition
 
 ## Komposition

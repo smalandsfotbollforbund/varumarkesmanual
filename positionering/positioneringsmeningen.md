@@ -1,3 +1,7 @@
+---
+description: Meningen, taglinen och kampanjformerna.
+---
+
 # Positioneringsmeningen
 
 ## Positioneringsmeningen

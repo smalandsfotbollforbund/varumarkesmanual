@@ -1,3 +1,7 @@
+---
+description: Vad kameran söker och hur bilden görs.
+---
+
 # Bildspråk
 
 ## Bildspråk

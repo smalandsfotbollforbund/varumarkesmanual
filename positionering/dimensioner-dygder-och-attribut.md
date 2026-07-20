@@ -1,3 +1,7 @@
+---
+description: Rötter, ryggrad, riktning. De fyra dygderna och de fem attributen.
+---
+
 # Dimensioner, dygder och attribut
 
 ## Dimensioner, dygder och attribut

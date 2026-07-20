@@ -1,3 +1,7 @@
+---
+description: 'Två lägen: distriktsläget och nationella läget.'
+---
+
 # Förbundet och RF-SISU Småland
 
 ## Förbundet och RF-SISU Småland

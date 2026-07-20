@@ -1,3 +1,9 @@
+---
+description: >-
+  Emblemet, lejonet och profillejonet med en beslutstabell om när vilket
+  används.
+---
+
 # Märket
 
 ## Märket

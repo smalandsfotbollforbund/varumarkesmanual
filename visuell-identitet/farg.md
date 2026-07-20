@@ -1,3 +1,7 @@
+---
+description: Paletten, hexkoderna och sparsamhetsregeln.
+---
+
 # Färg
 
 ## Färg

@@ -1,3 +1,7 @@
+---
+description: Sex ståndpunkter och sju saker vi aldrig gör.
+---
+
 # Vad vi står för och emot
 
 ## Vad vi står för och emot

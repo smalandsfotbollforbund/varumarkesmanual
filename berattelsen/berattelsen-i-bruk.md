@@ -1,3 +1,7 @@
+---
+description: 'Färdiga texter: bio, om oss och kanalpresentation.'
+---
+
 # Berättelsen i bruk
 
 ## Berättelsen i bruk

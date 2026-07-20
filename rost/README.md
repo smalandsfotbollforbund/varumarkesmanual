@@ -4,6 +4,30 @@ description: >-
   och intervjuer i regnet. Det som varierar per kanal är tempo och längd, aldrig
   karaktären.
 icon: head-side-speak
+cover: ../.gitbook/assets/bakgrund-torparbeige.svg
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: background
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Röst

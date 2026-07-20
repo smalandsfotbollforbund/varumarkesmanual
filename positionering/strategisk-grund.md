@@ -1,3 +1,7 @@
+---
+description: Vision, mission och verksamhetsidé.
+---
+
 # Strategisk grund
 
 ## Strategisk grund
