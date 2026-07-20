@@ -1,3 +1,7 @@
+---
+description: Varje kanals dialekt, från hemsidan till Min Fotboll.
+---
+
 # Kanalerna
 
 ## Kanalerna

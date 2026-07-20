@@ -1,4 +1,8 @@
 ---
+description: >-
+  Berättelsen är varför någon bryr sig. Varje kommunikationsinsats hämtar sin
+  sakfråga ur vardagen, sin form ur röst och visuell identitet och sin mening
+  från människor och platser.
 icon: timeline
 ---
 

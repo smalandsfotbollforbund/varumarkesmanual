@@ -1,3 +1,7 @@
+---
+description: Hur meningarna byggs. Kort slår långt.
+---
+
 # Rytm och struktur
 
 ## Rytm och struktur

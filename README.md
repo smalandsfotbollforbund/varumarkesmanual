@@ -4,7 +4,6 @@ description: >-
   pelare. All kommunikation i distriktets namn hämtar sina beslut här.
 cover: .gitbook/assets/sidhuvud.svg
 coverY: 0
-coverHeight: 147
 layout:
   width: default
   cover:

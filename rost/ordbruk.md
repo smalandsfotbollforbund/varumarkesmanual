@@ -1,3 +1,7 @@
+---
+description: Den bindande ordlistan. Skriv och skriv aldrig.
+---
+
 # Ordbruk
 
 ## Ordbruk
