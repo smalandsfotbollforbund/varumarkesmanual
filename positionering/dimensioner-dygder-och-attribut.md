@@ -1,5 +1,23 @@
 ---
 description: De tre dimensionerna, de fyra dygderna och de fem attributen.
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Dimensioner, dygder och attribut

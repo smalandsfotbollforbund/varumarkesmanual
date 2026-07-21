@@ -6,7 +6,7 @@ description: >-
 cover: .gitbook/assets/sidhuvud.svg
 coverY: 0
 layout:
-  width: default
+  width: wide
   cover:
     visible: true
     size: full

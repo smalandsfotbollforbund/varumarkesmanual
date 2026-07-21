@@ -2,6 +2,24 @@
 description: >-
   Vad vi kallar oss själva och andra. Bindande för att skapa tydlighet för
   mottagaren och konsekvent bevara de olika varumärkena.
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Namnbruk och överlappning

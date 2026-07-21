@@ -2,6 +2,24 @@
 description: >-
   Varför människan alltid går före sakfrågan och exempel på vad vi står för och
   vill sända förbundskap, men också vad vi är emot och inte står för.
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Berättelserna är styrkan och vad vi står för
