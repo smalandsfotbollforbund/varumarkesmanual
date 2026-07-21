@@ -1,7 +1,7 @@
 ---
 description: Mottagaren varierar med innehållet, men vid vägval finns en prioritering.
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

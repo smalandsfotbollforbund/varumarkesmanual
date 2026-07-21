@@ -1,7 +1,7 @@
 ---
 description: De tre dimensionerna, de fyra dygderna och de fem attributen.
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:

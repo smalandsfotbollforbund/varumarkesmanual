@@ -3,7 +3,7 @@ description: >-
   Vad vi kallar oss själva och andra. Bindande för att skapa tydlighet för
   mottagaren och konsekvent bevara de olika varumärkena.
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
