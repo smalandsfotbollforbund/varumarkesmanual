@@ -10,7 +10,7 @@ description: >-
 
 <summary><strong>Smålands Fotbollförbund</strong></summary>
 
-**Smålands Fotbollförbund** är alltid namnet, och skrivs alltid så vid första omnämnandet.
+...är alltid namnet, och skrivs alltid så vid första omnämnandet.
 
 Förkortningar (SmFF, Smålands FF, SDF osv) undviks och används aldrig officiellt. I löpande text efter definitionen (Smålands Fotbollförbund) används därefter: **distriktet**, **Småland** (enbart i fotbollssammanhang) eller om lämpligt **vi**, **för oss** eller liknande benämningar.
 
@@ -20,7 +20,7 @@ Förkortningar (SmFF, Smålands FF, SDF osv) undviks och används aldrig officie
 
 <summary><strong>Smålandsfotbollen</strong></summary>
 
-**Smålandsfotbollen** benämner allt inom småländsk fotboll: föreningarna, spelarna, ledarna, domarna och distriktet tillsammans. Inte enbart organisationen.
+...benämner allt inom småländsk fotboll: föreningarna, spelarna, ledarna, domarna och distriktet tillsammans. Inte enbart organisationen.
 
 </details>
 
@@ -28,7 +28,7 @@ Förkortningar (SmFF, Smålands FF, SDF osv) undviks och används aldrig officie
 
 <summary><strong>Förbundet</strong></summary>
 
-**Förbundet** betyder alltid Svenska Fotbollförbundet, som ibland också benämns **SvFF**. Smålands Fotbollförbund kallas aldrig "förbundet", utan refereras snarare till som **distriktet**.
+...betyder alltid Svenska Fotbollförbundet, som ibland också benämns **SvFF**. Smålands Fotbollförbund kallas aldrig "förbundet", utan refereras snarare till som **distriktet**.
 
 </details>
 
@@ -36,7 +36,7 @@ Förkortningar (SmFF, Smålands FF, SDF osv) undviks och används aldrig officie
 
 <summary><strong>RF-SISU Småland</strong></summary>
 
-**RF-SISU Småland** skrivs alltid i exakt den formen, med bindestreck och Småland. Övriga förkortningar som DF används aldrig.
+...skrivs alltid i exakt den formen, med bindestreck och Småland. Övriga förkortningar som DF används aldrig.
 
 **Riksidrottsförbundet** benämns också som **RF**, men avser riksorganisationen.
 
