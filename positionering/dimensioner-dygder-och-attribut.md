@@ -6,25 +6,7 @@ description: De tre dimensionerna, de fyra dygderna och de fem attributen.
 
 ## Tre dimensioner
 
-{% columns %}
-{% column %}
-### <i class="fa-1">:1:</i> Rötter
-
-Historia, föreningar, landskap. Föreningarna är grunden, ideellt arbete är motorn, och landskapet, från Vättern till Östersjön, genom skog, mossar och öppna fält, är vår spelplan.
-{% endcolumn %}
-
-{% column %}
-### <i class="fa-2">:2:</i> Ryggrad
-
-Tydlighet, ansvar, delaktighet. Vi säger vad vi menar. Vi gör det vi lovar. Smålandsfotbollen är en folkrörelse där föreningarna äger sin fotboll och alla röster hörs. Delaktigheten är inte en metod, den är arvet.
-{% endcolumn %}
-
-{% column %}
-### <i class="fa-3">:3:</i> Riktning
-
-Utveckling, unga, framåt. Vi förvaltar inte. Vi bygger. Varje barn som knyter sina första fotbollsskor i Småland ska mötas av ett distrikt som vill någonstans, och som tar dem dit.
-{% endcolumn %}
-{% endcolumns %}
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h4><strong>Rötter</strong></h4></td><td>Historia, föreningar, landskap. Föreningarna är grunden, ideellt arbete är motorn, och landskapet, från Vättern till Östersjön, genom skog, mossar och öppna fält, är vår spelplan.</td></tr><tr><td><h4><strong>Ryggrad</strong></h4></td><td>Tydlighet, ansvar, delaktighet. Vi säger vad vi menar. Vi gör det vi lovar. Smålandsfotbollen är en folkrörelse där föreningarna äger sin fotboll och alla röster hörs. Delaktigheten är inte en metod, den är arvet.</td></tr><tr><td><h4><strong>Riktning</strong></h4></td><td>Utveckling, unga, framåt. Vi förvaltar inte. Vi bygger. Varje barn som knyter sina första fotbollsskor i Småland ska mötas av ett distrikt som vill någonstans, och som tar dem dit.</td></tr></tbody></table>
 
 ## Smålänningens fyra dygder
 

@@ -23,7 +23,7 @@ Motpolerna är röstens gärdsgård: de visar var marken slutar. När en text dr
 * **Korta meningar slår långa.** \
   Punkt är röstens vanligaste skiljetecken, komma det näst vanligaste. Tankstreck undviks i största möjliga mån, två korta meningar slår en lång med streck i.
 * **Det viktigaste först.** \
-  Mottagaren ska förstå budskapet i första meningen. Gäller i alla former. Rubriken ska sammanfatta innehållet. Smålänningar har mycket "att stå i", så prioritera det viktigaste.
+  [Mottagaren](../positionering/vem-vi-talar-till.md) ska förstå budskapet i första meningen. Gäller i alla former. Rubriken ska sammanfatta innehållet. Smålänningar har mycket "att stå i", så prioritera det viktigaste.
 * **Aktiva verb, aldrig passiva konstruktioner.** \
   "Styrelsen beslutade", inte "beslutet fattades av styrelsen". Vi skriver som smålänningar pratar.
 * **Du-tilltal, vi-avsändare.** \
@@ -32,7 +32,7 @@ Motpolerna är röstens gärdsgård: de visar var marken slutar. När en text dr
   Nyckelknippan, kaffetermosen och kritlinjen är röstens bildspråk. Inget vag, flytande eller fluffigt. Säg som det där och använd abstrakta liknelser sparsamt.
 * **Sök berättelsen.** \
   Bakom varje sakfråga finns en människa. Lyft personen, föreningen, platsen. Alltid småländskt: riktiga namn, riktiga orter, riktiga planer.
-* **Skriv för tränaren** när mottagaren inte är given: ont om tid, mobilen i handen, träning klockan 18.
+* **Skriv för** [**tränaren**](../positionering/vem-vi-talar-till.md#tranaren-med-tidsbrist) när mottagaren inte är given: ont om tid, mobilen i handen, träning klockan 18.
 
 ## Referensrösten är exempel på hur det kan låta
 
