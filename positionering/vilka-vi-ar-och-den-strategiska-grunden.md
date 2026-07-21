@@ -20,26 +20,4 @@ Varumärkets karaktär är smålänningens: en människa som kan hålla ett års
 
 Vision, mission och verksamhetsidé. Positioneringen vilar på distriktets fastställda [strategi](https://app.gitbook.com/s/tDLjtUhYJqG5cjWfxJyI/strategi).
 
-<a href="https://app.gitbook.com/s/tDLjtUhYJqG5cjWfxJyI/strategi/grund#visionen" class="button secondary">Läs vår vision</a><a href="https://app.gitbook.com/s/tDLjtUhYJqG5cjWfxJyI/strategi/grund#visionen" class="button secondary">Visionen</a><a href="https://app.gitbook.com/s/tDLjtUhYJqG5cjWfxJyI/strategi/grund#visionen" class="button secondary">Visionen</a>
-
-
-
-<sub>**Vision**</sub>
-
-## **Fotboll för alla – i hela Småland, hela livet, i takt med tiden.**
-
-Ett Småland där barn på landsbygden har samma möjligheter som ungdomar i staden, där alla får samma chans att utvecklas, och där fotbollen går att utöva genom hela livet: som spelare, ledare, domare eller supporter, från första boll till sista vissla.
-
-
-
-<sub>**Mission**</sub>
-
-## **Vi stärker föreningsliv och människors möjlighet att växa genom fotboll.**
-
-Vi är till för föreningarna. För spelarna, ledarna och domarna, med rötter i gräsroten och blicken mot framtiden.
-
-
-
-<sub>**Verksamhetsidé**</sub>
-
-## **Smålands Fotbollförbund är en sammanhållande kraft för fotbollen i Småland, ett nav för stöd, samverkan och utveckling.**
+{% include "https://app.gitbook.com/s/tDLjtUhYJqG5cjWfxJyI/~/reusable/oRqiVr69dFC1Jnki5ALr/" %}

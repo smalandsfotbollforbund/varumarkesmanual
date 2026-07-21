@@ -4,7 +4,7 @@ description: >-
   mottagaren och konsekvent bevara de olika varumärkena.
 ---
 
-# Namnbruk och samprofilering
+# Namnbruk och överlappning
 
 <details open>
 
@@ -52,7 +52,7 @@ Som strikt undantag är det, av varumärkesägaren, godkänt att använda smalan
 
 ### Två lägen styr all kommunikation
 
-Varumärket är strikt distriktets eget. Kopplingen till Svenska Fotbollförbundet och RF-SISU Småland är infrastruktur, aldrig identitet. Allt som hämtas från förbundet behåller sitt namn eller ges ett namn med tydlig nationell koppling, så att ursprunget alltid syns.
+Varumärket är strikt distriktets eget. Kopplingen till [Svenska Fotbollförbundet](https://www.svenskfotboll.se/) och [RF-SISU Småland](https://rfsisu.se/smaland) är infrastruktur, aldrig identitet. Allt som hämtas från förbundet[^1] behåller sitt namn eller ges ett namn med tydlig nationell koppling, så att ursprunget alltid syns.
 
 {% columns %}
 {% column %}
@@ -64,12 +64,16 @@ Varumärket är strikt distriktets eget. Kopplingen till Svenska Fotbollförbund
 {% column %}
 #### Förbundsläget
 
-[Förbundets](namnbruk-och-samprofilering.md#forbundet) plattformar, till exempel hemsidan, där förbundets riktlinjer styr och distriktets färgpalett inte kan användas på plattformsstyrda ytor. [Sverigeblå](../visuell-identitet/farg.md#kopplingsfarg-anvands-aldrig-i-distriktslaget) reserveras för förbundskopplat material.
+[Förbundets](namnbruk-och-overlappning.md#forbundet) plattformar, till exempel hemsidan, där förbundets riktlinjer styr och distriktets färgpalett inte kan användas på plattformsstyrda ytor. [Sverigeblå](../visuell-identitet/farg.md#kopplingsfarg-anvands-aldrig-i-distriktslaget) reserveras för förbundskopplat material.
 {% endcolumn %}
 {% endcolumns %}
 
 #### Delad infrastruktur mellan lägena
 
-Det typografiska systemet som innehåller teckensnittet SvFF Trim och Stag Sans med Calibri som fallbacklösning i Microsoft Office-miljö delar distriktsläget med förbundsläget. Detta styrs av förbundets typografiska riktlinjer.
+Det [typografiska systemet](../visuell-identitet/typografi.md) som innehåller teckensnittet SvFF Trim och Stag Sans med Calibri som fallbacklösning i [Microsoft Office](#user-content-fn-2)[^2]-miljö delar distriktsläget med förbundsläget. Detta styrs av förbundets typografiska riktlinjer.
 
 Anledningen härleds dels till att visa på det gemensamma, samhörigheten och kopplingen mellan de två lägena, samt av tekniska anledningar för t.ex. den digitala infrastrukturen som hemsidan.
+
+[^1]: Svenska Fotbollförbundet
+
+[^2]: ex. webbaserat Outlook, SharePoint (ej lokalt installerade applikationer)

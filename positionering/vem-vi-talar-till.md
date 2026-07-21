@@ -2,7 +2,7 @@
 description: Mottagaren varierar med innehållet, men vid vägval finns en prioritering.
 ---
 
-# Vem vi talar till, alla ingår
+# Vem vi talar till
 
 {% stepper %}
 {% step %}
@@ -36,7 +36,7 @@ Familjerna vid sidlinjen, publiken, partners, kommuner, beslutsfattare. Glöms a
 {% endstep %}
 {% endstepper %}
 
-## Alla ingår, även de bästa
+## Alla ingår
 
 **Smålandsfotbollen rymmer allt: knattens första träning och seriefinalen, korplaget och proffsdrömmen, veteranen och talangen på väg ut i världen.**&#x20;
 

@@ -21,7 +21,7 @@ Distriktets kanaler är hemsidan, nyhetsbrevet, Facebook, Instagram, X, YouTube,
 * **X** är realtiden. Resultat, besked, snabba nyheter. Kort och exakt, sakligt med glimten i ögat när det passar.
 * **YouTube** är långformatet. Berättelser som får ta tid: porträtt, utbildningsinnehåll, dokumentärt material från Smålandsfotbollen.
 * **LinkedIn** är samhällsrollen. Ledarskap, utbildning, samverkan med kommuner och partners. Professionell men personlig, aldrig kall.
-* **Min Fotboll** är det matchnära. Serier, resultat och matchhändelser bor här. Distriktet hänvisar dit för allt tabellnära, i stället för att återberätta det.
+* **Min Fotboll** är det matchnära. Serier, resultat och matchhändelser bor här. Distriktet hänvisar dit för allt tabellnära, i stället för att återberätta det. Inlägg från distriktet agerar som notifikationer för nyheter och publiceringar på hemsidan.
 
 ### Taggning i stället för hashtaggar
 
