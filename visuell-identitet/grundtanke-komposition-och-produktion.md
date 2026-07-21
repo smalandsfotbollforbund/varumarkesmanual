@@ -12,10 +12,6 @@ Sparsamheten, smålänningens mest kända dygd, är inte en ton utan en designpr
 
 <figure><img src="../.gitbook/assets/stenmurslinje.svg" alt=""><figcaption></figcaption></figure>
 
-## Komposition för grafik
-
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h4><strong>Raster</strong></h4></td><td>12 kolumner digitalt, 6 kolumner i tryck. <a href="grafiska-element.md#id-2.-planlinjen">Planlinjen</a> som osynlig struktur.</td></tr><tr><td><h4><strong>Rubriker</strong></h4></td><td>Stora, tunga, versala i <a href="typografi.md">SvFF Trim</a>. Generös luft runt, trångt inom.</td></tr><tr><td><h4><strong>Mobilskärm först</strong></h4></td><td>All digital produktion ska primärt fungera i mobil.</td></tr><tr><td><h4><strong>En uppgift per yta</strong></h4></td><td>Om det känns trångt, ta bort något.</td></tr><tr><td><h4><strong>Undvik märket i inläggsgrafik</strong></h4></td><td>Om det absolut behövs ett <a href="market.md">märke</a> hänvisas nedre höger hörn. Ingen text i mobilens gränssnittszoner.</td></tr></tbody></table>
-
 {% hint style="info" icon="flask-vial" %}
 ## **Använd frågeställningarna som vägledning innan publicering**
 
@@ -26,7 +22,11 @@ Före varje produktion ställer du dig de tre frågorna (även kallat "bondetest
 3. Skulle vilken lagledare som helst i Småland förstå det?
 {% endhint %}
 
-## Tumregler sammanfattade
+## Komposition för grafik
+
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h4><strong>Raster</strong></h4></td><td>12 kolumner digitalt, 6 kolumner i tryck. <a href="grafiska-element.md#id-2.-planlinjen">Planlinjen</a> som osynlig struktur.</td></tr><tr><td><h4><strong>Rubriker</strong></h4></td><td>Stora, tunga, versala i <a href="typografi.md">SvFF Trim</a>. Generös luft runt, trångt inom.</td></tr><tr><td><h4><strong>Mobilskärm först</strong></h4></td><td>All digital produktion ska primärt fungera i mobil.</td></tr><tr><td><h4><strong>En uppgift per yta</strong></h4></td><td>Om det känns trångt, ta bort något.</td></tr><tr><td><h4><strong>Undvik märket i inläggsgrafik</strong></h4></td><td>Om det absolut behövs ett <a href="market.md">märke</a> hänvisas nedre höger hörn. Ingen text i mobilens gränssnittszoner.</td></tr></tbody></table>
+
+## Tumregler
 
 {% columns %}
 {% column %}

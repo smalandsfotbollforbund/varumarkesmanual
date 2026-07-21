@@ -1,18 +1,31 @@
 ---
 description: >-
-  Emblemet, lejonet och profillejonet med en beslutstabell om när vilket
-  används.
+  Två symboler, ett varumärke. Emblemet ändras aldrig. Det som styrs är när
+  emblemet är hjälten och när lejonet är hjälten. Färre varianter ger skarpare
+  identitet. Sparsamhet gäller även här.
 ---
 
 # Märket
 
-## Märket
+{% columns %}
+{% column valign="middle" %}
+![Cirkelemblemet i Smålandsröd: yttre ring, inre ring och lejonet med armborstet, med hela distriktsnamnet.](https://1772278110-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAQUIlpkQmEm8Zp9mMG5A%2Fuploads%2FK4i3igoYzEf9p6cxJnBK%2Femblem-primar.svg?alt=media\&token=f9f7f4b9-6fd8-4d37-bc1b-50306847e5a1)
 
-Två symboler, ett varumärke. Emblemet ändras aldrig. Det som styrs är när emblemet är hjälten och när lejonet är hjälten. Färre varianter ger skarpare identitet. Sparsamhet gäller även här.
 
-![Cirkelemblemet i Smålandsröd: yttre ring, inre ring och lejonet med armborstet, med texten Sedan 1911](https://1772278110-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAQUIlpkQmEm8Zp9mMG5A%2Fuploads%2FK4i3igoYzEf9p6cxJnBK%2Femblem-primar.svg?alt=media\&token=f9f7f4b9-6fd8-4d37-bc1b-50306847e5a1)
+{% endcolumn %}
 
-![Lejonet med armborstet i Smålandsröd, fristående utan ringar](https://1772278110-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAQUIlpkQmEm8Zp9mMG5A%2Fuploads%2FpoEBo0lLD5AwcBxqUYGr%2Flejon-rod.svg?alt=media\&token=bf7a901e-9303-443f-8d26-8239603eaf97)
+{% column valign="middle" %}
+![Lejonet med armborstet i smålandsröd, fristående utan ringar. Symbolen för landskapet.](https://1772278110-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAQUIlpkQmEm8Zp9mMG5A%2Fuploads%2FpoEBo0lLD5AwcBxqUYGr%2Flejon-rod.svg?alt=media\&token=bf7a901e-9303-443f-8d26-8239603eaf97)
+
+
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Emblemet</td><td>Cirkelemblemet (med yttre ring, inre ring, lejonet med armborstet, aldrig separerade) är institutionen.</td><td>Officiella dokument, skyltar, banderoller, presentationer, samprofilering.</td></tr><tr><td>Profillejonet</td><td>Lejonet med "SMÅLANDS FOTBOLLFÖRBUND" under är specialvarianten för fysiska föremål: brodyr, gravyr, prägling.</td><td>Aldrig digitalt eller i tryck. Ska användas väldigt restriktivt.</td></tr><tr><td>Lejonet</td><td>Heraldiska symbolen är rörelsen, det digitala primärmärket. Lejonet med armborstet är Smålands landskapsvapen. Det tillhör hela landskapet, inte oss, och bärs alltid med den värdigheten.</td><td>Sociala medier, favicon, app-ikon, sändningsgrafik.</td></tr></tbody></table>
+
+
 
 * **Emblemet** (cirkelemblem: yttre ring, inre ring, lejonet med armborstet, aldrig separerade) är institutionen. Officiella dokument, skyltar, banderoller, presentationer, samprofilering. Bär "Sedan 1911".
 * **Lejonet** (ensamt) är rörelsen, det digitala primärmärket. Sociala medier, favicon, app-ikon, sändningsgrafik. Lejonet med armborstet är Smålands landskapsvapen. Det tillhör hela landskapet, inte oss, och bärs alltid med den värdigheten.

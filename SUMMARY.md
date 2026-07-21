@@ -18,8 +18,6 @@
   * [Märket](visuell-identitet/market.md)
   * [Grafiska element](visuell-identitet/grafiska-element.md)
   * [Bildspråk](visuell-identitet/bildsprak.md)
-  * [Komposition](visuell-identitet/komposition.md)
-  * [Gör alltid och gör aldrig](visuell-identitet/gor-alltid-och-gor-aldrig.md)
 * [Berättelsen](berattelsen/README.md)
   * [Ursprunget](berattelsen/ursprunget.md)
   * [Förflyttningen](berattelsen/forflyttningen.md)

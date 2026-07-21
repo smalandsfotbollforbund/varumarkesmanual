@@ -45,5 +45,5 @@ Den visuella identiteten byggs som smålänningen bygger en stenmur: av det som 
 | [Märket](market.md)                                                     | Emblemet, lejonet och profillejonet. Beslutstabellen.    |
 | [Grafiska element](grafiska-element.md)                                 | Stenmurslinjen, planlinjen och de andra verktygen.       |
 | [Bildspråk](bildsprak.md)                                               | Vad kameran söker och hur bilden görs.                   |
-| [Komposition](komposition.md)                                           | Raster, rubrikblock och mobilskärm först.                |
-| [Gör alltid och gör aldrig](gor-alltid-och-gor-aldrig.md)               | Snabbreferensen.                                         |
+| [Komposition](/broken/pages/2xu7tnCUH86AdBECfNs5)                       | Raster, rubrikblock och mobilskärm först.                |
+| [Gör alltid och gör aldrig](/broken/pages/lbApNmwYhytLxCstBm1H)         | Snabbreferensen.                                         |
