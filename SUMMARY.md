@@ -12,7 +12,7 @@
   * [Ordbruk](rost/ordbruk.md)
   * [Kanalerna](rost/kanalerna.md)
 * [Visuell identitet](visuell-identitet/README.md)
-  * [Grundtanken, kompositionen och produktionen](visuell-identitet/grundtanken-kompositionen-och-produktionen.md)
+  * [Grundtanke, komposition och produktion](visuell-identitet/grundtanke-komposition-och-produktion.md)
   * [Färg](visuell-identitet/farg.md)
   * [Typografi](visuell-identitet/typografi.md)
   * [Märket](visuell-identitet/market.md)

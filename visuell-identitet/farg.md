@@ -17,15 +17,15 @@ Används sparsamt och kontrollerat.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><strong>Matchgul</strong></h4></td><td><sup><strong>Accent.</strong> Siffror, etiketter.</sup></td><td><code>#FECB00</code></td><td><code>R254 G203 B0</code></td><td><code>C0 M20 Y100 K0</code></td><td><a href="../.gitbook/assets/bakgrund-matchgul.svg">bakgrund-matchgul.svg</a></td></tr><tr><td><h4><strong>Ängsgrön</strong></h4></td><td><sup><strong>Stöd.</strong> Ungdomlighet och insikt.</sup></td><td><code>#99C1A2</code></td><td><code>R153 G193 B162</code></td><td><code>C21 M0 Y16 K24</code></td><td><a href="../.gitbook/assets/bakgrund-angsgron.svg">bakgrund-angsgron.svg</a></td></tr><tr><td><h4><strong>Stenmursgrå</strong></h4></td><td><sup><strong>Neutral.</strong> Bildtexter, detaljer.</sup></td><td><code>#888884</code></td><td><code>R136 G136 B132</code></td><td><code>C0 M0 Y3 K47</code></td><td><a href="../.gitbook/assets/bakgrund-stenmursgra.svg">bakgrund-stenmursgra.svg</a></td></tr><tr><td><h4><strong>Kritlinje</strong></h4></td><td><sup><strong>Block.</strong> Planlinjer, raster.</sup></td><td><code>#F2F2F2</code></td><td><code>R242 G242 B242</code></td><td><code>C0 M0 Y0 K5</code></td><td><a href="../.gitbook/assets/bakgrund-kritlinje.svg">bakgrund-kritlinje.svg</a></td></tr></tbody></table>
 
-#### Kopplingsfärg, används aldrig i distriktsläget
+## Kopplingsfärg
 
-| Färg           | Hex     | Roll                                                                                                                           |
-| -------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Sverigeblå** | #005293 | Förbundets primärfärg. Endast i förbundskopplat material och på förbundets plattformar. Blått är förbundet, aldrig distriktet. |
+Färgerna används av förbundet och används aldrig i distriktsläget. De finns för att balansera den kompletta färgpaletten och skapa enighet.
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><strong>Sverige-blå</strong></h4></td><td><code>#005293</code></td><td><code>R0 G82 B147</code></td><td><code>C100 M54 Y4 K19</code></td><td>Förbundets primärfärg. Endast i förbundskopplat material och på förbundets plattformar. Blått är förbundet, aldrig distriktet.</td><td><a href="../.gitbook/assets/bakgrund-sverige-bla.svg">bakgrund-sverige-bla.svg</a></td></tr><tr><td><h4><strong>Sverige-gul</strong></h4></td><td></td><td><em>Se matchgul i</em> <a href="farg.md#accentpaletten"><em>accentfärg</em></a><em>.</em></td><td></td><td>Förbundets accentfärg. Samma gula färg som distriktet använder från landskapsvapnet för Småland.</td><td><a href="../.gitbook/assets/bakgrund-matchgul.svg">bakgrund-matchgul.svg</a></td></tr></tbody></table>
 
 Vid samprofilering med det nationella är Matchgul bryggan: rött är distriktet, blått är förbundet, gult är det vi delar. Alltid kopplingsroll, aldrig primärfärg.
 
-#### Sparsamhetsregeln, vardagsbalansen
+## Sparsamhetsregeln, vardagsbalansen
 
 ![Proportionsstapel som visar 50 procent neutral, 25 procent röd, 15 procent grön, 7 procent svart och 3 procent gul](https://1772278110-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FAQUIlpkQmEm8Zp9mMG5A%2Fuploads%2FoTw0BEI14c6ishDhrUB8%2Ffargproportioner.svg?alt=media\&token=5b2f8d9a-2e9e-4b02-a021-f44deb4a7292)
 
