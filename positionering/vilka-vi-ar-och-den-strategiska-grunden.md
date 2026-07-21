@@ -1,7 +1,7 @@
 ---
 description: Vad är Smålands Fotbollförbund och vad definierar oss?
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
@@ -9,7 +9,7 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: true
   metadata:
