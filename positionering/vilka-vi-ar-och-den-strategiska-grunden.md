@@ -18,7 +18,11 @@ Varumärkets karaktär är smålänningens: en människa som kan hålla ett års
 
 ## Strategisk grund
 
-Vision, mission och verksamhetsidé. Positioneringen vilar på distriktets fastställda strategi.
+Vision, mission och verksamhetsidé. Positioneringen vilar på distriktets fastställda [strategi](https://app.gitbook.com/s/tDLjtUhYJqG5cjWfxJyI/strategi).
+
+<a href="https://app.gitbook.com/s/tDLjtUhYJqG5cjWfxJyI/strategi/grund#visionen" class="button secondary">Läs vår vision</a><a href="https://app.gitbook.com/s/tDLjtUhYJqG5cjWfxJyI/strategi/grund#visionen" class="button secondary">Visionen</a><a href="https://app.gitbook.com/s/tDLjtUhYJqG5cjWfxJyI/strategi/grund#visionen" class="button secondary">Visionen</a>
+
+
 
 <sub>**Vision**</sub>
 
