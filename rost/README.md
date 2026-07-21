@@ -4,7 +4,7 @@ description: >-
   och intervjuer i regnet. Det som varierar per kanal är tempo och längd, aldrig
   karaktären.
 icon: head-side-speak
-cover: ../.gitbook/assets/bakgrund-kritvit.svg
+cover: ../.gitbook/assets/bakgrund-kritlinje.svg
 coverY: 0
 layout:
   width: default

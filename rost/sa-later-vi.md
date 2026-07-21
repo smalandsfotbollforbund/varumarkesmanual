@@ -8,7 +8,7 @@ description: >-
 
 **Smålands Fotbollförbund låter som en smålänning som vet vad som behöver göras, men som aldrig gör sig märkvärdig. Rak. Varm. Småländsk. Vi pratar sparsamt men säger det vi menar. Vi pratar om kaffetermosar och kritlinjer, om pelargoner och träningsskor, aldrig om abstraktioner som svävar ovanför marken. Det ordnar sig inte av sig självt i Småland. Någon ordnar det. Så låter också vår röst: som den personen.**
 
-**En smålänning använder aldrig komplicerade ord. Vi är enkla, och därför är språket enkelt. Glimten i ögat är tillåten, men charmen går aldrig ut över tydligheten.**
+En smålänning använder aldrig komplicerade ord. Vi är enkla, och därför är språket enkelt. Glimten i ögat är tillåten, men charmen går aldrig ut över tydligheten.
 
 <figure><img src="../.gitbook/assets/stenmurslinje.svg" alt=""><figcaption></figcaption></figure>
 

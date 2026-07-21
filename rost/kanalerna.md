@@ -17,7 +17,11 @@ Hashtaggar används inte. I stället taggas konton: föreningen det handlar om, 
 
 ## Hemsidan
 
-Hemsidan är navet. All information börjar och landar här. Fullständiga nyheter, alltid det viktigaste först. Bilder i 16:9, helst 1696 gånger 954 pixlar.
+Hemsidan är navet. All information börjar och landar här. Fullständiga nyheter, alltid det viktigaste först. Länkar mellan innehåll för att besökaren lätt ska kunna navigera.
+
+Bilder i 16:9, helst 1696 gånger 954 pixlar. Bilder ska aldrig innehålla rubriker eller texter, undantagsfall kan det göras vid porträtt eller SEO-bilder.
+
+Allt innehåll ska SEO-anpassas och innehålla meta-data för att få genomslagskraft vid sökningar både på sidan internt och vid sökningar på ex. Google.
 
 ## Nyhetsbrevet
 
